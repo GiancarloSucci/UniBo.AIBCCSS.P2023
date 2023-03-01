@@ -1,0 +1,377 @@
+ \documentclass{beamer}
+%
+% Choose how your presentation looks.
+% For more themes, color themes and font themes, see:
+% http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
+%
+\mode<presentation>
+{
+  \usetheme{Madrid}      % or try Darmstadt, Madrid, Warsaw, ...
+  \usecolortheme{seahorse} % or try albatross, beaver, crane, ...
+  \usefonttheme{serif}  % or try serif, structurebold, ...
+  \setbeamertemplate{navigation symbols}{}
+  \setbeamertemplate{caption}[numbered]
+  \setbeamertemplate{itemize/enumerate body begin}{\large}
+\setbeamertemplate{itemize/enumerate subbody begin}{\large}
+\setbeamertemplate{itemize/enumerate subsubbody begin}{\large}
+
+  \usepackage{amsmath}
+  \usepackage{tcolorbox}
+  \usepackage[export]{adjustbox}
+  \tcbuselibrary{most}
+  \usepackage{arydshln}
+  \usepackage{tikz}
+  \usetikzlibrary{plotmarks}
+  \usepackage{pgfplots}
+ %\usepackage{enumitem}
+%\usepackage{enumerate}
+  %\usepackage[shortlabels]{enumitem}
+} 
+
+
+\definecolor{myblue}{RGB}{65,105,225} 
+\definecolor{myorange}{RGB}{250,190,0}
+
+\setbeamercolor{structure}{fg=white,bg=myorange}
+\setbeamercolor*{palette primary}{fg=myblue,bg=myorange}
+\setbeamercolor*{palette secondary}{fg=white,bg=myblue}
+\setbeamercolor*{palette tertiary}{bg=myblue,fg=white}
+\setbeamercolor*{palette quaternary}{fg=white,bg=myorange!50}
+
+\setbeamercolor{frametitle}{fg=black!90!myblue}
+
+\setbeamercolor{section in head/foot}{fg=white,bg=myblue}
+\setbeamercolor{author in head/foot}{fg=black,bg=myorange}
+\setbeamercolor{title in head/foot}{fg=white,bg=myblue}
+
+\setbeamertemplate{navigation symbols}{}
+
+\setbeamertemplate{itemize/enumerate body begin}{\large}
+\setbeamertemplate{itemize/enumerate subbody begin}{\large}
+
+
+\defbeamertemplate*{headline}{mytheme}
+{%
+  \begin{beamercolorbox}[ht=2.25ex,dp=3.75ex]{section in head/foot}
+    \insertnavigation{\paperwidth}
+  \end{beamercolorbox}%
+}%
+
+\defbeamertemplate*{footline}{mytheme}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,right]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor\hspace*{2em}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,left]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\hspace*{2em}\insertshortsubtitle\hspace*{2em}
+    \insertframenumber{} / \inserttotalframenumber
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+\usepackage[english]{babel}
+%\usepackage[utf8x]{inputenc}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{pgf}  
+\usepackage{textpos}
+\usepackage{tabulary}
+\usepackage{scrextend}
+\usepackage{hyperref}
+\usepackage{setspace}
+\usepackage{rotating}
+\lstset
+{
+    language=[LaTeX]TeX,
+    breaklines=true,
+    basicstyle=\tt\scriptsize,
+    %commentstyle=\color{green}
+    keywordstyle=\color{blue},
+    %stringstyle=\color{black}
+    identifierstyle=\color{magenta},
+}
+\newcommand{\bftt}[1]{\textbf{\texttt{#1}}}
+%\newcommand{\comment}[1]{{\color[HTML]{008080}\textit{\textbf{\texttt{#1}}}}}
+\newcommand{\cmd}[1]{{\color[HTML]{008000}\bftt{#1}}}
+\newcommand{\bs}{\char`\\}
+\newcommand{\cmdbs}[1]{\cmd{\bs#1}}
+\newcommand{\lcb}{\char '173}
+\newcommand{\rcb}{\char '175}
+\newcommand{\cmdbegin}[1]{\cmdbs{begin\lcb}\bftt{#1}\cmd{\rcb}}
+\newcommand{\cmdend}[1]{\cmdbs{end\lcb}\bftt{#1}\cmd{\rcb}}
+
+\newcommand{\wllogo}{\textbf{Overleaf}}
+
+% this is where the example source files are loaded from
+% do not include a trailing slash
+\newcommand{\fileuri}{https://raw.githubusercontent.com/GiancarloSucci/UniBo.IDSEPC.A2022/main/A2022.IDSEPCLaTeX/}
+
+
+\usepackage{stackengine}
+\def\Ruble{\stackengine{.67ex}{%
+  \stackengine{.48ex}{\textsf{P}}{\rule{.8ex}{.12ex}\kern.6ex}{O}{r}{F}{F}{L}%
+  }{\rule{.8ex}{.12ex}\kern.6ex}{O}{r}{F}{F}{L}\kern-.1ex}
+
+
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+\title[L04]{Artificial Intelligence, Blockchain, e Criptovalute nello Sviluppo Software \newline\newline
+Lezione 5: Cognitive Models in Software Development -- acquisition, retention, and use of information} % The short title appears at the bottom of every slide, the full title is only on the title page
+
+\author[{\tiny Giancarlo Succi }]{Giancarlo Succi\\\\ Dipartimento di Informatica -- Scienza e Ingegneria\\Universit\`{a} di Bologna\\
+\bftt{g.succi@unibo.it}
+} % Your name
+\institute[unibo] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+
+
+\date{} % Date, can be changed to a custom date
+
+\setbeamertemplate{navigation symbols}{}
+\AtBeginSection[]
+{
+        \begin{frame}<beamer>{Outline}
+                \tableofcontents[currentsection]
+        \end{frame}
+}
+\begin{document}
+\begin{frame}
+\titlepage % Print the title page as the first slide
+
+\end{frame}
+
+%=============================================
+
+\addtobeamertemplate{frametitle}{}{%
+\begin{textblock*}{10mm}(-0.01mm,-0.95cm)
+\includegraphics[width=0.9cm]{unibo-logo.png}
+\end{textblock*}}
+
+%=============================================
+
+\begin{frame}
+{\centerline{Structure of the lecture}}
+\begin{itemize}
+    \item The concept of cognition
+    \item Early model
+    \item Impulsive / Reflective model
+    \item Implications for software production
+\end{itemize} 
+\end{frame}
+
+\begin{frame}
+{\centerline{Cognition}}
+\begin{itemize}
+    \item Our goal in this lecture is to present some paradigms discussing:
+    \begin{itemize}
+        \item how information is acquired and stored
+        \item how such information is then used to make decisions
+    \end{itemize}
+    \item In this context we review existing models of knowledge throughout their historical evolution
+\end{itemize} 
+\end{frame}
+
+
+\begin{frame}
+{\centerline{Using knowledge}}
+\begin{itemize}
+    \item We now review a series of models of know the knowledge is used to performs actions
+    \item We focus on
+    \begin{itemize}
+        \item attribution theory and the na\"{i}ve scientist
+        \item the cognitive miser 
+        \item the motivated tactician
+    \end{itemize}
+    \item historical evolution
+\end{itemize} 
+\end{frame}
+
+\begin{frame}
+{\centerline{Attribution theory (1/2)}}
+\begin{itemize}
+    \item How do individuals attribute properties to entities they perceive?
+    \item How do individuals attribute causes for what happens around them?
+    \item Attribution bias/error
+    \item Locus of causality
+    \begin{itemize}
+    \item Internal attribution
+    \begin{itemize}
+    \item attribution of the cause to self
+    \end{itemize}
+    \item External attribution
+    \begin{itemize}
+    \item attribution of the cause to the environment
+    \end{itemize}
+    \end{itemize} 
+\end{itemize} 
+
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Attribution_(psychology)}\\
+    Heider, F (1944). ``Social perception and phenomenal causality.'' Psychological Review. 51 (6): 358–374.}
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Attribution theory (2/2)}}
+\begin{itemize}
+    \item Typical biases:
+    \begin{itemize}
+    \item internal attribution:
+    \begin{itemize}
+        \item positive own situations 
+        \item negative situations of others
+    \end{itemize} 
+    \item external attribution
+    \begin{itemize}
+        \item negative own situations 
+        \item positive situations of others
+    \end{itemize} 
+    \end{itemize} 
+    \item Self-determination and feeling of autonomy
+\end{itemize} 
+
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Attribution_(psychology)}\\
+    Heider, F (1944). ``Social perception and phenomenal causality.'' Psychological Review. 51(6):358–374.}
+\end{center}
+\end{frame}
+
+
+
+\begin{frame}
+{\centerline{The Na\"{i}ve Scientist}}
+\begin{itemize}
+    \item Humans tries to provide a simple and rational explanation of all the details of the world around them
+    \item They use the information available to them that they try to compose like in a puzzle
+    \item When doing so they perform attributions
+\end{itemize} 
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Cognitive_miser}\\
+    Duane T. Wegener and Richard E. Petty (1998) ``The naive scientist revisited: Naive theories and social judgment'' Social Cognition. 16(1):1}
+\end{center}
+
+\end{frame}
+
+\begin{frame}
+{\centerline{Stereotypes}}
+\begin{itemize}
+    \item Humans are not always able to handle complexity
+    \item Understanding complexity requires effort
+    \item A stereotype is a reconstruction of the reality where complex details are simplified
+    \item Stereotypes are reinforced by looking a facts that from a simplistic perspective correspond to such stereotype
+    \item Stereotypes simplify the thinking process
+\end{itemize} 
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Cognitive_miser}}
+\end{center}
+
+\end{frame}
+
+\begin{frame}
+{\centerline{Heuristics}}
+\begin{itemize}
+    \item Heuristics are another approach to cope with complexity
+\end{itemize} 
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Cognitive_miser}\\
+    Kahneman, Daniel and Tversky, Amos (1973) ``On the psychology of prediction.'' Psychological Review. 80 (4): 237–251}
+\end{center}
+
+\end{frame}
+
+
+
+\begin{frame}
+{\centerline{The Cognitive Miser}}
+\begin{itemize}
+    \item Humans tries to provide a simple and rational explanation of all the details of the world around them
+    \item They use the information available to them that they try to compose like in a puzzle
+    \item When doing so they perform attributions
+\end{itemize} 
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Cognitive_miser}\\
+    Duane T. Wegener and Richard E. Petty (1998) ``The naive scientist revisited: Naive theories and social judgment'' Social Cognition. 16(1):1}
+\end{center}
+
+\end{frame}
+
+
+\begin{frame}
+{\centerline{AI?}}
+\begin{itemize}
+\item Modeling the human mind
+\item Emulating the human mind
+\begin{itemize}
+\item Vision
+\item Natural language processing
+\item Reasoning
+\item ...
+\end{itemize} 
+\item Computational intelligence
+\begin{itemize}
+\item \textit{Data science}
+\item Fuzzy models
+\item Machine learning
+\item Granular computing
+\item ...
+\end{itemize}
+\item Automated reasoning and formal models
+\end{itemize} 
+\end{frame}
+
+\begin{frame}
+{\centerline{AI? -- Our focus}}
+\begin{itemize}
+\item \textcolor{red}{Modeling the human mind}
+\item Emulating the human mind
+\begin{itemize}
+\item Vision
+\item Natural language processing
+\item Reasoning
+\item ...
+\end{itemize} 
+\item Computational intelligence
+\begin{itemize}
+\item \textcolor{red}{\textit{Data science}}
+\item Fuzzy models
+\item \textcolor{red}{Machine learning}
+\item Granular computing
+\item ...
+\end{itemize}
+\item Automated reasoning and formal models
+\end{itemize} 
+\end{frame}
+
+
+\begin{frame}
+{\centerline{Modeling the human mind}}
+\begin{itemize}
+    \item Physiological analysis
+    \begin{itemize}
+    \item Analysis of physiological signals
+    \item Contextual analysis of situations
+        \begin{itemize}
+        \item Pair programming
+        \item Standup meetings
+        \end{itemize} 
+    \end{itemize} 
+    \item Psychological analysis
+    \begin{itemize}
+    \item Systemic thinking
+    \item Distributed cognition/extended mind
+    \item Dual model
+    \end{itemize} 
+    \item Analysis by analogy with other disciplines 
+     \begin{itemize}
+     \item Storytelling
+    \item Painting
+    \item Dancing
+    \end{itemize}    
+\end{itemize} 
+\end{frame}
+
+
+\end{document}

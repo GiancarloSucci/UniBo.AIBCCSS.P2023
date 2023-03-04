@@ -138,6 +138,7 @@ Lezione 5: Cognitive Models in Software Development -- acquisition, retention, a
         \end{frame}
 }
 \begin{document}
+
 \begin{frame}
 \titlepage % Print the title page as the first slide
 
@@ -151,6 +152,7 @@ Lezione 5: Cognitive Models in Software Development -- acquisition, retention, a
 \end{textblock*}}
 
 %=============================================
+
 
 \begin{frame}
 {\centerline{Structure of the lecture}}
@@ -180,6 +182,19 @@ Lezione 5: Cognitive Models in Software Development -- acquisition, retention, a
 \end{itemize} 
 \end{frame}
 
+\begin{frame}
+{\centerline{Storing information}}
+\begin{itemize}
+    \item There have been proposals to divide the storage of information in the human brain in two parts:
+    \begin{itemize}
+        \item short term memory
+        \item long term memory
+    \end{itemize}
+    \item In this context we review existing models of knowledge throughout their historical evolution
+\end{itemize} 
+\end{frame}
+
+
 
 \begin{frame}
 {\centerline{Using knowledge}}
@@ -191,7 +206,7 @@ Lezione 5: Cognitive Models in Software Development -- acquisition, retention, a
         \item the cognitive miser 
         \item the motivated tactician
     \end{itemize}
-    \item historical evolution
+    \item considering a historical evolution
 \end{itemize} 
 \end{frame}
 
@@ -275,9 +290,16 @@ Lezione 5: Cognitive Models in Software Development -- acquisition, retention, a
 \end{frame}
 
 \begin{frame}
-{\centerline{Heuristics}}
+{\centerline{Heuristics (1/4)}}
 \begin{itemize}
     \item Heuristics are another approach to cope with complexity
+    \item We can define them as:
+    \begin{itemize}
+        \item a fast answer to 
+        \item a problem requiring for its full solution a \textcolor{cyan}{complex} procedure
+        \item answer that might be \textcolor{red}{occasionally \textbf{wrong}}
+   \end{itemize} 
+   \item People rely in heuristics to save time and effort
 \end{itemize} 
 \begin{center}
     \tiny{Taken from \url{https://en.wikipedia.org/wiki/Cognitive_miser}\\
@@ -289,18 +311,109 @@ Lezione 5: Cognitive Models in Software Development -- acquisition, retention, a
 
 
 \begin{frame}
-{\centerline{The Cognitive Miser}}
+{\centerline{Heuristics (2/4)}}
+
 \begin{itemize}
-    \item Humans tries to provide a simple and rational explanation of all the details of the world around them
-    \item They use the information available to them that they try to compose like in a puzzle
-    \item When doing so they perform attributions
+    \item There are multiple kinds of heuristics:
+    \begin{itemize}
+        \item \textcolor{red}{representativeness} heuristics:
+             \begin{itemize}
+                       \item people tend to generalize distributions ignoring the real rules of statistics.
+             \end{itemize} 
+         \end{itemize} 
 \end{itemize} 
+
+       \begin{quote}
+ \scriptsize
+ A cab was involved in a hit and run accident at night. Two cab companies, the Green and the Blue, operate in the city. 85\% of the cabs in the city are Green and 15\% are Blue.  A witness identified the cab as Blue. The court tested the reliability of the witness under the same circumstances that existed on the night of the accident and concluded that the witness correctly identified each one of the two colours 80\% of the time and failed 20\% of the time. What is the probability that the cab involved in the accident was Blue rather than Green knowing that this witness identified it as Blue? 
+ 
+ {\normalfont \scriptsize (Tversky and Kahneman (1982) as quoted in wikipedia)}
+
+       \end{quote}
 \begin{center}
-    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Cognitive_miser}\\
-    Duane T. Wegener and Richard E. Petty (1998) ``The naive scientist revisited: Naive theories and social judgment'' Social Cognition. 16(1):1}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Representativeness_heuristic} \\
+  Gilovich, T., \& Savitsky, K. (2002). Like goes with like: The role of representativeness in erroneous and pseudo-scientific beliefs. In T. Gilovich, D. Griffin, \& D. Kahneman (Eds.), Heuristics and biases: The psychology of intuitive judgment (pp. 617–624). Cambridge University Press.\\
+  Tversky, A., \& Kahneman, D. (1982). Evidential impact of base rates. In D. Kahneman, P. Slovic, \& A. Tversky (Eds.), Judgment under Uncertainty: Heuristics and Biases. Cambridge University Press}
 \end{center}
 
 \end{frame}
+
+\begin{frame}
+{\centerline{Heuristics (3/4)}}
+\begin{itemize}
+    \item There are multiple kinds of heuristics:
+                 \begin{itemize}
+        \item \textcolor{red}{availability} heuristic:
+             \begin{itemize}
+                       \item ``if something can be recalled, it must be important'' (wikipedia)
+                       \item people build their beliefs on facts that come to their mind faster -- typically most recent facts
+                       \item people make assumption on distributions on entities, events, etc. based on the frequencies of items of them coming to their minds
+             \end{itemize} 
+   \end{itemize} 
+\end{itemize} 
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Availability_heuristic} \\
+    Kahneman, Daniel and Tversky, Amos (1973) ``On the psychology of prediction.'' Psychological Review. 80 (4): 237–251}
+\end{center}
+
+\end{frame}
+
+
+\begin{frame}
+{\centerline{Heuristics (4/4)}}
+\begin{itemize}
+    \item There are multiple kinds of heuristics:
+                 \begin{itemize}
+        \item \textcolor{red}{anchoring} or \textcolor{red}{adjustment} heuristic:
+             \begin{itemize}
+                       \item people based their opinion on a reference impression (the anchor) and then readjust it based on new information
+                       \item often the reference impression is the first impression (but sometimes also the last)
+                       \item can be effective in requirement negotiation
+             \end{itemize} 
+   \end{itemize} 
+\end{itemize} 
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)} \\Kahneman, Daniel and Tversky, Amos (1974) ``Judgment under Uncertainty: Heuristics and Biases.'' Science. 185 (4157): 1124-1131\\
+    Yasseri, T., Reher, J. (2022) ``Fooled by facts: quantifying anchoring bias through a large‐scale experiment.'' Journal of Computational Social Science. 5: 1001–1021}
+\end{center}
+
+\end{frame}
+
+
+
+\begin{frame}
+{\centerline{The Cognitive Miser}}
+\begin{itemize}
+    \item The theory of cognitive miser clusters observations and theories about how people reason on facts
+    \item It includes the concepts of stereotypes and heuristics
+    \item It is centered on the idea that people tend to be miser (scrooge) in using their cognitive resources when analysing facts and buidling knowledge
+    \item The essence is that people make decisions trying to minimize their effort
+\end{itemize} 
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Cognitive_miser}}
+\end{center}
+
+\end{frame}
+
+\begin{frame}
+{\centerline{The Motivated Tactician and the Meaning Seeker}}
+\begin{itemize}
+    \item We can perceive the na\"{i}ve scientist and the cognitive miser as two extremes of a continuous of positions on how the mind works
+   \item It has been also proposed that there are also people who may select which option to follow based on the context in which they are
+   \begin{itemize}
+   \item this gives raise to the concept of \textcolor{red}{\bf motivated tactician}
+   \end{itemize} 
+   \item there is also the proposal rooted on the concept of Kant categories that are used to represent knowledge as a kind of point in a space of multiple dimensions (the categories)
+   \begin{itemize}
+   \item the concept of the \textcolor{cyan}{\bf meaning seeker} consider people in the quest for a comprehensive understanding of the work
+\end{itemize} 
+\end{itemize} 
+\begin{center}
+    \tiny{Taken from \url{https://en.wikipedia.org/wiki/Cognitive_miser}}
+\end{center}
+
+\end{frame}
+
 
 
 \begin{frame}
@@ -323,57 +436,6 @@ Lezione 5: Cognitive Models in Software Development -- acquisition, retention, a
 \item ...
 \end{itemize}
 \item Automated reasoning and formal models
-\end{itemize} 
-\end{frame}
-
-\begin{frame}
-{\centerline{AI? -- Our focus}}
-\begin{itemize}
-\item \textcolor{red}{Modeling the human mind}
-\item Emulating the human mind
-\begin{itemize}
-\item Vision
-\item Natural language processing
-\item Reasoning
-\item ...
-\end{itemize} 
-\item Computational intelligence
-\begin{itemize}
-\item \textcolor{red}{\textit{Data science}}
-\item Fuzzy models
-\item \textcolor{red}{Machine learning}
-\item Granular computing
-\item ...
-\end{itemize}
-\item Automated reasoning and formal models
-\end{itemize} 
-\end{frame}
-
-
-\begin{frame}
-{\centerline{Modeling the human mind}}
-\begin{itemize}
-    \item Physiological analysis
-    \begin{itemize}
-    \item Analysis of physiological signals
-    \item Contextual analysis of situations
-        \begin{itemize}
-        \item Pair programming
-        \item Standup meetings
-        \end{itemize} 
-    \end{itemize} 
-    \item Psychological analysis
-    \begin{itemize}
-    \item Systemic thinking
-    \item Distributed cognition/extended mind
-    \item Dual model
-    \end{itemize} 
-    \item Analysis by analogy with other disciplines 
-     \begin{itemize}
-     \item Storytelling
-    \item Painting
-    \item Dancing
-    \end{itemize}    
 \end{itemize} 
 \end{frame}
 

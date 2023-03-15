@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  13 MAR 2023 22:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  15 MAR 2023 10:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2024,37 +2024,85 @@ Package pdftex.def Info: unibo-logo.png  used on input line 857.
 [35
 
 ]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 875--875
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 875.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[36
+
+]
+<P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/The_Sirens_and_
+Ulysses_by_William_Etty.jpg, id=318, 947.54pt x 634.37pt>
+File: P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/The_Sirens
+_and_Ulysses_by_William_Etty.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/The_Sirens_
+and_Ulysses_by_William_Etty.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemic
+Thinking/The_Sirens_and_Ulysses_by_William_Etty.jpg  used on input line 899.
+(pdftex.def)             Requested size: 170.71652pt x 114.28815pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 899--899
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 899.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+
+Overfull \vbox (1.01318pt too high) detected at line 899
+ []
+
+[37
+
+ <./P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/The_Sirens_a
+nd_Ulysses_by_William_Etty.jpg>]
 <P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/networkDistribu
-tedCognition.jpg, id=312, 1575.8875pt x 770.88pt>
+tedCognition.jpg, id=327, 1575.8875pt x 770.88pt>
 File: P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/networkDis
 tributedCognition.jpg Graphic file (type jpg)
 <use P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/networkDist
 ributedCognition.jpg>
 Package pdftex.def Info: P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemic
-Thinking/networkDistributedCognition.jpg  used on input line 871.
+Thinking/networkDistributedCognition.jpg  used on input line 914.
 (pdftex.def)             Requested size: 284.52756pt x 139.17587pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 871--871
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 914--914
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 871.
+Package pdftex.def Info: unibo-logo.png  used on input line 914.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[36
+[38
 
  <./P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/networkDistr
 ibutedCognition.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 881--881
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 934--934
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 881.
+Package pdftex.def Info: unibo-logo.png  used on input line 934.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[37
+[39
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 945--945
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 945.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[40
 
 ]
 \tf@nav=\write8
@@ -2077,11 +2125,11 @@ evelopment.DistributedCognition.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43397 strings out of 478994
- 1009042 string characters out of 5858184
+ 43425 strings out of 478994
+ 1009872 string characters out of 5858184
  1654435 words of memory out of 5000000
- 59922 multiletter control sequences out of 15000+600000
- 413048 words of font info for 64 fonts, out of 8000000 for 9000
+ 59943 multiletter control sequences out of 15000+600000
+ 415349 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,16n,132p,772b,679s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
@@ -2095,10 +2143,10 @@ l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local
 /texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/
 texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
 Output written on P2023.AIBCCSS.L06.CognitiveModelsInSoftwareDevelopment.Distri
-butedCognition.pdf (37 pages, 4346085 bytes).
+butedCognition.pdf (40 pages, 4456676 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 276 compressed objects within 3 object streams
- 75 named destinations out of 1000 (max. 500000)
- 280 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 400 PDF objects out of 1000 (max. 8388607)
+ 293 compressed objects within 3 object streams
+ 81 named destinations out of 1000 (max. 500000)
+ 285 words of extra memory for PDF output out of 10000 (max. 10000000)
 

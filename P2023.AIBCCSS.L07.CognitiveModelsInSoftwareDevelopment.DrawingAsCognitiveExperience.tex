@@ -1,0 +1,506 @@
+ \documentclass{beamer}
+%
+% Choose how your presentation looks.
+% For more themes, color themes and font themes, see:
+% http://deic.uab.es/~iblanes/beamer_gallery/index_by_theme.html
+%
+\mode<presentation>
+{
+  \usetheme{Madrid}      % or try Darmstadt, Madrid, Warsaw, ...
+  \usecolortheme{seahorse} % or try albatross, beaver, crane, ...
+  \usefonttheme{serif}  % or try serif, structurebold, ...
+  \setbeamertemplate{navigation symbols}{}
+  \setbeamertemplate{caption}[numbered]
+  \setbeamertemplate{itemize/enumerate body begin}{\large}
+\setbeamertemplate{itemize/enumerate subbody begin}{\large}
+\setbeamertemplate{itemize/enumerate subsubbody begin}{\large}
+
+  \usepackage{amsmath}
+  \usepackage{tcolorbox}
+  \usepackage[export]{adjustbox}
+  \tcbuselibrary{most}
+  \usepackage{arydshln}
+  \usepackage{tikz}
+  \usetikzlibrary{plotmarks}
+  \usepackage{pgfplots}
+  \usepackage{booktabs}
+ %\usepackage{enumitem}
+%\usepackage{enumerate}
+  %\usepackage[shortlabels]{enumitem}
+} 
+
+
+\definecolor{myblue}{RGB}{65,105,225} 
+\definecolor{myorange}{RGB}{250,190,0}
+
+\setbeamercolor{structure}{fg=white,bg=myorange}
+\setbeamercolor*{palette primary}{fg=myblue,bg=myorange}
+\setbeamercolor*{palette secondary}{fg=white,bg=myblue}
+\setbeamercolor*{palette tertiary}{bg=myblue,fg=white}
+\setbeamercolor*{palette quaternary}{fg=white,bg=myorange!50}
+
+\setbeamercolor{frametitle}{fg=black!90!myblue}
+
+\setbeamercolor{section in head/foot}{fg=white,bg=myblue}
+\setbeamercolor{author in head/foot}{fg=black,bg=myorange}
+\setbeamercolor{title in head/foot}{fg=white,bg=myblue}
+
+\setbeamertemplate{navigation symbols}{}
+
+\setbeamertemplate{itemize/enumerate body begin}{\large}
+\setbeamertemplate{itemize/enumerate subbody begin}{\large}
+
+
+\defbeamertemplate*{headline}{mytheme}
+{%
+  \begin{beamercolorbox}[ht=2.25ex,dp=3.75ex]{section in head/foot}
+    \insertnavigation{\paperwidth}
+  \end{beamercolorbox}%
+}%
+
+\defbeamertemplate*{footline}{mytheme}
+{
+  \leavevmode%
+  \hbox{%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,right]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor\hspace*{2em}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.5\paperwidth,ht=2.25ex,dp=1ex,left]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\hspace*{2em}\insertshortsubtitle\hspace*{2em}
+    \insertframenumber{} / \inserttotalframenumber
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+
+\usepackage[english]{babel}
+%\usepackage[utf8x]{inputenc}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{pgf}  
+\usepackage{textpos}
+\usepackage{tabulary}
+\usepackage{scrextend}
+\usepackage{hyperref}
+\usepackage{setspace}
+\usepackage{rotating}
+\lstset
+{
+    language=[LaTeX]TeX,
+    breaklines=true,
+    basicstyle=\tt\scriptsize,
+    %commentstyle=\color{green}
+    keywordstyle=\color{blue},
+    %stringstyle=\color{black}
+    identifierstyle=\color{magenta},
+}
+\newcommand{\bftt}[1]{\textbf{\texttt{#1}}}
+%\newcommand{\comment}[1]{{\color[HTML]{008080}\textit{\textbf{\texttt{#1}}}}}
+\newcommand{\cmd}[1]{{\color[HTML]{008000}\bftt{#1}}}
+\newcommand{\bs}{\char`\\}
+\newcommand{\cmdbs}[1]{\cmd{\bs#1}}
+\newcommand{\lcb}{\char '173}
+\newcommand{\rcb}{\char '175}
+\newcommand{\cmdbegin}[1]{\cmdbs{begin\lcb}\bftt{#1}\cmd{\rcb}}
+\newcommand{\cmdend}[1]{\cmdbs{end\lcb}\bftt{#1}\cmd{\rcb}}
+
+\newcommand{\wllogo}{\textbf{Overleaf}}
+
+% this is where the example source files are loaded from
+% do not include a trailing slash
+\newcommand{\fileuri}{https://raw.githubusercontent.com/GiancarloSucci/UniBo.IDSEPC.A2022/main/A2022.IDSEPCLaTeX/}
+
+
+\usepackage{stackengine}
+\def\Ruble{\stackengine{.67ex}{%
+  \stackengine{.48ex}{\textsf{P}}{\rule{.8ex}{.12ex}\kern.6ex}{O}{r}{F}{F}{L}%
+  }{\rule{.8ex}{.12ex}\kern.6ex}{O}{r}{F}{F}{L}\kern-.1ex}
+
+
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+\title[L07]{Artificial Intelligence, Blockchain, e Criptovalute nello Sviluppo Software \newline\newline
+Lezione 7: Drawing as a Cognitive Experience (for SW Development)} % The short title appears at the bottom of every slide, the full title is only on the title page
+
+\author[{\tiny Giancarlo Succi }]{Giancarlo Succi\\\\ Dipartimento di Informatica -- Scienza e Ingegneria\\Universit\`{a} di Bologna\\
+\bftt{g.succi@unibo.it}
+} % Your name
+\institute[unibo] % Your institution as it will appear on the bottom of every slide, may be shorthand to save space
+
+
+\date{} % Date, can be changed to a custom date
+
+\setbeamertemplate{navigation symbols}{}
+\AtBeginSection[]
+{
+        \begin{frame}<beamer>{Outline}
+                \tableofcontents[currentsection]
+        \end{frame}
+}
+\begin{document}
+
+\begin{frame}
+\titlepage % Print the title page as the first slide
+
+\end{frame}
+
+%=============================================
+
+\addtobeamertemplate{frametitle}{}{%
+\begin{textblock*}{10mm}(-0.01mm,-0.95cm)
+\includegraphics[width=0.9cm]{unibo-logo.png}
+\end{textblock*}}
+
+%=============================================
+
+
+\begin{frame}
+{\centerline{Structure of the lecture}}
+\begin{itemize}
+    \item Understanding ourselves and the others
+    \item Drawing
+    \item Mental states while drawing
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+{\centerline{Understanding ourselves and the others}}
+ 
+\begin{itemize}
+\item Software is centered in the mind
+\begin{itemize}
+\item The mind of developers, managers, customers, etc
+\end{itemize} 
+\item Indeed, it is therefore essential to understand the minds
+\begin{itemize}
+\item Ours and the one of the people around us
+\end{itemize} 
+\item We often resort to drawing to help structuring our thoughts
+\begin{itemize}
+\item And likewise do the people around us
+\end{itemize} 
+\item We now therefore turn our attention to understanding the role of drawing in developing software
+\item We will use one of the many approaches, focusing on the work of Freud, through the analysis of Gianluca Solla in the book ``Disegnare, la formula di Freud,'' published by Orthotes in 2022
+\end{itemize} 
+
+\end{frame}
+
+
+\begin{frame}
+{\centerline{A spot in a letter}}
+ 
+\begin{itemize}
+    \item Freud writing a letter to his girlfriend Martha in 1882:
+\end{itemize} 
+
+\begin{center}
+ \includegraphics[width=6cm]{P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png}
+ 
+ \end{center}
+ 
+\begin{itemize}
+    \item In an earlier mail: ``Give an artistic shape to the experience.''
+\end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022, page 7.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Interpreting}}
+ 
+\begin{itemize}
+    \item \textcolor{red}{Give} an \textcolor{blue}{artistic} \textcolor{orange}{shape} to the \textcolor{cyan}{experience} \newline
+\begin{itemize}
+    \item \textcolor{cyan}{\bf Experience}: the core, but alone remains meaningless and vanishes\newline
+    \item \textcolor{orange}{\bf Shape}: the interpretation of to the experience \newline
+    \item \textcolor{blue}{\bf Artistic}: the form and the technological ability underlying the creation of the shape\newline
+    \item \textcolor{red}{\bf Give}: we, as subjects, creating such artistic interpretation\newline
+\end{itemize} 
+\end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{The role of the spot}}
+ 
+\begin{itemize}
+    \item The random spot starts having a meaning
+    \item This is at the core of the problem: what is the process by which we give meaning to elements
+    \item The meaning may be the result of a a random, non linear, non consequential sequence of actions
+    \item The meaning of the spot may evolve in time -- just think at how it started
+    \item And our problem is how we integrate such meaning into the big picture
+\end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Drawing}}
+ 
+\begin{itemize}
+    \item Drawing is how we give meaning to spots
+    \item Drawing has two very important roles:
+ \begin{itemize}
+    \item  The resulting picture
+    \item The process of drawing, which is a way in which we perceive the reasoning behind
+ \begin{itemize}
+    \item  Drawing has a strong relevance as drawing beyond the resulting picture
+    \end{itemize} 
+\end{itemize} 
+ \end{itemize} 
+
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Kind of Drawings}}
+ 
+\begin{itemize}
+    \item Drawing to \textcolor{red}{schematize a concept}
+    \begin{itemize}
+    \item Simplifications of what is in the mind
+   \end{itemize}
+    \item Drawing to \textcolor{blue}{present an experience}
+    \begin{itemize}
+    \item Narration of what is in the mind
+   \end{itemize}
+   \item The two purposes are strictly interconnected and think at software:
+       \begin{itemize}
+           \item \textcolor{red}{Class diagrams}, schematizing a concept
+    	\item \textcolor{blue}{User stories}, presenting a experience
+   \end{itemize}
+   \item And in both cases, drawing is a way to objectify what is in the mind
+ \end{itemize} 
+
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Understanding the Drawings (1/2)}}
+ 
+\begin{itemize}
+   \item Drawings are starting point for an introspection in the (distributed) mind of the author(s)
+\begin{itemize}
+   \item They also present the reasoning process
+ \end{itemize} 
+      \item Drawings are bridges from the (past) history to the (future) desires or fears
+ \item As such, using our schema of tame vs. wicked processes,
+ \begin{itemize}
+   \item  drawing is the wicked process of the self-exploration of the mind
+  \begin{itemize}
+   \item while drawing we understand the drawing and refine it, stroke after stroke
+   \item the timing of drawing play a major role
+    \end{itemize} 
+      \end{itemize} 
+
+ \end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Understanding the Drawings (2/2)}}
+ 
+\begin{itemize}
+  \item and $\ldots{}$
+\begin{itemize}
+     \item understanding the drawing is a ``double wicked'' process of exploring such inner exploration and
+     \item its time evolution
+\end{itemize}
+ \item Using the words of Freud:
+ \begin{itemize}
+   \item Phantasieren, \"{U}bersetzen, Erraten 
+    \begin{itemize}
+   \item Fantasizing, translating, wandering, often (but not always) as when are schematizing a concept and then
+    \end{itemize} 
+   \item Speculieren, Theorisieren, Phantasieren
+   \begin{itemize}
+   	\item Thinking, theorizing, fantasizing, often (but not always) as when we are presenting a experience
+    \end{itemize} 
+ \end{itemize} 
+ \end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+
+
+\begin{frame}
+{\centerline{Phantasieren (fantasizing) (1/3)}}
+ 
+\begin{itemize}
+   \item Two roots from Latin:
+\begin{itemize}
+   \item \textcolor{red}{Fantasy}, imagination
+   \begin{itemize}
+   \item Referring to the creative act of the mind to think at entities, sometimes not yet existing in the reality
+    \end{itemize} 
+   \item \textcolor{blue}{Phantom}, ghost
+      \begin{itemize}
+   \item Referring to the ability of following the mind into their deep thoughts, reflections, spanning also to the subconcious
+    \end{itemize} 
+ \end{itemize} 
+  \end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+
+\begin{frame}
+{\centerline{Phantasieren (fantasizing) (2/3)}}
+ 
+\begin{itemize}
+ \item As already pointed out for the model of the dual mind, the researcher must go beyond the ``standard'' experimental practices
+       \begin{itemize}
+   \item For the model of the mind, we referred to the \textcolor{red}{ethnographic exploration}
+   \item In this case, our ``ethnography'' will refer to the mental exploration of the mind -- we could even say that the researcher or the software engineering is engaged in a \textcolor{red}{psychoanalytical exploration} of the mind
+       \end{itemize} 
+   \item This is not \textbf{anyhow} referred to any therapeutic initiative
+ \end{itemize} 
+ 
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Phantasieren (fantasizing) (3/3)}}
+ 
+\begin{itemize}
+   \item However, also from a purely technical perspective, \textcolor{red}{none would be able to understand} the requirements and the requests of colleagues, managers, employees, or customers   
+      \begin{itemize}
+             \item \textcolor{red}{unless there is deep exploration} and understanding of the \textcolor{orange}{\bf mind} in its fantasizing
+    \end{itemize} 
+ \item Something to keep well in mind:
+ \begin{itemize}
+ \item This is not:
+  \begin{itemize}
+  \item less rigorous
+  \item less technical
+  \item less difficult
+  \item less related to software engineering
+ \end{itemize} 
+   than writing a highly complex piece of C++ code for a new device driver
+ \end{itemize} 
+ \end{itemize} 
+ 
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Decoding the drawing (1/3)}}
+ 
+\begin{itemize}
+   \item Drawing defines a language to interpret
+   \item The interpretation involves
+   \begin{itemize}
+   \item The individual elements
+   \item The drawing as a whole
+   \item The temporal placement of each individual stroke
+\end{itemize} 
+  \item However, the language is not defined by the strokes in the resulting picture, which are in constant evolution, not static:
+     \begin{itemize}
+   \item Therefore, it is a language that can be hardly formalized
+   \item This is why, for instance, the structure of a code repository cannot be explained without looking at its time evolution
+\end{itemize} 
+\item It has a role per-se, beyond what we can na\"{i}vely think that it represent
+ \end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Time evolution of a code repository}}
+
+\begin{center}
+ \includegraphics[width=8cm]{P2023.AIBCCSS.Drawing/Lagrein.jpg}
+ 
+ \end{center}
+
+\begin{center}
+\tiny
+Source of the picture: Andrejs Jermakovics, Raimund Moser, Alberto Sillitti, and Giancarlo Succi. Visualizing Software Evolution with Lagrein. In Companion to the 23rd ACM SIGPLAN Conference on Object-Oriented Programming Systems Languages and Applications, OOPSLA Companion ’08. ACM, October 2008, page 750.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Decoding the drawing (2/3)}}
+ 
+\begin{itemize}
+   \item How Freud represented such dynamic associations
+ \end{itemize} 
+
+\begin{center}
+ \includegraphics[width=8cm]{P2023.AIBCCSS.Drawing/aphasien.jpg}
+ 
+ \end{center}
+
+
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022; Sigmund Freud ``Zur Auffassung der Aphasien. Eine kritische Studie,'' Franz Deuticke, 1891, pag. 79, fig. 8.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Decoding the drawing (2/3)}}
+ 
+\begin{itemize}
+   \item Drawing also evidences what is missing
+   \item Indeed, also drawing has limitations, Freud defines it a ``Hilfsapparat"
+ \end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+
+\begin{frame}
+{\centerline{Questions?}}
+\vspace{1cm}
+\begin{center}
+    \LARGE{End of lecture seven.}
+\end{center}
+
+\end{frame}
+
+
+\end{document}

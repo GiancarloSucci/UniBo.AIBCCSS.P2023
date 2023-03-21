@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  21 MAR 2023 12:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  21 MAR 2023 12:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1347,8 +1347,9 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 127.
 
-No file P2023.AIBCCSS.L05.CognitiveModelsInSoftwareDevelopment.ImpulsiveReactiv
-e.aux.
+
+(./P2023.AIBCCSS.L05.CognitiveModelsInSoftwareDevelopment.ImpulsiveReactive.aux
+)
 \openout1 = `P2023.AIBCCSS.L05.CognitiveModelsInSoftwareDevelopment.ImpulsiveRe
 active.aux'.
 
@@ -1370,6 +1371,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
 LaTeX Font Info:    ... okay on input line 140.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 140.
 LaTeX Font Info:    ... okay on input line 140.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1443,6 +1445,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 140.
 LaTeX Info: Redefining \pageref on input line 140.
 LaTeX Info: Redefining \nameref on input line 140.
+
+(./P2023.AIBCCSS.L05.CognitiveModelsInSoftwareDevelopment.ImpulsiveReactive.out
+)
+(./P2023.AIBCCSS.L05.CognitiveModelsInSoftwareDevelopment.ImpulsiveReactive.out
+)
 \@outlinefile=\write7
 \openout7 = `P2023.AIBCCSS.L05.CognitiveModelsInSoftwareDevelopment.ImpulsiveRe
 active.out'.
@@ -1816,28 +1823,37 @@ Package pdftex.def Info: unibo-logo.png  used on input line 575.
 [23
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 594--594
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 595--595
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 594.
+Package pdftex.def Info: unibo-logo.png  used on input line 595.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [24
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 614--614
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 612--612
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 614.
+Package pdftex.def Info: unibo-logo.png  used on input line 612.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [25
 
 ]
+<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowItWorks.jpg, id=261, 1644
+.1425pt x 1027.84pt>
+File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowItWorks.jpg Graphic 
+file (type jpg)
+<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowItWorks.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowI
+tWorks.jpg  used on input line 631.
+(pdftex.def)             Requested size: 284.52756pt x 177.8672pt.
+
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 631--631
  []|[]|  
  []
@@ -1846,17 +1862,22 @@ File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 631.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+
+Overfull \vbox (6.4256pt too high) detected at line 631
+ []
+
 [26
 
-]
-<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowItWorks.jpg, id=268, 1644
-.1425pt x 1027.84pt>
-File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowItWorks.jpg Graphic 
-file (type jpg)
-<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowItWorks.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowI
-tWorks.jpg  used on input line 650.
-(pdftex.def)             Requested size: 284.52756pt x 177.8672pt.
+ <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowItWorks.jpg>]
+<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Impulsive
+.jpg, id=268, 1387.1825pt x 911.405pt>
+File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Impu
+lsive.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Impul
+sive.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Iden
+tifyingElderly.Impulsive.jpg  used on input line 650.
+(pdftex.def)             Requested size: 227.62204pt x 149.54091pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 650--650
  []|[]|  
@@ -1866,22 +1887,19 @@ File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 650.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (6.4256pt too high) detected at line 650
- []
-
 [27
 
- <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.HowItWorks.jpg>]
-<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Impulsive
-.jpg, id=275, 1387.1825pt x 911.405pt>
-File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Impu
-lsive.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Impul
-sive.jpg>
+ <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Impuls
+ive.jpg>]
+<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Reflectiv
+e.jpg, id=275, 1375.1375pt x 893.3375pt>
+File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Refl
+ective.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Refle
+ctive.jpg>
 Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Iden
-tifyingElderly.Impulsive.jpg  used on input line 669.
-(pdftex.def)             Requested size: 227.62204pt x 149.54091pt.
+tifyingElderly.Reflective.jpg  used on input line 669.
+(pdftex.def)             Requested size: 227.62204pt x 147.87141pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 669--669
  []|[]|  
@@ -1893,17 +1911,16 @@ Package pdftex.def Info: unibo-logo.png  used on input line 669.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [28
 
- <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Impuls
-ive.jpg>]
-<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Reflectiv
-e.jpg, id=282, 1375.1375pt x 893.3375pt>
-File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Refl
-ective.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Refle
-ctive.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Iden
-tifyingElderly.Reflective.jpg  used on input line 688.
-(pdftex.def)             Requested size: 227.62204pt x 147.87141pt.
+ <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Reflec
+tive.jpg>]
+<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Competing.jpg, id=282, 1316.
+92pt x 899.36pt>
+File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Competing.jpg Graphic f
+ile (type jpg)
+<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Competing.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Comp
+eting.jpg  used on input line 688.
+(pdftex.def)             Requested size: 227.62204pt x 155.44167pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 688--688
  []|[]|  
@@ -1915,37 +1932,37 @@ Package pdftex.def Info: unibo-logo.png  used on input line 688.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [29
 
- <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.IdentifyingElderly.Reflec
-tive.jpg>]
-<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Competing.jpg, id=289, 1316.
-92pt x 899.36pt>
-File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Competing.jpg Graphic f
-ile (type jpg)
-<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Competing.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Comp
-eting.jpg  used on input line 707.
-(pdftex.def)             Requested size: 227.62204pt x 155.44167pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 707--707
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 707.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[30
-
  <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Competing.jpg>]
 <P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.MotivationalOrientation.jpg,
- id=296, 2248.4pt x 831.105pt>
+ id=289, 2248.4pt x 831.105pt>
 File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.MotivationalOrientation
 .jpg Graphic file (type jpg)
 <use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.MotivationalOrientation.
 jpg>
 Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Moti
-vationalOrientation.jpg  used on input line 725.
+vationalOrientation.jpg  used on input line 706.
 (pdftex.def)             Requested size: 312.9803pt x 115.68178pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 706--706
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 706.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[30
+
+ <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.MotivationalOrientation.j
+pg>]
+<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.ComprehensiveView.jpg, id=29
+6, 1748.5325pt x 1194.4625pt>
+File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.ComprehensiveView.jpg G
+raphic file (type jpg)
+<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.ComprehensiveView.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Comp
+rehensiveView.jpg  used on input line 725.
+(pdftex.def)             Requested size: 227.62204pt x 155.48605pt.
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 725--725
  []|[]|  
@@ -1957,37 +1974,16 @@ Package pdftex.def Info: unibo-logo.png  used on input line 725.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [31
 
- <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.MotivationalOrientation.j
-pg>]
-<P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.ComprehensiveView.jpg, id=30
-4, 1748.5325pt x 1194.4625pt>
-File: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.ComprehensiveView.jpg G
-raphic file (type jpg)
-<use P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.ComprehensiveView.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.Comp
-rehensiveView.jpg  used on input line 744.
-(pdftex.def)             Requested size: 227.62204pt x 155.48605pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 744--744
+ <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.ComprehensiveView.jpg>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 734--734
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 744.
+Package pdftex.def Info: unibo-logo.png  used on input line 734.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [32
-
- <./P2023.AIBCCSS.KnowledgeAcquisitionRetentionUse/RI.ComprehensiveView.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 753--753
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 753.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[33
 
 ]
 \tf@nav=\write8
@@ -2005,40 +2001,36 @@ eactive.snm'.
 
 (./P2023.AIBCCSS.L05.CognitiveModelsInSoftwareDevelopment.ImpulsiveReactive.aux
 )
-
-Package rerunfilecheck Warning: File `P2023.AIBCCSS.L05.CognitiveModelsInSoftwa
-reDevelopment.ImpulsiveReactive.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `P2023.AIBCCSS.L05.CognitiveModelsIn
-SoftwareDevelopment.ImpulsiveReactive.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `P2023.AIBCCSS.L05.CognitiveModelsInSoftwareD
+evelopment.ImpulsiveReactive.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 43329 strings out of 478994
- 1007726 string characters out of 5858184
+ 43336 strings out of 478994
+ 1008197 string characters out of 5858184
  1652667 words of memory out of 5000000
- 59868 multiletter control sequences out of 15000+600000
+ 59870 multiletter control sequences out of 15000+600000
  412151 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,16n,132p,769b,652s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
-/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
-sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/lo
-cal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local
-/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
-texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/te
-xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
-live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+pdfTeX warning (dest): name{Navigation33} has been referenced but does not ex
+ist, replaced by a fixed one
+
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></u
+sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
+/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/l
+ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loca
+l/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/t
+exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texli
+ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
 Output written on P2023.AIBCCSS.L05.CognitiveModelsInSoftwareDevelopment.Impuls
-iveReactive.pdf (33 pages, 2726069 bytes).
+iveReactive.pdf (32 pages, 2724539 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
- 265 compressed objects within 3 object streams
- 67 named destinations out of 1000 (max. 500000)
+ 360 PDF objects out of 1000 (max. 8388607)
+ 259 compressed objects within 3 object streams
+ 66 named destinations out of 1000 (max. 500000)
  295 words of extra memory for PDF output out of 10000 (max. 10000000)
 

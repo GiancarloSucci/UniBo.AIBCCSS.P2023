@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  10 MAR 2023 13:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  21 MAR 2023 12:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2215,20 +2215,14 @@ l.686 \end{frame}
                 }
 l.686 \end{frame}
                  
-? s
-OK, entering \scrollmode...
+? 
 ./P2023.AIBCCSS.L04.PB.CognitiveModelsInSoftwareDevelopment.BrainSignals.tex:68
 6: Missing } inserted.
 <inserted text> 
                 }
 l.686 \end{frame}
                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
+? 
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 686--686
  []|[]|  
@@ -2247,12 +2241,7 @@ Package pdftex.def Info: unibo-logo.png  used on input line 686.
                 }
 l.697 \end{frame}
                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
+? 
 
 ./P2023.AIBCCSS.L04.PB.CognitiveModelsInSoftwareDevelopment.BrainSignals.tex:69
 7: LaTeX Error: \verb illegal in command argument.
@@ -2263,9 +2252,7 @@ Type  H <return>  for immediate help.
                                                   
 l.697 \end{frame}
                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+? 
 
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 697--697
  []|[]|  

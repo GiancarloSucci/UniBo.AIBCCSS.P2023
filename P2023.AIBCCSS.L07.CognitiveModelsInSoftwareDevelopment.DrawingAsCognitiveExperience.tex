@@ -16,6 +16,8 @@
 \setbeamertemplate{itemize/enumerate subsubbody begin}{\large}
 
   \usepackage{amsmath}
+  \usepackage{bm} 
+  \usepackage{subcaption}
   \usepackage{tcolorbox}
   \usepackage[export]{adjustbox}
   \tcbuselibrary{most}
@@ -624,7 +626,7 @@ Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthot
 \end{frame}
 
 \begin{frame}
-{\centerline{Drawing in a letter to Wilhelm(1/2)}}
+{\centerline{Drawing in a letter to Wilhelm (1/2)}}
 
 \begin{itemize}
    \item Drawing to describe a model that has been devised
@@ -642,12 +644,12 @@ Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthot
 
 \begin{center}
 \tiny
-Sources of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022, pag. 45, with the picture from Sigmund Freud, ``Aus den Anf\"{a}ngen der Psychoanalyse : Briefe an Wilhelm Fliess, Abhandlungen und Notizen aus den Jahren 1887-1902,'' London : Imago Pub. Co, 1950, pag. 114
+Sources of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022, pag. 74
 \end{center}
 \end{frame}
 
 \begin{frame}
-{\centerline{Drawing in a letter to Wilhelm(2/2)}}
+{\centerline{Drawing in a letter to Wilhelm (2/2)}}
 
 \begin{itemize}
    \item But look at how he got there:
@@ -666,6 +668,215 @@ Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthot
 \end{center}
 \end{frame}
 
+\begin{frame}
+{\centerline{``The psyche is extended. Knows nothing about it''}}
+\begin{itemize}
+\item This is an intuition of Freud, connected to our discussion of the extended mind, which is triggered by this drawing:
+\begin{itemize}
+\item P(erception), M(otility), Inc(onscious), Pre(conscious), Mn(estic traces)
+ \end{itemize}
+  \end{itemize} 
+
+\begin{center}
+ \includegraphics[width=10cm]{P2023.AIBCCSS.Drawing/perceptionMotility.jpg}
+ 
+ \end{center}
+
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022, pag. 74.
+\end{center}
+\end{frame}
+
+
+\begin{frame}
+{\centerline{From drawing to understanding}}
+\begin{itemize}
+\item All this works of Freud on drawings for us is interesting under a dual perspective:
+\begin{itemize}
+\item For what we said, since through pictures we understand the minds of the people we are dealing with
+\item Because Freud itself, despite being a neurologist, so full aware of how the brain works, preferred drawing to elaborate ideas on the work of the mind:
+\begin{itemize}
+\item they are more relevant than the physiological analysis;
+\item \textit{``individuals and interactions over processes and tools.''}
+ \end{itemize} 
+ \end{itemize} 
+ \end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gianluca Solla ``Disegnare, la formula di Freud,'' Orthotes, 2022.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Drawing and Coding}}
+\begin{itemize}
+\item We end this lecture discussing the similarities in the brain activity between coding and drawing, a further reinforcement of the relevance of drawings in our work.
+\item We have run an experiment with 22 participants coding and sketching
+\item The participants were first instructed and then had a sessions in which they prepared for recoding, and they they were given a task to solve.
+\item The data has been collected using a 32-channels portable EEG cap.
+\end{itemize} 
+
+\begin{center}
+\tiny
+Source of the content: Gcinizwe Dlamini, Giancarlo Succi, Nataliya Tupikina ``Is the mind of a software developer similar to that of an artist? Focus on drawing,'' Under review, 2023.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Drawing and Coding -- Results (1/2)}}
+
+ \begin{itemize}
+\item Clusters of values of  $\alpha/\beta$ and $\theta/\alpha$ when resting (the red \textcolor{red}{$\times$}), programming (the blue \textcolor{blue}{$\bullet$}), and drawing a picture (the olive
+    \textcolor{olive}{$\bm{+}$})
+  \end{itemize} 
+
+\begin{figure}[!ht]
+    \centering
+\begin{tikzpicture}
+  \begin{axis}[
+        width=\linewidth,
+        height=5cm,
+        xmin=0.89,xmax=0.98,ymin=0.91,ymax=1.04,
+        xlabel={$\alpha/\beta$},
+        ylabel={$\theta/\alpha$},
+        xtick={0.90,0.91,...,0.97},
+        ytick={0.92,0.94,...,1.02}
+        ]
+%       \node[text=blue,font=\sffamily\bfseries,scale=2] at (3,70) {X};
+       \addplot+[blue,only marks,mark=*, samples=16,mark
+        options={fill=blue}] coordinates {
+            (	0.94932	,	0.98214	)
+            (	0.96273	,	0.95309	)
+            (	0.96107	,	0.95390	)
+            (	0.90012	,	0.93347	)
+            (	0.94922	,	0.96073	)
+            (	0.96861	,	0.95327	)
+            (	0.93900	,	0.95774	)
+            (	0.94069	,	0.98512	)
+            (	0.94486	,	0.97434	)
+            (	0.95480	,	0.95581	)
+            (	0.94661	,	0.95600	)
+            (	0.95082	,	0.96662	)
+            (	0.94598	,	0.96991	)
+            (	0.95285	,	0.92659	)
+            (	0.95713	,	0.96479	)
+            (	0.96412	,	0.95582	)
+            } node[above,pos=.57,blue] {};
+
+\addplot+[olive,only marks,mark=+, samples=16,mark
+            options={fill=olive}] coordinates {
+(0.95764,0.98103) (0.96709,0.96201) (0.96341,0.96958) (0.90135,0.93923) (0.95749,0.96918) (0.96969,0.97018) (0.95397,0.96424) (0.94288,0.98905) (0.94813,0.97418) (0.95887,0.96270) (0.95347,0.96450) (0.95568,0.97055) (0.95662,0.97482) (0.95626,0.93122) (0.96669,0.97311) (0.96096,0.96567)
+            } node[above,pos=.57,olive] {};
+
+\addplot+[red,only marks,mark=x, samples=16,mark
+            options={fill=red}] coordinates {
+    (	0.90637	,	1.00536	)
+    (	0.93464	,	1.00072	)
+    (	0.95007	,	0.99515	)
+    (	0.91846	,	0.96201	)
+    (	0.93747	,	0.97805	)
+    (	0.93496	,	1.00600	)
+    (	0.92718	,	1.00885	)
+    (	0.91254	,	1.03297	)
+    (	0.93122	,	1.00427	)
+    (	0.94688	,	0.98081	)
+    (	0.91948	,	0.99758	)
+    (	0.91378	,	1.01288	)
+    (	0.93104	,	1.00059	)
+    (	0.94273	,	0.94534	)
+    (	0.93998	,	0.97212	)
+    (	0.94680	,	0.96241	)
+    
+    } node[above,pos=.57,red] {};
+%      \node[text=red,scale=2] at (0.931,0.992){\bm{$\bullet$}};
+
+
+\end{axis}
+\end{tikzpicture}
+\end{figure}
+
+
+\begin{center}
+\tiny
+Source of the content: Gcinizwe Dlamini, Giancarlo Succi, Nataliya Tupikina ``Is the mind of a software developer similar to that of an artist? Focus on drawing,'' Under review, 2023.
+\end{center}
+\end{frame}
+
+\begin{frame}
+{\centerline{Drawing and Coding -- Results (2/2)}}
+
+ \begin{itemize}
+\item Empirical distribution functions of (a) $\alpha/\beta$  and (b) $\theta/\alpha$ for resting ($F_r$), programming ($F_p$), and drawing ($F_d$)
+  \end{itemize} 
+
+\begin{figure}[!ht]
+\centering
+\begin{subfigure}{.5\textwidth}
+  \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tikzpicture}
+    \begin{axis}[%
+        height=7cm,
+        xlabel=$x$
+        ,ylabel=$F_x$
+        ,axis x line = bottom,axis y line = left
+        ,ytick={0.25,0.5,...,1}
+        ,ymax=1.2 % or enlarge y limits=upper
+        ,xmin=0.90
+        ,xmax=0.98
+        ,xtick={0.91,0.93,...,0.97}
+        ]
+    \addplot+[red,const plot, no marks, thick] coordinates {(0.906, 0.050) (0.913, 0.100) (0.914, 0.150) (0.918, 0.200) (0.919, 0.250) (0.920, 0.300) (0.927, 0.350) (0.931, 0.400) (0.931, 0.450) (0.932, 0.500) (0.935, 0.550) (0.935, 0.600) (0.935, 0.650) (0.937, 0.700) (0.937, 0.750) (0.940, 0.800) (0.943, 0.850) (0.947, 0.900) (0.947, 0.950) (0.950, 1.000)} node[above=0.85cm, pos=.57,red] {$F_r$};
+    
+    \addplot+[blue,const plot, no marks, thick] coordinates {(0.901, 0.050) (0.941, 0.100) (0.943, 0.150) (0.948, 0.200) (0.950, 0.250) (0.953, 0.300) (0.954, 0.350) (0.956, 0.400) (0.956, 0.450) (0.957, 0.500) (0.957, 0.550) (0.958, 0.600) (0.959, 0.650) (0.961, 0.700) (0.961, 0.750) (0.963, 0.800) (0.967, 0.850) (0.967, 0.900) (0.970, 0.950) (0.970, 1.000)} node[below=1.2cm,pos=.77,blue] {$F_p$};
+    
+    \addplot+[olive,const plot, no marks, thick] coordinates {(0.900, 0.050) (0.939, 0.100) (0.941, 0.150) (0.945, 0.200) (0.946, 0.250) (0.947, 0.300) (0.949, 0.350) (0.949, 0.400) (0.951, 0.450) (0.953, 0.500) (0.955, 0.550) (0.956, 0.600) (0.957, 0.650) (0.959, 0.700) (0.961, 0.750) (0.963, 0.800) (0.964, 0.850) (0.965, 0.900) (0.965, 0.950) (0.969, 1.000) } node[above=0.25cm,pos=.36,olive] {$F_d$};
+    \end{axis}
+    \end{tikzpicture}
+    }
+    % \caption{\textbf{Empirical distribution functions for resting ($F_r$), programming ($F_p$), and drawing ($F_d$)}}
+    % \label{fig:edfThetaAlpha}
+% \end{figure}
+  \caption{EDF of $\alpha/\beta$}
+  \label{fig:sub1}
+\end{subfigure}%
+\begin{subfigure}{.5\textwidth}
+  \centering
+    \resizebox{\textwidth}{!}{%
+    \begin{tikzpicture}
+    \begin{axis}[%
+        height=7cm,
+        xlabel=$x$
+        ,ylabel=$F_x$
+        ,axis x line = bottom,axis y line = left
+        ,ytick={0.25,0.5,...,1}
+        ,ymax=1.2 % or enlarge y limits=upper
+        ,xmin=0.93
+        ,xmax=1.05
+        ,xtick={0.91,0.93,...,1.02}
+        ]
+    \addplot+[red,const plot, no marks, thick] coordinates {(0.945, 0.050) (0.962, 0.100) (0.962, 0.150) (0.972, 0.200) (0.974, 0.250) (0.978, 0.300) (0.981, 0.350) (0.993, 0.400) (0.995, 0.450) (0.997, 0.500) (0.998, 0.550) (1.001, 0.600) (1.001, 0.650) (1.004, 0.700) (1.005, 0.750) (1.006, 0.800) (1.009, 0.850) (1.013, 0.900) (1.027, 0.950) (1.033, 1.000) } node[above=0.85cm, pos=.57,red] {$F_r$};
+    
+    \addplot+[blue,const plot, no marks, thick] coordinates {(0.931, 0.050) (0.933, 0.100) (0.937, 0.150) (0.939, 0.200) (0.943, 0.250) (0.962, 0.300) (0.963, 0.350) (0.964, 0.400) (0.964, 0.450) (0.965, 0.500) (0.966, 0.550) (0.969, 0.600) (0.970, 0.650) (0.970, 0.700) (0.971, 0.750) (0.973, 0.800) (0.974, 0.850) (0.975, 0.900) (0.981, 0.950) (0.989, 1.000)} node[below=1.2cm,pos=.77,blue] {$F_p$};
+    
+    \addplot+[olive,const plot, no marks, thick] coordinates {(0.927, 0.050) (0.933, 0.100) (0.952, 0.150) (0.953, 0.200) (0.953, 0.250) (0.953, 0.300) (0.954, 0.350) (0.956, 0.400) (0.956, 0.450) (0.956, 0.500) (0.956, 0.550) (0.958, 0.600) (0.961, 0.650) (0.964, 0.700) (0.965, 0.750) (0.967, 0.800) (0.970, 0.850) (0.974, 0.900) (0.982, 0.950) (0.985, 1.000)} node[above=0.25cm,pos=.36,olive] {$F_d$};
+    \end{axis}
+    \end{tikzpicture}
+    }
+  \caption{EDF of $\theta/\alpha$}
+  \label{fig:sub2}
+\end{subfigure}
+\end{figure}
+
+
+\begin{center}
+\tiny
+Source of the content: Gcinizwe Dlamini, Giancarlo Succi, Nataliya Tupikina ``Is the mind of a software developer similar to that of an artist? Focus on drawing,'' Under review, 2023.
+\end{center}
+\end{frame}
 
 
 

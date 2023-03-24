@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  23 MAR 2023 07:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  24 MAR 2023 15:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1404,7 +1404,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 130.
 
-No file P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.aux.
+(./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.aux)
 \openout1 = `P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.aux'
 .
 
@@ -1426,6 +1426,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 143.
 LaTeX Font Info:    ... okay on input line 143.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 143.
 LaTeX Font Info:    ... okay on input line 143.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1499,6 +1500,8 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 143.
 LaTeX Info: Redefining \pageref on input line 143.
 LaTeX Info: Redefining \nameref on input line 143.
+ (./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.out)
+(./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.out)
 \@outlinefile=\write7
 \openout7 = `P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.out'
 .
@@ -1545,7 +1548,7 @@ ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into
 your preamble.
  on input line 143.
 
-No file P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.nav.
+(./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.nav)
 
 ./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:148: LaTeX 
 Error: There's no line here to end.
@@ -1566,7 +1569,7 @@ Overfull \hbox (17.07181pt too wide) in paragraph at lines 167--167
  []|[]|  
  []
 
-<unibo-logo.png, id=75, 803.0pt x 803.0pt>
+<unibo-logo.png, id=76, 803.0pt x 803.0pt>
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 167.
@@ -1585,6 +1588,282 @@ Package pdftex.def Info: unibo-logo.png  used on input line 188.
 [3
 
 ]
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex
+Package babel Info: Importing basic data for greek
+(babel)             from babel-el.ini. Reported on input line 11.
+)
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+? 
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ε (U+03B5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+? 
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character τ (U+03C4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+? 
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ε (U+03B5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+? 
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character μ (U+03BC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+? s
+OK, entering \scrollmode...
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ψ (U+03C8)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ύ (U+03CD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character χ (U+03C7)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ω (U+03C9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character σ (U+03C3)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ι (U+03B9)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ς (U+03C2)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character π (U+03C0)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ά (U+03AC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ν (U+03BD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character τ (U+03C4)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character α (U+03B1)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ῥ (U+1FE5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ε (U+03B5)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
+e inputenc Error: Unicode character ῖ (U+1FD6)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.210 \end{frame}
+                 
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 210--210
  []|[]|  
  []
@@ -1596,14 +1875,6 @@ Package pdftex.def Info: unibo-logo.png  used on input line 210.
 [4
 
 ]
-<P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png, id=98, 223.0734pt x 189.8292p
-t>
-File: P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png Graphic file (type png)
-<use P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png  used 
-on input line 234.
-(pdftex.def)             Requested size: 170.71652pt x 145.27968pt.
-
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 234--234
  []|[]|  
  []
@@ -1614,388 +1885,407 @@ Package pdftex.def Info: unibo-logo.png  used on input line 234.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [5
 
- <./P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 253--253
+]
+<P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png, id=105, 223.0734pt x 189.8292
+pt>
+File: P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png Graphic file (type png)
+<use P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png>
+Package pdftex.def Info: P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png  used 
+on input line 258.
+(pdftex.def)             Requested size: 170.71652pt x 145.27968pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 258--258
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 253.
+Package pdftex.def Info: unibo-logo.png  used on input line 258.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [6
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 270--270
+ <./P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 277--277
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 270.
+Package pdftex.def Info: unibo-logo.png  used on input line 277.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [7
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 292--292
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 294--294
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 292.
+Package pdftex.def Info: unibo-logo.png  used on input line 294.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [8
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 319--319
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 316--316
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 319.
+Package pdftex.def Info: unibo-logo.png  used on input line 316.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [9
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 345--345
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 343--343
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 345.
+Package pdftex.def Info: unibo-logo.png  used on input line 343.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [10
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 373
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 369--369
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 369.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[11
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 397
 .
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 373
+LaTeX Font Info:    Trying to load font information for U+msb on input line 397
 .
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 373--373
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 397--397
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 373.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[11
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 398--398
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 398.
+Package pdftex.def Info: unibo-logo.png  used on input line 397.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [12
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 417--417
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 422--422
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 417.
+Package pdftex.def Info: unibo-logo.png  used on input line 422.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [13
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 444--444
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 441--441
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 444.
+Package pdftex.def Info: unibo-logo.png  used on input line 441.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [14
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 469--469
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 468--468
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 469.
+Package pdftex.def Info: unibo-logo.png  used on input line 468.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [15
 
 ]
-<P2023.AIBCCSS.Drawing/Lagrein.jpg, id=170, 1178.4025pt x 861.2175pt>
-File: P2023.AIBCCSS.Drawing/Lagrein.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/Lagrein.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/Lagrein.jpg  used on input line 
-483.
-(pdftex.def)             Requested size: 227.62204pt x 166.35323pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 483--483
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 493--493
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 483.
+Package pdftex.def Info: unibo-logo.png  used on input line 493.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [16
 
- <./P2023.AIBCCSS.Drawing/Lagrein.jpg>]
-<P2023.AIBCCSS.Drawing/aphasien.jpg, id=178, 1519.6775pt x 895.345pt>
-File: P2023.AIBCCSS.Drawing/aphasien.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/aphasien.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/aphasien.jpg  used on input line
- 501.
-(pdftex.def)             Requested size: 284.52756pt x 167.63086pt.
+]
+<P2023.AIBCCSS.Drawing/Lagrein.jpg, id=178, 1178.4025pt x 861.2175pt>
+File: P2023.AIBCCSS.Drawing/Lagrein.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Drawing/Lagrein.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Drawing/Lagrein.jpg  used on input line 
+507.
+(pdftex.def)             Requested size: 227.62204pt x 166.35323pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 501--501
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 507--507
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 501.
+Package pdftex.def Info: unibo-logo.png  used on input line 507.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [17
 
- <./P2023.AIBCCSS.Drawing/aphasien.jpg>]
-<P2023.AIBCCSS.Drawing/flowInsideMemory.jpg, id=185, 1782.66pt x 387.4475pt>
-File: P2023.AIBCCSS.Drawing/flowInsideMemory.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/flowInsideMemory.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/flowInsideMemory.jpg  used on in
-put line 526.
-(pdftex.def)             Requested size: 284.52756pt x 61.83914pt.
+ <./P2023.AIBCCSS.Drawing/Lagrein.jpg>]
+<P2023.AIBCCSS.Drawing/aphasien.jpg, id=185, 1519.6775pt x 895.345pt>
+File: P2023.AIBCCSS.Drawing/aphasien.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Drawing/aphasien.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Drawing/aphasien.jpg  used on input line
+ 525.
+(pdftex.def)             Requested size: 284.52756pt x 167.63086pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 526--526
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 525--525
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 526.
+Package pdftex.def Info: unibo-logo.png  used on input line 525.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [18
 
- <./P2023.AIBCCSS.Drawing/flowInsideMemory.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 547--547
+ <./P2023.AIBCCSS.Drawing/aphasien.jpg>]
+<P2023.AIBCCSS.Drawing/flowInsideMemory.jpg, id=192, 1782.66pt x 387.4475pt>
+File: P2023.AIBCCSS.Drawing/flowInsideMemory.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Drawing/flowInsideMemory.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Drawing/flowInsideMemory.jpg  used on in
+put line 550.
+(pdftex.def)             Requested size: 284.52756pt x 61.83914pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 550--550
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 547.
+Package pdftex.def Info: unibo-logo.png  used on input line 550.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [19
 
-]
-<P2023.AIBCCSS.Drawing/issuesArrivals.jpg, id=199, 1919.17pt x 798.985pt>
-File: P2023.AIBCCSS.Drawing/issuesArrivals.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/issuesArrivals.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/issuesArrivals.jpg  used on inpu
-t line 561.
-(pdftex.def)             Requested size: 341.43306pt x 142.14085pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 561--561
+ <./P2023.AIBCCSS.Drawing/flowInsideMemory.jpg>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 571--571
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 561.
+Package pdftex.def Info: unibo-logo.png  used on input line 571.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [20
 
- <./P2023.AIBCCSS.Drawing/issuesArrivals.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 583--583
+]
+<P2023.AIBCCSS.Drawing/issuesArrivals.jpg, id=206, 1919.17pt x 798.985pt>
+File: P2023.AIBCCSS.Drawing/issuesArrivals.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Drawing/issuesArrivals.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Drawing/issuesArrivals.jpg  used on inpu
+t line 585.
+(pdftex.def)             Requested size: 341.43306pt x 142.14085pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 585--585
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 583.
+Package pdftex.def Info: unibo-logo.png  used on input line 585.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [21
 
+ <./P2023.AIBCCSS.Drawing/issuesArrivals.jpg>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 607--607
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 607.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[22
+
 ]
-<P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg, id=212, 921.4425pt x 935.495
+<P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg, id=219, 921.4425pt x 935.495
 pt>
 File: P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg Graphic file (type jpg)
 <use P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg>
 Package pdftex.def Info: P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg  used
- on input line 603.
+ on input line 627.
 (pdftex.def)             Requested size: 170.71652pt x 173.30652pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 603--603
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 627--627
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 603.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[22
-
- <./P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg>]
-<P2023.AIBCCSS.Drawing/outerWorld.jpg, id=219, 835.12pt x 598.235pt>
-File: P2023.AIBCCSS.Drawing/outerWorld.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/outerWorld.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/outerWorld.jpg  used on input li
-ne 626.
-(pdftex.def)             Requested size: 156.49014pt x 112.09575pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 626--626
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 626.
+Package pdftex.def Info: unibo-logo.png  used on input line 627.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [23
 
- <./P2023.AIBCCSS.Drawing/outerWorld.jpg>]
-<P2023.AIBCCSS.Drawing/schematizzazione.jpg, id=226, 915.42pt x 1118.1775pt>
-File: P2023.AIBCCSS.Drawing/schematizzazione.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/schematizzazione.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/schematizzazione.jpg  used on in
-put line 649.
-(pdftex.def)             Requested size: 99.58464pt x 121.63493pt.
+ <./P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg>]
+<P2023.AIBCCSS.Drawing/outerWorld.jpg, id=226, 835.12pt x 598.235pt>
+File: P2023.AIBCCSS.Drawing/outerWorld.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Drawing/outerWorld.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Drawing/outerWorld.jpg  used on input li
+ne 650.
+(pdftex.def)             Requested size: 156.49014pt x 112.09575pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 649--649
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 650--650
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 649.
+Package pdftex.def Info: unibo-logo.png  used on input line 650.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [24
 
+ <./P2023.AIBCCSS.Drawing/outerWorld.jpg>]
+<P2023.AIBCCSS.Drawing/schematizzazione.jpg, id=233, 915.42pt x 1118.1775pt>
+File: P2023.AIBCCSS.Drawing/schematizzazione.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Drawing/schematizzazione.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Drawing/schematizzazione.jpg  used on in
+put line 673.
+(pdftex.def)             Requested size: 99.58464pt x 121.63493pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 673--673
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 673.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[25
+
  <./P2023.AIBCCSS.Drawing/schematizzazione.jpg>]
-<P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg, id=233, 1051.93pt x 1302.8675
+<P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg, id=241, 1051.93pt x 1302.8675
 pt>
 File: P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg Graphic file (type jpg)
 <use P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg>
 Package pdftex.def Info: P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg  used 
-on input line 669.
+on input line 693.
 (pdftex.def)             Requested size: 142.26378pt x 176.1976pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 669--669
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 693--693
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 669.
+Package pdftex.def Info: unibo-logo.png  used on input line 693.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[25
+[26
 
  <./P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg>]
-<P2023.AIBCCSS.Drawing/perceptionMotility.jpg, id=241, 1784.6675pt x 700.6175pt
+<P2023.AIBCCSS.Drawing/perceptionMotility.jpg, id=248, 1784.6675pt x 700.6175pt
 >
 File: P2023.AIBCCSS.Drawing/perceptionMotility.jpg Graphic file (type jpg)
 <use P2023.AIBCCSS.Drawing/perceptionMotility.jpg>
 Package pdftex.def Info: P2023.AIBCCSS.Drawing/perceptionMotility.jpg  used on 
-input line 690.
+input line 714.
 (pdftex.def)             Requested size: 284.52756pt x 111.69484pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 690--690
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 714--714
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 690.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[26
-
- <./P2023.AIBCCSS.Drawing/perceptionMotility.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 711--711
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 711.
+Package pdftex.def Info: unibo-logo.png  used on input line 714.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [27
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 726--726
+ <./P2023.AIBCCSS.Drawing/perceptionMotility.jpg>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 735--735
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 726.
+Package pdftex.def Info: unibo-logo.png  used on input line 735.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [28
 
 ]
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 806--806
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 750--750
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 806.
+Package pdftex.def Info: unibo-logo.png  used on input line 750.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [29
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 879--879
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 830--830
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 879.
+Package pdftex.def Info: unibo-logo.png  used on input line 830.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (1.64351pt too high) detected at line 879
- []
-
 [30
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 890--890
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 903--903
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 890.
+Package pdftex.def Info: unibo-logo.png  used on input line 903.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+
+Overfull \vbox (1.64351pt too high) detected at line 903
+ []
+
 [31
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 914--914
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 914.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[32
 
 ]
 \tf@nav=\write8
@@ -2011,25 +2301,15 @@ Package pdftex.def Info: unibo-logo.png  used on input line 890.
 '.
 
  (./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `P2023.AIBCCSS.L08.CognitiveModelsInSoftwa
-reDevelopment.Change.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `P2023.AIBCCSS.L08.CognitiveModelsIn
-SoftwareDevelopment.Change.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `P2023.AIBCCSS.L08.CognitiveModelsInSoftwareD
+evelopment.Change.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 45278 strings out of 478994
- 1047689 string characters out of 5858184
- 1695350 words of memory out of 5000000
- 61785 multiletter control sequences out of 15000+600000
+ 45712 strings out of 478994
+ 1059288 string characters out of 5858184
+ 1695351 words of memory out of 5000000
+ 62204 multiletter control sequences out of 15000+600000
  419038 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,16n,132p,758b,2512s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2047,10 +2327,10 @@ ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
 e/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change
-.pdf (31 pages, 4711709 bytes).
+.pdf (32 pages, 4712822 bytes).
 PDF statistics:
- 349 PDF objects out of 1000 (max. 8388607)
- 248 compressed objects within 3 object streams
- 67 named destinations out of 1000 (max. 500000)
+ 355 PDF objects out of 1000 (max. 8388607)
+ 253 compressed objects within 3 object streams
+ 69 named destinations out of 1000 (max. 500000)
  290 words of extra memory for PDF output out of 10000 (max. 10000000)
 

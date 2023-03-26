@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  24 MAR 2023 15:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  26 MAR 2023 17:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1232,12 +1232,30 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \@lastruleclass=\count375
 \@thisrulewidth=\dimen359
 )
+(/usr/local/texlive/2021/texmf-dist/tex/latex/svg/svg.sty
+Package: svg 2020/11/26 v2.02k (include SVG pictures)
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+Skipping: [2021/05/01] Usage of raw option list on input line 252.
+Applying: [0000/00/00] compatibility for LaTeX before 2021/05/01 on input line 
+337.
+)
+\c@svg@param@lastpage=\count376
+\svg@box=\box96
+\c@svg@param@currpage=\count377
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/transparent/transparent.sty
+Package: transparent 2019/11/29 v1.4 Transparency via pdfTeX's color stack (HO)
+
+)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2021/03/24 3.56 The Babel package
 
 (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2021/03/24 3.56 Babel common definitions
-\babel@savecnt=\count376
+\babel@savecnt=\count378
 \U@D=\dimen360
 \l@babelnohyphens=\language87
 
@@ -1245,8 +1263,626 @@ File: babel.def 2021/03/24 3.56 Babel common definitions
 \bbl@readstream=\read4
 )
 LaTeX Info: Redefining \textlatin on input line 717.
-\bbl@dirlevel=\count377
+\bbl@dirlevel=\count379
 
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-greek/greek.ldf
+Language: greek 2020/11/10 v1.10 Greek support for the babel system
+\bbl@monogreek=\count380
+\bbl@polygreek=\count381
+\bbl@ancientgreek=\count382
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
+Now handling font encoding LGR ...
+... processing UTF-8 mapping file for font encoding LGR
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))
+LaTeX Info: Redefining \& on input line 125.
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/babel-german/german.ldf
+Language: german 2021/02/27 v2.13 German support for babel (pre-1996 orthograph
+y)
+
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-german/germanb.ldf
+Language: germanb 2021/02/27 v2.13 German support for babel (pre-1996 orthograp
+hy)
+Package babel Info: Making " an active character on input line 139.
+))
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 78.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2019/11/14 v1.2k UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+Package babel Info: Default for \cyrdash is provided on input line 163.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/babel-french/french.ldf
+Language: french 2020/10/10 v3.5l French support from the babel system
+Package babel Info: \l@acadian = using hyphenrules for french
+(babel)             (\language29) on input line 91.
+Package babel Info: \l@canadien = using hyphenrules for french
+(babel)             (\language29) on input line 92.
+\FB@nonchar=\count383
+Package babel Info: Making : an active character on input line 430.
+Package babel Info: Making ; an active character on input line 431.
+Package babel Info: Making ! an active character on input line 432.
+Package babel Info: Making ? an active character on input line 433.
+\FBguill@level=\count384
+\FBold@everypar=\toks56
+\FB@Mht=\dimen361
+\mc@charclass=\count385
+\mc@charfam=\count386
+\mc@charslot=\count387
+\std@mcc=\count388
+\dec@mcc=\count389
+\listindentFB=\dimen362
+\descindentFB=\dimen363
+\labelindentFB=\dimen364
+\labelwidthFB=\dimen365
+\leftmarginFB=\dimen366
+\parindentFFN=\dimen367
+\FBfnindent=\dimen368
+)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
@@ -1256,37 +1892,131 @@ Package babel Info: \l@australian = using hyphenrules for ukenglish
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
 (babel)             (\language21) on input line 108.
 ))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/arabi/laeenc.def
+File: laeenc.def 2006/01/01 v0.1 Local Arabic font encoding (test version: may 
+change)
+Now handling font encoding LAE ...
+... processing UTF-8 mapping file for font encoding LAE
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/arabi/laeenc.dfu
+File: laeenc.dfu 2006/01/01 v1.0 UTF-8 support for Arabic and Farsi for use wit
+h inputenc
+   defining Unicode char U+066A (decimal 1642)
+   defining Unicode char U+060C (decimal 1548)
+   defining Unicode char U+0660 (decimal 1632)
+   defining Unicode char U+0661 (decimal 1633)
+   defining Unicode char U+0662 (decimal 1634)
+   defining Unicode char U+0663 (decimal 1635)
+   defining Unicode char U+0664 (decimal 1636)
+   defining Unicode char U+0665 (decimal 1637)
+   defining Unicode char U+0666 (decimal 1638)
+   defining Unicode char U+0667 (decimal 1639)
+   defining Unicode char U+0668 (decimal 1640)
+   defining Unicode char U+0669 (decimal 1641)
+   defining Unicode char U+061B (decimal 1563)
+   defining Unicode char U+061F (decimal 1567)
+   defining Unicode char U+0621 (decimal 1569)
+   defining Unicode char U+0622 (decimal 1570)
+   defining Unicode char U+0623 (decimal 1571)
+   defining Unicode char U+0624 (decimal 1572)
+   defining Unicode char U+0625 (decimal 1573)
+   defining Unicode char U+0626 (decimal 1574)
+   defining Unicode char U+0627 (decimal 1575)
+   defining Unicode char U+0628 (decimal 1576)
+   defining Unicode char U+0629 (decimal 1577)
+   defining Unicode char U+062A (decimal 1578)
+   defining Unicode char U+062B (decimal 1579)
+   defining Unicode char U+062C (decimal 1580)
+   defining Unicode char U+062D (decimal 1581)
+   defining Unicode char U+062E (decimal 1582)
+   defining Unicode char U+062F (decimal 1583)
+   defining Unicode char U+0630 (decimal 1584)
+   defining Unicode char U+0631 (decimal 1585)
+   defining Unicode char U+0632 (decimal 1586)
+   defining Unicode char U+0633 (decimal 1587)
+   defining Unicode char U+0634 (decimal 1588)
+   defining Unicode char U+0635 (decimal 1589)
+   defining Unicode char U+0636 (decimal 1590)
+   defining Unicode char U+0637 (decimal 1591)
+   defining Unicode char U+0638 (decimal 1592)
+   defining Unicode char U+0639 (decimal 1593)
+   defining Unicode char U+063A (decimal 1594)
+   defining Unicode char U+0640 (decimal 1600)
+   defining Unicode char U+0641 (decimal 1601)
+   defining Unicode char U+0642 (decimal 1602)
+   defining Unicode char U+0643 (decimal 1603)
+   defining Unicode char U+0644 (decimal 1604)
+   defining Unicode char U+0645 (decimal 1605)
+   defining Unicode char U+0646 (decimal 1606)
+   defining Unicode char U+0647 (decimal 1607)
+   defining Unicode char U+0648 (decimal 1608)
+   defining Unicode char U+0649 (decimal 1609)
+   defining Unicode char U+064A (decimal 1610)
+   defining Unicode char U+064B (decimal 1611)
+   defining Unicode char U+064C (decimal 1612)
+   defining Unicode char U+064D (decimal 1613)
+   defining Unicode char U+064E (decimal 1614)
+   defining Unicode char U+064F (decimal 1615)
+   defining Unicode char U+0650 (decimal 1616)
+   defining Unicode char U+0651 (decimal 1617)
+   defining Unicode char U+0652 (decimal 1618)
+   defining Unicode char U+067E (decimal 1662)
+   defining Unicode char U+0686 (decimal 1670)
+   defining Unicode char U+0698 (decimal 1688)
+   defining Unicode char U+06A9 (decimal 1705)
+   defining Unicode char U+06AF (decimal 1711)
+   defining Unicode char U+06CC (decimal 1740)
+   defining Unicode char U+06F0 (decimal 1776)
+   defining Unicode char U+06F1 (decimal 1777)
+   defining Unicode char U+06F2 (decimal 1778)
+   defining Unicode char U+06F3 (decimal 1779)
+   defining Unicode char U+06F4 (decimal 1780)
+   defining Unicode char U+06F5 (decimal 1781)
+   defining Unicode char U+06F6 (decimal 1782)
+   defining Unicode char U+06F7 (decimal 1783)
+   defining Unicode char U+06F8 (decimal 1784)
+   defining Unicode char U+06F9 (decimal 1785)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+06D5 (decimal 1749)
+)))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2020/12/30 v 0.09a modify URL breaks
+)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/textpos/textpos.sty
 Package: textpos 2020/09/26 v1.10
 
 Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
 Package textpos Info: choosing support for LaTeX3 on input line 61.
-\TP@textbox=\box96
-\TPHorizModule=\dimen361
-\TPVertModule=\dimen362
-\TP@margin=\dimen363
-\TP@absmargin=\dimen364
+\TP@textbox=\box97
+\TPHorizModule=\dimen369
+\TPVertModule=\dimen370
+\TP@margin=\dimen371
+\TP@absmargin=\dimen372
 Grid set 16 x 16 = 22.7622pt x 17.07166pt
-\TPboxrulesize=\dimen365
-\TP@tbargs=\toks56
+\TPboxrulesize=\dimen373
+\TP@tbargs=\toks57
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/tabulary/tabulary.sty
 Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
 Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
-\col@sep=\dimen366
-\ar@mcellbox=\box97
-\extrarowheight=\dimen367
-\NC@list=\toks57
+\col@sep=\dimen374
+\ar@mcellbox=\box98
+\extrarowheight=\dimen375
+\NC@list=\toks58
 \extratabsurround=\skip64
 \backup@length=\skip65
-\ar@cellbox=\box98
+\ar@cellbox=\box99
 )
-\TY@count=\count378
-\TY@linewidth=\dimen368
-\tymin=\dimen369
-\tymax=\dimen370
-\TY@tablewidth=\dimen371
+\TY@count=\count390
+\TY@linewidth=\dimen376
+\tymin=\dimen377
+\tymax=\dimen378
+\TY@tablewidth=\dimen379
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrextend.sty
 Package: scrextend 2021/03/17 v3.33 KOMA-Script package (extend other classes w
@@ -1295,14 +2025,7 @@ ith features of KOMA-Script classes)
 (/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrkbase.sty
 Package: scrkbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/koma-script/scrbase.sty
-Package: scrbase 2021/03/17 v3.33 KOMA-Script package (KOMA-Script-independent 
-basics and keyval usage)
-Skipping: [2021/05/01] Usage of raw option list on input line 252.
-Applying: [0000/00/00] compatibility for LaTeX before 2021/05/01 on input line 
-337.
-))
+)
 Package scrextend Info: unexpected definition of `\@makefnmark'.
 (scrextend)             Trying to patch it on input line 1593.
 Package scrextend Info: patch seems to be successfull on input line 1593.
@@ -1316,11 +2039,11 @@ Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@r@tfl@t=\count379
+\c@r@tfl@t=\count391
 \rotFPtop=\skip66
 \rotFPbot=\skip67
-\rot@float@box=\box99
-\rot@mess@toks=\toks58
+\rot@float@box=\box100
+\rot@mess@toks=\toks59
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
@@ -1358,74 +2081,99 @@ ways
 
 (/usr/local/texlive/2021/texmf-dist/tex/generic/listofitems/listofitems.sty
 (/usr/local/texlive/2021/texmf-dist/tex/generic/listofitems/listofitems.tex
-\loi_cnt_foreach_nest=\count380
-\loi_nestcnt=\count381
+\loi_cnt_foreach_nest=\count392
+\loi_nestcnt=\count393
 )
 Package: listofitems 2019/08/21 v1.63 Grab items in lists using user-specified 
 sep char (CT)
 )
 (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count382
-\calc@Bcount=\count383
-\calc@Adimen=\dimen372
-\calc@Bdimen=\dimen373
+\calc@Acount=\count394
+\calc@Bcount=\count395
+\calc@Adimen=\dimen380
+\calc@Bdimen=\dimen381
 \calc@Askip=\skip68
 \calc@Bskip=\skip69
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count384
+\calc@Ccount=\count396
 \calc@Cskip=\skip70
 )
-\c@@stackindex=\count385
+\c@@stackindex=\count397
 \@boxshift=\skip71
 \stack@tmplength=\skip72
 \temp@stkl=\skip73
 \@stackedboxwidth=\skip74
-\@addedbox=\box100
-\@anchorbox=\box101
-\stackedbox=\box102
-\@centerbox=\box103
-\c@ROWcellindex@=\count386
+\@addedbox=\box101
+\@anchorbox=\box102
+\stackedbox=\box103
+\@centerbox=\box104
+\c@ROWcellindex@=\count398
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 130.
+(hyperref)                removing `\\' on input line 134.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 130.
+(hyperref)                removing `\\' on input line 134.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 130.
+(hyperref)                removing `\\' on input line 134.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 130.
+(hyperref)                removing `\\' on input line 134.
 
 (./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.aux)
 \openout1 = `P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.aux'
 .
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 143.
-LaTeX Font Info:    ... okay on input line 143.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 143.
-LaTeX Font Info:    ... okay on input line 143.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 143.
-LaTeX Font Info:    ... okay on input line 143.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 143.
-LaTeX Font Info:    ... okay on input line 143.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 143.
-LaTeX Font Info:    ... okay on input line 143.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 143.
-LaTeX Font Info:    ... okay on input line 143.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 143.
-LaTeX Font Info:    ... okay on input line 143.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 143.
-LaTeX Font Info:    ... okay on input line 143.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 143.
-LaTeX Font Info:    ... okay on input line 143.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 147.
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 147.
+LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 1
+47.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
+)
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 147.
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
+47.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 147.
+LaTeX Font Info:    Checking defaults for LAE/cmr/m/n on input line 147.
+LaTeX Font Info:    Trying to load font information for LAE+cmr on input line 1
+47.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/arabi/laecmr.fd
+File: laecmr.fd 2006/01/01 v0.1 LaTeX Arabic default font description (test ver
+sion: may change)
+)
+LaTeX Font Info:    ... okay on input line 147.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1463,17 +2211,17 @@ LaTeX Font Info:    ... okay on input line 143.
 
 (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count387
-\scratchdimen=\dimen374
-\scratchbox=\box104
-\nofMPsegments=\count388
-\nofMParguments=\count389
-\everyMPshowfont=\toks59
-\MPscratchCnt=\count390
-\MPscratchDim=\dimen375
-\MPnumerator=\count391
-\makeMPintoPDFobject=\count392
-\everyMPtoPDFconversion=\toks60
+\scratchcounter=\count399
+\scratchdimen=\dimen382
+\scratchbox=\box105
+\nofMPsegments=\count400
+\nofMParguments=\count401
+\everyMPshowfont=\toks60
+\MPscratchCnt=\count402
+\MPscratchDim=\dimen383
+\MPnumerator=\count403
+\makeMPintoPDFobject=\count404
+\everyMPtoPDFconversion=\toks61
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1483,7 +2231,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 143.
+Package hyperref Info: Link coloring OFF on input line 147.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1495,11 +2243,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count393
+\c@section@level=\count405
 )
-LaTeX Info: Redefining \ref on input line 143.
-LaTeX Info: Redefining \pageref on input line 143.
-LaTeX Info: Redefining \nameref on input line 143.
+LaTeX Info: Redefining \ref on input line 147.
+LaTeX Info: Redefining \pageref on input line 147.
+LaTeX Info: Redefining \nameref on input line 147.
  (./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.out)
 (./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.out)
 \@outlinefile=\write7
@@ -1532,345 +2280,89 @@ tionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: french babel package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count394
+\c@lstlisting=\count406
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks61
-\inpenc@posthook=\toks62
+\inpenc@prehook=\toks62
+\inpenc@posthook=\toks63
 )
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
 your preamble.
- on input line 143.
+ on input line 147.
 
+(/usr/local/texlive/2021/texmf-dist/tex/latex/greek-fontenc/puenc-greek.def
+File: puenc-greek.def 2020/10/18 2.0 Greek LICRs for PDF strings
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+))
+LaTeX Info: Redefining \th on input line 147.
+LaTeX Info: Redefining \degres on input line 147.
+LaTeX Info: Redefining \dots on input line 147.
+
+Package french.ldf Warning: Please load the "listings" package
+(french.ldf)                AFTER babel/french; reported on input line 147.
+
+LaTeX Info: Redefining \up on input line 147.
 (./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.nav)
 
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:148: LaTeX 
+./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:152: LaTeX 
 Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.148 \end{frame}
+l.152 \end{frame}
                  
 ? 
-LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 148.
-[1
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+52.
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 152.
+ [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 167--167
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 171--171
  []|[]|  
  []
 
 <unibo-logo.png, id=76, 803.0pt x 803.0pt>
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 167.
+Package pdftex.def Info: unibo-logo.png  used on input line 171.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [2
 
  <./unibo-logo.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 188--188
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 192--192
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 188.
+Package pdftex.def Info: unibo-logo.png  used on input line 192.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [3
 
 ]
-(/usr/local/texlive/2021/texmf-dist/tex/generic/babel/locale/el/babel-greek.tex
-Package babel Info: Importing basic data for greek
-(babel)             from babel-el.ini. Reported on input line 11.
-)
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character μ (U+03BC)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-? 
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ε (U+03B5)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-? 
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character τ (U+03C4)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-? 
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ε (U+03B5)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-? 
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character μ (U+03BC)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-? s
-OK, entering \scrollmode...
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ψ (U+03C8)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ύ (U+03CD)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character χ (U+03C7)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ω (U+03C9)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character σ (U+03C3)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ι (U+03B9)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ς (U+03C2)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character π (U+03C0)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ά (U+03AC)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ν (U+03BD)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character τ (U+03C4)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character α (U+03B1)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ῥ (U+1FE5)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ε (U+03B5)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-./P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change.tex:210: Packag
-e inputenc Error: Unicode character ῖ (U+1FD6)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.210 \end{frame}
-                 
-You may provide a definition with
-\DeclareUnicodeCharacter 
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 210--210
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 209--209
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 210.
+Package pdftex.def Info: unibo-logo.png  used on input line 209.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [4
 
@@ -1886,406 +2378,219 @@ Package pdftex.def Info: unibo-logo.png  used on input line 234.
 [5
 
 ]
-<P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png, id=105, 223.0734pt x 189.8292
-pt>
-File: P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png Graphic file (type png)
-<use P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png  used 
-on input line 258.
-(pdftex.def)             Requested size: 170.71652pt x 145.27968pt.
+<P2023.AIBCCSS.Change/LaNascitaDiVenere.jpg, id=108, 1027.84pt x 658.46pt>
+File: P2023.AIBCCSS.Change/LaNascitaDiVenere.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Change/LaNascitaDiVenere.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Change/LaNascitaDiVenere.jpg  used on in
+put line 247.
+(pdftex.def)             Requested size: 227.62204pt x 145.81613pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 258--258
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 247--247
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 258.
+Package pdftex.def Info: unibo-logo.png  used on input line 247.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [6
 
- <./P2023.AIBCCSS.Drawing/LetterFreudGirlfriend.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 277--277
+ <./P2023.AIBCCSS.Change/LaNascitaDiVenere.jpg>]
+LaTeX Font Info:    Font shape `LAE/cmr/m/n' will be
+(Font)              scaled to size 15.0pt on input line 262.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 262--262
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 277.
+Package pdftex.def Info: unibo-logo.png  used on input line 262.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [7
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 294--294
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 282--282
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 294.
+Package pdftex.def Info: unibo-logo.png  used on input line 282.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [8
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 316--316
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 316.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[9
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 343--343
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 343.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[10
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 369--369
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 369.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[11
-
-]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 397
+LaTeX Font Info:    Trying to load font information for U+msa on input line 302
 .
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 397
+LaTeX Font Info:    Trying to load font information for U+msb on input line 302
 .
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 397--397
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 302--302
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 397.
+Package pdftex.def Info: unibo-logo.png  used on input line 302.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[9
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 327--327
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 327.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[10
+
+]
+<P2023.AIBCCSS.Change/change.Obama.jpg, id=146, 602.25pt x 401.5pt>
+File: P2023.AIBCCSS.Change/change.Obama.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Change/change.Obama.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Change/change.Obama.jpg  used on input l
+ine 344.
+(pdftex.def)             Requested size: 227.62204pt x 151.75064pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 344--344
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 344.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[11
+
+ <./P2023.AIBCCSS.Change/change.Obama.jpg>]
+<P2023.AIBCCSS.Change/SouthAfrica.Change.jpg, id=154, 1260.71pt x 708.6475pt>
+File: P2023.AIBCCSS.Change/SouthAfrica.Change.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Change/SouthAfrica.Change.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Change/SouthAfrica.Change.jpg  used on i
+nput line 364.
+(pdftex.def)             Requested size: 227.62204pt x 127.9403pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 364--364
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 364.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [12
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 422--422
+ <./P2023.AIBCCSS.Change/SouthAfrica.Change.jpg>]
+<P2023.AIBCCSS.Change/RinnovamentoItaliano.png, id=162, 2055.68pt x 2055.68pt>
+File: P2023.AIBCCSS.Change/RinnovamentoItaliano.png Graphic file (type png)
+<use P2023.AIBCCSS.Change/RinnovamentoItaliano.png>
+Package pdftex.def Info: P2023.AIBCCSS.Change/RinnovamentoItaliano.png  used on
+ input line 384.
+(pdftex.def)             Requested size: 113.81102pt x 113.79987pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 384--384
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 422.
+Package pdftex.def Info: unibo-logo.png  used on input line 384.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [13
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 441--441
+ <./P2023.AIBCCSS.Change/RinnovamentoItaliano.png>]
+<P2023.AIBCCSS.Change/change.IlBolscevico.jpg, id=172, 1518.67375pt x 2087.8pt>
+
+File: P2023.AIBCCSS.Change/change.IlBolscevico.jpg Graphic file (type jpg)
+<use P2023.AIBCCSS.Change/change.IlBolscevico.jpg>
+Package pdftex.def Info: P2023.AIBCCSS.Change/change.IlBolscevico.jpg  used on 
+input line 404.
+(pdftex.def)             Requested size: 113.81102pt x 156.4508pt.
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 404--404
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 441.
+Package pdftex.def Info: unibo-logo.png  used on input line 404.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [14
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 468--468
+ <./P2023.AIBCCSS.Change/change.IlBolscevico.jpg>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 421--421
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 468.
+Package pdftex.def Info: unibo-logo.png  used on input line 421.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [15
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 493--493
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 447--447
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 493.
+Package pdftex.def Info: unibo-logo.png  used on input line 447.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [16
 
 ]
-<P2023.AIBCCSS.Drawing/Lagrein.jpg, id=178, 1178.4025pt x 861.2175pt>
-File: P2023.AIBCCSS.Drawing/Lagrein.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/Lagrein.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/Lagrein.jpg  used on input line 
-507.
-(pdftex.def)             Requested size: 227.62204pt x 166.35323pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 507--507
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 457--457
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 507.
+Package pdftex.def Info: unibo-logo.png  used on input line 457.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [17
 
- <./P2023.AIBCCSS.Drawing/Lagrein.jpg>]
-<P2023.AIBCCSS.Drawing/aphasien.jpg, id=185, 1519.6775pt x 895.345pt>
-File: P2023.AIBCCSS.Drawing/aphasien.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/aphasien.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/aphasien.jpg  used on input line
- 525.
-(pdftex.def)             Requested size: 284.52756pt x 167.63086pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 525--525
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 467--467
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 525.
+Package pdftex.def Info: unibo-logo.png  used on input line 467.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [18
 
- <./P2023.AIBCCSS.Drawing/aphasien.jpg>]
-<P2023.AIBCCSS.Drawing/flowInsideMemory.jpg, id=192, 1782.66pt x 387.4475pt>
-File: P2023.AIBCCSS.Drawing/flowInsideMemory.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/flowInsideMemory.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/flowInsideMemory.jpg  used on in
-put line 550.
-(pdftex.def)             Requested size: 284.52756pt x 61.83914pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 550--550
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 477--477
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 550.
+Package pdftex.def Info: unibo-logo.png  used on input line 477.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [19
 
- <./P2023.AIBCCSS.Drawing/flowInsideMemory.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 571--571
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 490--490
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 571.
+Package pdftex.def Info: unibo-logo.png  used on input line 490.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [20
-
-]
-<P2023.AIBCCSS.Drawing/issuesArrivals.jpg, id=206, 1919.17pt x 798.985pt>
-File: P2023.AIBCCSS.Drawing/issuesArrivals.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/issuesArrivals.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/issuesArrivals.jpg  used on inpu
-t line 585.
-(pdftex.def)             Requested size: 341.43306pt x 142.14085pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 585--585
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 585.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[21
-
- <./P2023.AIBCCSS.Drawing/issuesArrivals.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 607--607
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 607.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[22
-
-]
-<P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg, id=219, 921.4425pt x 935.495
-pt>
-File: P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg  used
- on input line 627.
-(pdftex.def)             Requested size: 170.71652pt x 173.30652pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 627--627
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 627.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[23
-
- <./P2023.AIBCCSS.Drawing/selectingElementsFreud.jpg>]
-<P2023.AIBCCSS.Drawing/outerWorld.jpg, id=226, 835.12pt x 598.235pt>
-File: P2023.AIBCCSS.Drawing/outerWorld.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/outerWorld.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/outerWorld.jpg  used on input li
-ne 650.
-(pdftex.def)             Requested size: 156.49014pt x 112.09575pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 650--650
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 650.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[24
-
- <./P2023.AIBCCSS.Drawing/outerWorld.jpg>]
-<P2023.AIBCCSS.Drawing/schematizzazione.jpg, id=233, 915.42pt x 1118.1775pt>
-File: P2023.AIBCCSS.Drawing/schematizzazione.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/schematizzazione.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/schematizzazione.jpg  used on in
-put line 673.
-(pdftex.def)             Requested size: 99.58464pt x 121.63493pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 673--673
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 673.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[25
-
- <./P2023.AIBCCSS.Drawing/schematizzazione.jpg>]
-<P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg, id=241, 1051.93pt x 1302.8675
-pt>
-File: P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg  used 
-on input line 693.
-(pdftex.def)             Requested size: 142.26378pt x 176.1976pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 693--693
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 693.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[26
-
- <./P2023.AIBCCSS.Drawing/towardBuildingASchema.jpg>]
-<P2023.AIBCCSS.Drawing/perceptionMotility.jpg, id=248, 1784.6675pt x 700.6175pt
->
-File: P2023.AIBCCSS.Drawing/perceptionMotility.jpg Graphic file (type jpg)
-<use P2023.AIBCCSS.Drawing/perceptionMotility.jpg>
-Package pdftex.def Info: P2023.AIBCCSS.Drawing/perceptionMotility.jpg  used on 
-input line 714.
-(pdftex.def)             Requested size: 284.52756pt x 111.69484pt.
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 714--714
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 714.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[27
-
- <./P2023.AIBCCSS.Drawing/perceptionMotility.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 735--735
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 735.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[28
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 750--750
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 750.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[29
-
-]
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no t in font nullfont!
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 830--830
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 830.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[30
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 903--903
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 903.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (1.64351pt too high) detected at line 903
- []
-
-[31
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 914--914
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 914.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[32
 
 ]
 \tf@nav=\write8
@@ -2306,31 +2611,32 @@ evelopment.Change.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 45712 strings out of 478994
- 1059288 string characters out of 5858184
- 1695351 words of memory out of 5000000
- 62204 multiletter control sequences out of 15000+600000
- 419038 words of font info for 84 fonts, out of 8000000 for 9000
+ 48395 strings out of 478994
+ 1089660 string characters out of 5858184
+ 1728858 words of memory out of 5000000
+ 64841 multiletter control sequences out of 15000+600000
+ 428118 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,16n,132p,758b,2512s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+ 131i,16n,132p,758b,664s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/arabi/ararabeyes.enc}</usr/
+local/texlive/2021/texmf-dist/fonts/type1/arabi/arabeyes/ae_almohanad_bold.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
-/usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></u
-sr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr
-/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/l
-ocal/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loc
-al/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
-/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
-xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texli
-ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texliv
-e/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
-/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+/usr/local/texlive/2021/texmf-dist/fonts/type1/public/cbfonts/grmn1200.pfb></us
+r/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/
+local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/lo
+cal/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/loca
+l/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/
+texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1728.pfb></usr/local/texl
+ive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb></usr/local/texliv
+e/2021/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
 Output written on P2023.AIBCCSS.L08.CognitiveModelsInSoftwareDevelopment.Change
-.pdf (32 pages, 4712822 bytes).
+.pdf (20 pages, 2574255 bytes).
 PDF statistics:
- 355 PDF objects out of 1000 (max. 8388607)
- 253 compressed objects within 3 object streams
- 69 named destinations out of 1000 (max. 500000)
- 290 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 270 PDF objects out of 1000 (max. 8388607)
+ 187 compressed objects within 2 object streams
+ 41 named destinations out of 1000 (max. 500000)
+ 265 words of extra memory for PDF output out of 10000 (max. 10000000)
 

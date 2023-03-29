@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  28 MAR 2023 13:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  29 MAR 2023 07:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1770,72 +1770,72 @@ Package pdftex.def Info: unibo-logo.png  used on input line 455.
 [16
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 489--489
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 488--488
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 489.
+Package pdftex.def Info: unibo-logo.png  used on input line 488.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 
-Overfull \vbox (3.12741pt too high) detected at line 489
+Overfull \vbox (3.12741pt too high) detected at line 488
  []
 
 [17
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 524--524
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 523--523
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 524.
+Package pdftex.def Info: unibo-logo.png  used on input line 523.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [18
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 548--548
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 547--547
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 548.
+Package pdftex.def Info: unibo-logo.png  used on input line 547.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [19
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 568--568
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 567--567
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 568.
+Package pdftex.def Info: unibo-logo.png  used on input line 567.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [20
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 587--587
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 586--586
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 587.
+Package pdftex.def Info: unibo-logo.png  used on input line 586.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [21
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 607--607
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 606--606
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 607.
+Package pdftex.def Info: unibo-logo.png  used on input line 606.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [22
 
@@ -1847,16 +1847,16 @@ alPsychologicalST.png Graphic file (type png)
 <use P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/Sociologica
 lPsychologicalST.png>
 Package pdftex.def Info: P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemic
-Thinking/SociologicalPsychologicalST.png  used on input line 621.
+Thinking/SociologicalPsychologicalST.png  used on input line 620.
 (pdftex.def)             Requested size: 341.43306pt x 157.87534pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 621--621
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 620--620
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 621.
+Package pdftex.def Info: unibo-logo.png  used on input line 620.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [23
 
@@ -1869,19 +1869,19 @@ temicAnalysis.jpg Graphic file (type jpg)
 <use P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/ExampleSyst
 emicAnalysis.jpg>
 Package pdftex.def Info: P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemic
-Thinking/ExampleSystemicAnalysis.jpg  used on input line 635.
+Thinking/ExampleSystemicAnalysis.jpg  used on input line 634.
 (pdftex.def)             Requested size: 284.52756pt x 173.49387pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 635--635
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 634--634
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 635.
+Package pdftex.def Info: unibo-logo.png  used on input line 634.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 
-Overfull \vbox (1.55226pt too high) detected at line 635
+Overfull \vbox (1.55226pt too high) detected at line 634
  []
 
 [24
@@ -1895,142 +1895,142 @@ temic.jpg Graphic file (type jpg)
 <use P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/AkBars-Syst
 emic.jpg>
 Package pdftex.def Info: P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemic
-Thinking/AkBars-Systemic.jpg  used on input line 649.
+Thinking/AkBars-Systemic.jpg  used on input line 648.
 (pdftex.def)             Requested size: 284.52756pt x 184.69212pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 649--649
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 648--648
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 649.
+Package pdftex.def Info: unibo-logo.png  used on input line 648.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 
-Overfull \vbox (5.41719pt too high) detected at line 649
+Overfull \vbox (5.41719pt too high) detected at line 648
  []
 
 [25
 
  <./P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/AkBars-Syste
 mic.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 668--668
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 667--667
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 668.
+Package pdftex.def Info: unibo-logo.png  used on input line 667.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [26
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 690--690
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 689--689
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 690.
+Package pdftex.def Info: unibo-logo.png  used on input line 689.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [27
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 711--711
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 710--710
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 711.
+Package pdftex.def Info: unibo-logo.png  used on input line 710.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [28
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 740--740
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 739--739
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 740.
+Package pdftex.def Info: unibo-logo.png  used on input line 739.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [29
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 763--763
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 762--762
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 763.
+Package pdftex.def Info: unibo-logo.png  used on input line 762.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [30
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 786--786
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 785--785
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 786.
+Package pdftex.def Info: unibo-logo.png  used on input line 785.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [31
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 804--804
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 803--803
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 804.
+Package pdftex.def Info: unibo-logo.png  used on input line 803.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [32
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 819--819
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 818--818
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 819.
+Package pdftex.def Info: unibo-logo.png  used on input line 818.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [33
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 834--834
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 833--833
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 834.
+Package pdftex.def Info: unibo-logo.png  used on input line 833.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [34
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 857--857
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 856--856
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 857.
+Package pdftex.def Info: unibo-logo.png  used on input line 856.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [35
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 875--875
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 874--874
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 875.
+Package pdftex.def Info: unibo-logo.png  used on input line 874.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [36
 
@@ -2042,19 +2042,19 @@ _and_Ulysses_by_William_Etty.jpg Graphic file (type jpg)
 <use P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/The_Sirens_
 and_Ulysses_by_William_Etty.jpg>
 Package pdftex.def Info: P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemic
-Thinking/The_Sirens_and_Ulysses_by_William_Etty.jpg  used on input line 899.
+Thinking/The_Sirens_and_Ulysses_by_William_Etty.jpg  used on input line 898.
 (pdftex.def)             Requested size: 170.71652pt x 114.28815pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 899--899
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 898--898
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 899.
+Package pdftex.def Info: unibo-logo.png  used on input line 898.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 
-Overfull \vbox (1.01318pt too high) detected at line 899
+Overfull \vbox (1.01318pt too high) detected at line 898
  []
 
 [37
@@ -2068,39 +2068,39 @@ tributedCognition.jpg Graphic file (type jpg)
 <use P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/networkDist
 ributedCognition.jpg>
 Package pdftex.def Info: P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemic
-Thinking/networkDistributedCognition.jpg  used on input line 914.
+Thinking/networkDistributedCognition.jpg  used on input line 913.
 (pdftex.def)             Requested size: 284.52756pt x 139.17587pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 914--914
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 913--913
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 914.
+Package pdftex.def Info: unibo-logo.png  used on input line 913.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [38
 
  <./P2023.AIBCCSS.ExtendedMindDistributedCognitionSystemicThinking/networkDistr
 ibutedCognition.jpg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 934--934
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 933--933
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 934.
+Package pdftex.def Info: unibo-logo.png  used on input line 933.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [39
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 945--945
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 944--944
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 945.
+Package pdftex.def Info: unibo-logo.png  used on input line 944.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [40
 
@@ -2127,7 +2127,7 @@ evelopment.DistributedCognition.out' has not changed.
 Here is how much of TeX's memory you used:
  43425 strings out of 478994
  1009872 string characters out of 5858184
- 1654435 words of memory out of 5000000
+ 1654434 words of memory out of 5000000
  59943 multiletter control sequences out of 15000+600000
  415349 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191

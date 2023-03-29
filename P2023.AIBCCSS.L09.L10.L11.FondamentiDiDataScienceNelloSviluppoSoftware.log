@@ -1431,4 +1431,90 @@ Package hyperref Info: Link coloring OFF on input line 136.
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label referenc
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count385
+)
+LaTeX Info: Redefining \ref on input line 136.
+LaTeX Info: Redefining \pageref on input line 136.
+LaTeX Info: Redefining \nameref on input line 136.
+\@outlinefile=\write7
+\openout7 = `P2023.AIBCCSS.L09.L10.L11.FondamentiDiDataScienceNelloSviluppoSoft
+ware.out'.
+
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dicti
+onary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-bibliograph
+y-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-environment
+-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-months-dict
+ionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-numbers-dic
+tionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-theorem-dic
+tionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+\c@lstlisting=\count386
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks61
+\inpenc@posthook=\toks62
+)
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
+your preamble.
+ on input line 136.
+
+No file P2023.AIBCCSS.L09.L10.L11.FondamentiDiDataScienceNelloSviluppoSoftware.
+nav.
+
+./P2023.AIBCCSS.L09.L10.L11.FondamentiDiDataScienceNelloSviluppoSoftware.tex:14
+0: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140 \end{frame}
+                 
+? 
+./P2023.AIBCCSS.L09.L10.L11.FondamentiDiDataScienceNelloSviluppoSoftware.tex:14
+0: Emergency stop.
+ ...                                              
+                                                  
+l.140 \end{frame}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+ 
+Here is how much of TeX's memory you used:
+ 42806 strings out of 478994
+ 994350 string characters out of 5858184
+ 1641658 words of memory out of 5000000
+ 59461 multiletter control sequences out of 15000+600000
+ 404634 words of font info for 31 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 131i,10n,132p,767b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+./P2023.AIBCCSS.L09.L10.L11.FondamentiDiDataScienceNelloSviluppoSoftware.tex:14
+0:  ==> Fatal error occurred, no output PDF file produced!

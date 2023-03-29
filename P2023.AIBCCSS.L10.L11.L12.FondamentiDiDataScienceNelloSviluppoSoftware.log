@@ -1553,32 +1553,31 @@ ware.out'.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-bibliograph
-y-dictionary-English.dict
-Dictionary: translator-bibliography-dictionary, Language: English 
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-environment
--dictionary-English.dict
-Dictionary: translator-environment-dictionary, Language: English 
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-months-dict
-ionary-English.dict
-Dictionary: translator-months-dictionary, Language: English 
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-numbers-dic
-tionary-English.dict
-Dictionary: translator-numbers-dictionary, Language: English 
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-theorem-dic
-tionary-English.dict
-Dictionary: translator-theorem-dictionary, Language: English 
-)
-\c@lstlisting=\count394
+hline ...mpcnta \xdef \adl@rowsL {\adl@rowsL 
+                                                  (#1/\number \@tempcnta );}...
+l.200 \end{frame}
+                 
+? 
+./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:20
+0: Emergency stop.
+\adl@hline ...mpcnta \xdef \adl@rowsL {\adl@rowsL 
+                                                  (#1/\number \@tempcnta );}...
+l.200 \end{frame}
+                 
+End of file on the terminal!
 
-(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks63
+ 
+Here is how much of TeX's memory you used:
+ 43282 strings out of 478994
+ 1001815 string characters out of 5858184
+ 1647659 words of memory out of 5000000
+ 59897 multiletter control sequences out of 15000+600000
+ 411434 words of font info for 59 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 131i,16n,132p,767b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:20
+0:  ==> Fatal error occurred, no output PDF file produced!
+ok=\toks63
 \inpenc@posthook=\toks64
 )
 

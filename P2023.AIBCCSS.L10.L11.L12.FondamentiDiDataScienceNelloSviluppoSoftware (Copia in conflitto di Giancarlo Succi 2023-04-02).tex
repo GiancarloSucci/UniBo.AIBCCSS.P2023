@@ -19,7 +19,6 @@
   \usepackage{tikz}
   \usetikzlibrary{plotmarks}
   \usepackage{pgfplots}
-  \usepackage{cancel}
  %\usepackage{enumitem}
 %\usepackage{enumerate}
   %\usepackage[shortlabels]{enumitem}
@@ -45,8 +44,6 @@
 
 \setbeamertemplate{itemize/enumerate body begin}{\large}
 \setbeamertemplate{itemize/enumerate subbody begin}{\large}
-\setbeamertemplate{itemize/enumerate subsubbody begin}{\large}
-
 
 
 \defbeamertemplate*{headline}{mytheme}
@@ -321,7 +318,7 @@ Where $X$ and $Y$ are the phenomena that we are measuring.\\
 
 Note:
 \begin{itemize}
-\item we know that there is no line passing for $n$ arbitrary points with $3 \leq n$
+\item we know that there is no line passing for $n$ arbitrary points with $n \leq 3$
 \item we need to introduce an approximation
 $$ \hat{Y} = \theta_0 + \theta_1 \hat{X} + \epsilon $$
 \item in our case $\epsilon$ is the error introduced by the approximation
@@ -403,10 +400,10 @@ $$ \sum_{i=0}^{n-1}x_i(y_i - \theta_0 - \theta_1 x_i) = 0 $$
 
 From the first equation:
 
-$$ \textcolor{red}{\sum_{i=0}^{n-1}(\theta_0) }= \sum_{i=0}^{n-1}( \textcolor{orange}{y_i} - \textcolor{purple}{\theta_1 x_i})  \Rightarrow $$ \\
-$$ \textcolor{red}{\sum_{i=0}^{n-1}(\theta_0)} = \textcolor{orange}{\sum_{i=0}^{n-1}( y_i )} - \textcolor{purple}{\theta_1 \sum_{i=0}^{n-1}(x_i)}  \Rightarrow $$\\
-$$ \textcolor{cyan}{n} \textcolor{red}{\theta_0} =  \textcolor{cyan}{n} \textcolor{orange}{\bar{y}} -  \textcolor{cyan}{n} \textcolor{purple}{\theta_1 \bar{x}}  \Rightarrow $$\\
-$$ \textcolor{red}{\theta_0} = \textcolor{orange}{\bar{y}} - \textcolor{purple}{\theta_1 \bar{x} } $$
+$$ \sum_{i=0}^{n-1}(\theta_0) = \sum_{i=0}^{n-1}( y_i - \theta_1 x_i)  \Rightarrow $$ \\
+$$ \sum_{i=0}^{n-1}(\theta_0) = \sum_{i=0}^{n-1}( y_i ) - \theta_1 \sum_{i=0}^{n-1}(x_i)  \Rightarrow $$\\
+$$ n \theta_0 = n \bar{y} - n \theta_1 \bar{x}  \Rightarrow $$\\
+$$ \theta_0 = \bar{y} - \theta_1 \bar{x}  $$
 
 
 
@@ -414,11 +411,11 @@ $$ \textcolor{red}{\theta_0} = \textcolor{orange}{\bar{y}} - \textcolor{purple}{
 
 \begin{frame}
 {\centerline{Linear Regression -- In the second equation}}
-$$ \sum_{i=0}^{n-1}x_i(\textcolor{red}{y_i} - \textcolor{orange}{\theta_0} - \textcolor{purple}{\theta_1 x_i}) = 0   \Rightarrow $$
+$$ \sum_{i=0}^{n-1}x_i(y_i - \theta_0 - \theta_1 x_i) = 0   \Rightarrow $$
 
-$$ \textcolor{red}{\sum_{i=0}^{n-1}x_iy_i} - \textcolor{orange}{\theta_0 \sum_{i=0}^{n-1}x_i} - \textcolor{purple}{\theta_1 \sum_{i=0}^{n-1}x_i^2} = 0 \Rightarrow $$
+$$ \sum_{i=0}^{n-1}x_iy_i - \theta_0 \sum_{i=0}^{n-1}x_i - \theta_1 \sum_{i=0}^{n-1}x_i^2 = 0 \Rightarrow $$
 
-$$ \textcolor{red}{\sum_{i=0}^{n-1}x_iy_i} - \textcolor{orange}{n \theta_0 \bar{x}}  - \textcolor{purple}{n \theta_1 \bar{x^2}} = 0 \Rightarrow $$
+$$ \sum_{i=0}^{n-1}x_iy_i - n \theta_0 \bar{x}  - n \theta_1 \bar{x^2} = 0 \Rightarrow $$
 
 
 \end{frame}
@@ -428,22 +425,21 @@ $$ \textcolor{red}{\sum_{i=0}^{n-1}x_iy_i} - \textcolor{orange}{n \theta_0 \bar{
 
 Substituting $ \theta_0  = \bar{y} - \theta_1 \bar{x} $:
 
-$$ \textcolor{red}{\sum_{i=0}^{n-1}x_iy_i} - \textcolor{orange}{n (\textcolor{cyan}{\bar{y} - \theta_1 \bar{x}}) \bar{x}}  - \textcolor{purple}{n \theta_1 \bar{x^2}} = 0 \Rightarrow $$
+$$ \sum_{i=0}^{n-1}x_iy_i - n (\bar{y} - \theta_1 \bar{x}) \bar{x}  - n \theta_1 \bar{x^2} = 0 \Rightarrow $$
 
-$$ \textcolor{red}{\sum_{i=0}^{n-1}x_i y_i} - \textcolor{orange}{n \textcolor{cyan}{\bar{y}}\bar{x}} + \textcolor{orange}{n \textcolor{cyan}{\theta_1 \bar{x}}^2}  - \textcolor{purple}{n \theta_1 \bar{x^2}} = 0$$
+$$ \sum_{i=0}^{n-1}x_i y_i - n \bar{y}\bar{x} + n \theta_1 \bar{x}^2  - n \theta_1 \bar{x^2} = 0$$
 
-
-$$ \textcolor{red}{\sum_{i=0}^{n-1}x_i y_i} - \textcolor{orange}{n \bar{y}\bar{x}} + \textcolor{purple}{n \theta_1} \textcolor{cyan}{\bar{x^2}}  - \textcolor{purple}{n \theta_1} \textcolor{cyan}{\bar{x}^2}  = 0$$
-
-$$ \textcolor{purple}{n \theta_1} (\textcolor{cyan}{\bar{x^2}}  - \textcolor{cyan}{\bar{x}^2} ) = \textcolor{red}{ \sum_{i=0}^{n-1}x_i y_i} - \textcolor{orange}{n \bar{y}\bar{x}} $$
+$$ n \theta_1 (\bar{x^2}  - \bar{x}^2 ) = \sum_{i=0}^{n-1}x_i y_i - n \bar{y}\bar{x} $$
 \end{frame}
 
 \begin{frame}
 {\centerline{Linear Regression -- Final step}}
 
-$$ \textcolor{purple}{\theta_1}  = \frac {\textcolor{red}{\sum_{i=0}^{n-1}x_i y_i} - \textcolor{orange}{n \bar{y}\bar{x}}} {\textcolor{purple}{n} (\textcolor{cyan}{\bar{x^2}}  - \textcolor{cyan}{\bar{x}^2} ) }  = \frac { \frac {\textcolor{red}{\sum_{i=0}^{n-1}x_i y_i}}{\textcolor{orange}{n}}  - \cancel{\textcolor{orange}{n}} \textcolor{orange}{\bar{y}\bar{x}}} {  \cancel{\textcolor{purple}{n}} (\textcolor{cyan}{\bar{x^2}}  - \textcolor{cyan}{\bar{x}^2} ) } = \frac { \frac {\textcolor{red}{\sum_{i=0}^{n-1}x_i y_i}}{\textcolor{orange}{n}}  - \textcolor{orange}{\bar{y}\bar{x}}} { (\textcolor{cyan}{\bar{x^2}}  - \textcolor{cyan}{\bar{x}^2} ) } $$
+$$ \theta_1  = \frac {\sum_{i=0}^{n-1}x_i y_i - n \bar{y}\bar{x}} {n (\bar{x^2}  - \bar{x}^2 ) } $$
 \vspace*{0.2cm}
 
+$$ \theta_1  = \frac { \frac {\sum_{i=0}^{n-1}x_i y_i}{n}  - \bar{y}\bar{x}} { (\bar{x^2}  - \bar{x}^2 ) } $$
+\vspace*{0.2cm}
 
 $$ \theta_1  = \frac { Cov(x,y)} { Var(x) } $$
 
@@ -597,10 +593,10 @@ In fact, we might think to use linear regression to model phenomena, assuming a 
 Here are some “real world” examples (w.r.t. certain assumptions):
 
 \begin{itemize}
-\item Impact of SAT Score (or GPA) on College Admissions;
-\item Impact of product price on number of sales;
-\item Impact of rainfall amount on the number of fruits yielded;
-\item Impact of blood alcohol content on coordination.
+\item - Impact of SAT Score (or GPA) on College Admissions;
+\item - Impact of product price on number of sales;
+\item - Impact of rainfall amount on the number of fruits yielded;
+\item - Impact of blood alcohol content on coordination.
 \end{itemize}
 
 \end{frame}
@@ -610,8 +606,8 @@ Here are some “real world” examples (w.r.t. certain assumptions):
 We can evaluate the quality of linear regression, i.e. assess how good the model for the data that we have:
 
 \begin{itemize}
-\item by the sum of squares of residuals;
-\item by the coefficient of determination.
+\item - by the sum of squares of residuals;
+\item - by the coefficient of determination.
 \end{itemize}
 
 
@@ -753,17 +749,19 @@ $$ \frac{ \partial  (\boldsymbol X \cdot \boldsymbol \theta - \boldsymbol y)^T (
 \begin{itemize}
 \item Now we can consider that:
   $$ \frac{\partial (  \boldsymbol y^T \boldsymbol y )}
- { \partial \boldsymbol \theta} = 0 \text{~~~~and~~~~}   \frac{\partial (
+ { \partial \boldsymbol \theta} = 0 $$
+ \item that:
+  $$ \frac{\partial (
   (\boldsymbol X \cdot \boldsymbol \theta)^T \boldsymbol y
  )}
- { \partial \boldsymbol \theta} = \boldsymbol X^T \boldsymbol y  $$
- \item \textcolor{red}{Notice that $\boldsymbol X^T \boldsymbol y$ has dimension (n+1,m) $\cdot$ (m,1), that is, (n+1,1).}
+ { \partial \boldsymbol \theta} = \boldsymbol X^T \boldsymbol y$$
+ \item Notice that $\boldsymbol X^T \boldsymbol y$ has dimension (n+1,m) $\cdot$ (m,1), that is, (n+1,1).
 
- \item We can finally conclude that:
+ \item and finally that:
   $$ \frac{\partial (
  (\boldsymbol X \cdot \boldsymbol \theta)^T (\boldsymbol X \cdot \boldsymbol \theta) )}
  { \partial \boldsymbol \theta} = 2  \boldsymbol X^T  \boldsymbol X \boldsymbol \theta $$
- \item \textcolor{red}{Notice that $\boldsymbol X^T \boldsymbol X \boldsymbol \theta$ has dimension (n+1,m) $\cdot$ (m,n+1)  $\cdot$ (n+1,1), that is, (n+1,1) as it should be.}
+ \item Notice that $\boldsymbol X^T \boldsymbol X \boldsymbol \theta$ has dimension (n+1,m) $\cdot$ (m,n+1)  $\cdot$ (n+1,1), that is, (n+1,1) as it should be.
 
 \end{itemize}
 
@@ -1033,9 +1031,12 @@ QED.
 \item The covariance is linear with respect to multiplications by constants:
  $$(\forall a, b \in \mathbb{R}) ~~ Cov(aX,bY) = abCov(X,Y)$$
 
-\item If $e \sim N(0,\sigma)$, $Cov(X,e) = 0$
-$$Cov(X,e) =  E(Xe) - E(X)E(e) $$
-Moreover, $X$ and $e$ are independent and $E(e) = 0$\\
+\item If $e \sim N(0,\sigma)$, $Cov(X,e) = 0$ \\
+$$Cov(X,e) =  E(Xe) - E(X)E(e)$$
+Since  $X$ and $e$ are independent
+$$ E(Xe) = E(X)E(e)$$
+Moreover,  $e \sim N(0,\sigma)$
+$$E(e) = 0$$
 QED.
 \end{itemize}
 
@@ -1082,41 +1083,22 @@ Source : \url{https://www.geeksforgeeks.org/mathematics-covariance-and-correlati
 
 
 \begin{frame}
-{\centerline{About the Pearson Correlation Coefficient (1/2)}}
+{\centerline{About the Pearson Correlation Coefficient}}
 
 \begin{itemize}
 \item The Pearson correlation coefficient is also often expressed as:
 
 $$ r_{X,Y} = \frac{\sum_{i=1}^{n}(x_i-\overline{x})(y_i-\overline{y})}{\sqrt{\sum_{i=1}^{n}(x_i-\overline{x})^2\sum_{i=1}^{n}(y_i-\overline{y})^2}} $$
 \item It is symmetric: $r_{X,Y} = r_{Y,X}$
-\item It is invariant with respect to multiplications by, and additions of constants:\\
-$(\forall a, b, c, d \in \mathbb{R} , b \neq 0, d \neq 0)~~ r_{X,Y} = r_{(a + bX),(c + dY)} $
-\end{itemize}
-
-
-\end{frame}
-
-\begin{frame}
-{\centerline{About the Pearson Correlation Coefficient (2/2)}}
-
-\begin{itemize}
-\item The Pearson correlation coefficient is also often expressed as:
+\item It is invariant with respect to multiplications by, and additions of constants: $(\forall a, b, c, d \in \mathbb{R} , b \neq 0, d \neq 0)~~ r_{X,Y} = r_{(a + bX),(c + dY)} $
 \item It ranges from -1 to 1: $-1 \leq r_{X,Y} \leq 1$
-\begin{itemize}
-\item $ r_{X,Y}=1$ means perfect linear relationship
-\begin{itemize}
-\item all points lie on a monotonically increasing line
+$ r_{X,Y}=1$ means perfect linear relationship (all points lie on a monotonically increasing line) \\
+$ r_{X,Y}=-1$ means perfect opposite linear relationship (all points lie on a monotonically decreasing line)\\
+$ r_{X,Y}= 0$ means no linear relationship between $X$ and $Y$
 \end{itemize}
-\item $ r_{X,Y}=-1$ means perfect opposite linear relationship
-\begin{itemize}
-\item all points lie on a monotonically decreasing line
-\end{itemize}
-\item $ r_{X,Y}= 0$ means no linear relationship between $X$ and $Y$
-\end{itemize}
-\end{itemize}
+
 
 \end{frame}
-
 
 % ============= =========== % ============= ===========
 \begin{frame}
@@ -1252,7 +1234,7 @@ Source with modifications: \url{https://en.wikipedia.org/wiki/Explained_sum_of_s
 }
 \]
 \item from which we deduce by subtraction:
-$$\textcolor{red}{\hat{y}_i - \overline{y}} = \textcolor{red}{\theta_1 (x_i - \overline{x})}$$
+$$\hat{y}_i - \overline{y} = \theta_1 (x_i - \overline{x})$$
 \item remembering that:
 $$ \theta_1  = \frac { Cov(x,y)} { Var(x) } = {\frac {\sum _{i=1}^{n}(x_{i}-{\overline {x}})(y_{i}-{\overline {y}})}{\sum _{i=1}^{n}(x_{i}-{\overline {x}})^{2}}}$$
 \end{itemize}
@@ -1273,13 +1255,13 @@ Source with modifications: \url{https://en.wikipedia.org/wiki/Explained_sum_of_s
 
 \begin{itemize}
 \item So:
-$$\sum_i(y_{i}-{\hat {y}}_{i})({\textcolor{red}{\hat {y}_{i}-{\overline {y}}}}) = \sum_i(y_{i}-{\hat {y}}_{i})(\textcolor{red}{\theta_1 (x_i - \overline{x})})=$$
-$$= \textcolor{red}{\theta_1} \sum_i\textcolor{cyan}{(y_{i}-{\hat {y}}_{i})}\textcolor{red}{(x_i - \overline{x})}$$
+$$\sum_i(y_{i}-{\hat {y}}_{i})({\hat {y}}_{i}-{\overline {y}}) = \sum_i(y_{i}-{\hat {y}}_{i})(\theta_1 (x_i - \overline{x}))=$$
+$$= \theta_1 \sum_i(y_{i}-{\hat {y}}_{i})(x_i - \overline{x})$$
 \item Now, let's consider that:
-$$\textcolor{cyan}{(y_{i}-{\hat {y}}_{i})} = y_{i}-{\hat {y}}_{i} + \overline {y} - \overline {y} = (y_{i}-{\overline {y}})-({\hat {y}}_{i}-{\overline {y}})= $$
-$$ = \textcolor{cyan}{(y_{i}-{\overline {y}})-{\theta_1}(x_{i}-{\overline {x}})}$$
+$$(y_{i}-{\hat {y}}_{i})= y_{i}-{\hat {y}}_{i} + \overline {y} - \overline {y} = (y_{i}-{\overline {y}})-({\hat {y}}_{i}-{\overline {y}})= $$
+$$ = (y_{i}-{\overline {y}})-{\theta_1}(x_{i}-{\overline {x}})$$
 \item Substituting $(y_{i}-{\hat {y}}_{i})$ above we get:
-$$\textcolor{red}{\theta_1} \sum_i\textcolor{cyan}{(y_{i}-{\hat {y}}_{i})}\textcolor{red}{(x_i - \overline{x})}=\textcolor{red}{\theta_1} \sum_i\textcolor{cyan}{[(y_{i}-{\overline {y}})-{\theta_1}(x_{i}-{\overline {x}}) ]}\textcolor{red}{(x_i - \overline{x})} $$
+$$ \theta_1 \sum_i(y_{i}-{\hat {y}}_{i})(x_i - \overline{x})=\theta_1 \sum_i[(y_{i}-{\overline {y}})-{\theta_1}(x_{i}-{\overline {x}}) ](x_i - \overline{x}) $$
 
 
 \end{itemize}
@@ -1604,7 +1586,6 @@ $$ \mu = \int_{- \infty }^{+ \infty} xf_x(x)dx$$
 \begin{center}
 \tiny 
 Source with modifications: \url{https://en.wikipedia.org/wiki/Markov\%27s_inequality}
-\end{center}
 
 \end{frame}
 
@@ -1623,7 +1604,6 @@ $$ \mu \geq \int_{k}^{+ \infty} xf_x(x)dx \geq k\int_{k}^{+ \infty} f_x(x)dx =  
 \begin{center}
 \tiny 
 Source with modifications: \url{https://en.wikipedia.org/wiki/Markov\%27s_inequality}
-\end{center}
 
 \end{frame}
 
@@ -1641,7 +1621,6 @@ $$  \mathbb{P} ( X  \geq k) \leq \frac{\mu}{k}$$
 \begin{center}
 \tiny 
 Source with modifications: \url{https://en.wikipedia.org/wiki/Markov\%27s_inequality}
-\end{center}
 
 \end{frame}
 
@@ -1842,7 +1821,6 @@ $\mu_X(4) = 192$
 \begin{center}
 \tiny 
 Source with modifications: \url{https://www.statlect.com/fundamentals-of-probability/moments}
-\end{center}
 
 \end{frame}
 
@@ -2047,12 +2025,12 @@ The last piece of information that we miss are the following two properties:
 \item  \textbf{Property 1: Moment of the Sum} Let $Y = \sum_{i=1}^{i=n} X_i$ where  $X_i$ are iid random variables then:
 $$M_Y(t) = \prod_{i=1}^{i=n} M_{X_i}(t)$$
 Proof:
-$$M_Y(t) = E(e^{tY}) = E(e^{t\sum_{i=1}^{i=n} X_i}) = E(\prod_{i=1}^{i=n}e^{tX_i})=\prod_{i=1}^{i=n} M_{X_i}(t)$$
+$$M_Y(t) = E(e^{tY}) = E(e^{t\sum_{i=1}^{i=n} X_i}) = E(\prod_{i=1}^{i=n}e^{tX_i})=$$
+$$ = \prod_{i=1}^{i=n}E(e^{tX_i})=\prod_{i=1}^{i=n} M_{X_i}(t)$$
 QED
 \end{itemize}
 
-\begin{center}
-\tiny
+\textit{\tiny
 Source with modifications: \url{https://onlinecourses.science.psu.edu/stat414/node/170/}
 \end{center}
 \end{frame}
@@ -2071,8 +2049,8 @@ QED
 \item Corollary: the sum of randomly iid Gaussian r.v. is still Gaussian.
 \end{itemize}
 
-\begin{center}
-\tiny 
+\textit{\tiny
+\vspace{-\baselineskip}
 Source with modifications: \url{https://onlinecourses.science.psu.edu/stat414/node/170/} and \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11/clt-proof.pdf}
 \end{center}
 \end{frame}
@@ -2096,8 +2074,8 @@ $$
 
 \end{itemize}
 
-\begin{center}
-\tiny 
+\textit{\tiny
+\vspace{-\baselineskip}
 Source with modifications: \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11/clt-proof.pdf} and \url{https://en.wikipedia.org/wiki/Central_limit_theorem}
 \end{center}
 \end{frame}
@@ -2116,8 +2094,8 @@ $$\mathfrak{W_n}= \frac{\sum_{i=1}^{i=n}{\mathfrak{Xn}_i} }{\sigma\sqrt{n}} $$
 \item We want to prove that $\mathfrak{W_n} \sim N(0,1)$ demonstrating that its moment is the same as the one of $N(0,1)$
 \end{itemize}
 
-\begin{center}
-\tiny 
+\textit{\tiny
+\vspace{-\baselineskip}
 Source with modifications: \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11/clt-proof.pdf} and \url{https://en.wikipedia.org/wiki/Central_limit_theorem}
 \end{center}
 \end{frame}
@@ -2137,12 +2115,12 @@ $$M_\mathfrak{Wn}(t)  = M_\mathfrak{Dn} \left (\frac{t}{\sigma} \right ) = \left
 
 
 \item In essence we need to evaluate the limit for $n$ going to infinite of $\left [ M_\mathfrak{X_i} \left (\frac{t}{\sigma\sqrt{n}} \right ) \right ] ^ n $
-\item We want to prove that such limit is equal to:
-$$M_{N(0,1)}(t) = e^{\frac{1}{2}t^2} \text{~~~(the momentum of }N(0,1)\text{~)}$$
+\item We want to prove that such limit is equal to the momentum of the standard normal distribution:
+$$M_{N(0,1)}(t) = e^{\frac{1}{2}t^2} $$
 \end{itemize}
 
-\begin{center}
-\tiny 
+\textit{\tiny
+\vspace{-\baselineskip}
 Source with modifications: \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11/clt-proof.pdf} and \url{https://en.wikipedia.org/wiki/Central_limit_theorem}
 \end{center}
 \end{frame}
@@ -2162,8 +2140,8 @@ $$\lim_{p \to 0} \frac{\ln M_\mathfrak{X_i}(\frac{tp}{\sigma})}{p^2} = $$
 
 \end{itemize}
 
-\begin{center}
-\tiny 
+\textit{\tiny
+\vspace{-\baselineskip}
 Source with modifications: \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11/clt-proof.pdf} and \url{https://en.wikipedia.org/wiki/Central_limit_theorem}
 \end{center}
 \end{frame}
@@ -2185,8 +2163,8 @@ $$
 
 \end{itemize}
 
-\begin{center}
-\tiny 
+\textit{\tiny
+\vspace{-\baselineskip}
 Source with modifications: \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11/clt-proof.pdf} and \url{https://en.wikipedia.org/wiki/Central_limit_theorem}
 \end{center}
 \end{frame}
@@ -2206,8 +2184,8 @@ $$ \lim_{p \to 0} \left [ M_\mathfrak{X_i}(\frac{tp}{\sigma})+ p \frac{d M_\math
 $$ =  M_\mathfrak{X_i}(0) = 1 $$
 \end{itemize}
 
-\begin{center}
-\tiny 
+\textit{\tiny
+\vspace{-\baselineskip}
 Source with modifications: \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11/clt-proof.pdf} and \url{https://en.wikipedia.org/wiki/Central_limit_theorem}
 \end{center}
 \end{frame}
@@ -2224,9 +2202,9 @@ $$\lim_{n \to + \infty} M_\mathfrak{Wn}(t) = e ^{\frac{1}{2}t^2}$$
 QED
 \end{itemize}
 
-\begin{center}
-\tiny 
-Source with modifications: \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11/clt-proof.pdf} and \url{https://en.wikipedia.org/wiki/Central_limit_theorem}
+\textit{\tiny
+\vspace{-\baselineskip}
+Source with modifications: \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11/clt-proof.pdf} and \url{https://en.wikipedia.org/wiki/Central_limit_theorem
 \end{center}
 \end{frame}
 

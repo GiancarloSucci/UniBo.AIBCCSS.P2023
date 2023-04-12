@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  29 MAR 2023 08:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  12 APR 2023 16:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1174,6 +1174,9 @@ brarydecorations.pathreplacing.code.tex))
 \pgfplots@zmin@reg=\dimen338
 \pgfplots@zmax@reg=\dimen339
 ))
+(/usr/local/texlive/2021/texmf-dist/tex/latex/cancel/cancel.sty
+Package: cancel 2013/04/12 v2.2 Cancel math terms
+)
 (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2021/03/24 3.56 The Babel package
 
@@ -1389,86 +1392,43 @@ sep char (CT)
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 125.
+(hyperref)                removing `\\' on input line 128.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 125.
+(hyperref)                removing `\\' on input line 128.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 125.
+(hyperref)                removing `\\' on input line 128.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 125.
+(hyperref)                removing `\\' on input line 128.
 
-(./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.aux
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.aux:14
-0: You can't use `\spacefactor' in vertical mode.
-\@ ->\spacefactor 
-                  \@m {}
-l.140 \@
-        
-? 
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.aux:14
-0: Missing $ inserted.
-<inserted text> 
-                $
-l.140 \@
-        
-? 
-
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.aux:14
-0: LaTeX Error: Missing \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.140 \@
-        
-? 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 140
-.
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 140
-.
-
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:13
-8: Missing $ inserted.
-<inserted text> 
-                $
-l.138 \begin{document}
-                      
-? 
-Missing character: There is no è in font cmex10!
+(./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.aux)
 \openout1 = `P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoft
 ware.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 138.
-LaTeX Font Info:    ... okay on input line 138.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1525,7 +1485,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 138.
+Package hyperref Info: Link coloring OFF on input line 141.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -1539,9 +1499,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count393
 )
-LaTeX Info: Redefining \ref on input line 138.
-LaTeX Info: Redefining \pageref on input line 138.
-LaTeX Info: Redefining \nameref on input line 138.
+LaTeX Info: Redefining \ref on input line 141.
+LaTeX Info: Redefining \pageref on input line 141.
+LaTeX Info: Redefining \nameref on input line 141.
 
 (./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.out)
 (./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.out)
@@ -1553,931 +1513,905 @@ ware.out'.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-basic-dicti
 onary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
-hline ...mpcnta \xdef \adl@rowsL {\adl@rowsL 
-                                                  (#1/\number \@tempcnta );}...
-l.200 \end{frame}
-                 
-? 
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:20
-0: Emergency stop.
-\adl@hline ...mpcnta \xdef \adl@rowsL {\adl@rowsL 
-                                                  (#1/\number \@tempcnta );}...
-l.200 \end{frame}
-                 
-End of file on the terminal!
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-bibliograph
+y-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-environment
+-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-months-dict
+ionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-numbers-dic
+tionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/translator/translator-theorem-dic
+tionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+\c@lstlisting=\count394
 
- 
-Here is how much of TeX's memory you used:
- 43282 strings out of 478994
- 1001815 string characters out of 5858184
- 1647659 words of memory out of 5000000
- 59897 multiletter control sequences out of 15000+600000
- 411434 words of font info for 59 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 131i,16n,132p,767b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:20
-0:  ==> Fatal error occurred, no output PDF file produced!
-ok=\toks63
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks63
 \inpenc@posthook=\toks64
 )
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into 
 your preamble.
- on input line 138.
+ on input line 141.
 
 (./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.nav)
 
 ./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:14
-2: LaTeX Error: There's no line here to end.
+5: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.142 \end{frame}
+l.145 \end{frame}
                  
 ? 
 LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 142.
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 145.
+[1
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [1
-
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 160--160
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 163--163
  []|[]|  
  []
 
-<unibo-logo.png, id=82, 803.0pt x 803.0pt>
+<unibo-logo.png, id=76, 803.0pt x 803.0pt>
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 160.
+Package pdftex.def Info: unibo-logo.png  used on input line 163.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[2
+
+ <./unibo-logo.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 173--173
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 173.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [3
 
- <./unibo-logo.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 170--170
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 203
+.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 203
+.
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 203--203
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 170.
+Package pdftex.def Info: unibo-logo.png  used on input line 203.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+
+Overfull \vbox (42.17984pt too high) detected at line 203
+ []
+
 [4
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 200--200
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 215--215
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 200.
+Package pdftex.def Info: unibo-logo.png  used on input line 215.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (42.17984pt too high) detected at line 200
- []
-
 [5
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 212--212
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 212.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[6
-
-]
-<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Points.png, id=117, 453.
+<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Points.png, id=111, 453.
 63322pt x 255.85912pt>
 File: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Points.png Graphic 
 file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Points.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_
-Points.png  used on input line 224.
+Points.png  used on input line 227.
 (pdftex.def)             Requested size: 284.52756pt x 160.48154pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 224--224
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 227--227
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 224.
+Package pdftex.def Info: unibo-logo.png  used on input line 227.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[7
+[6
 
  <./P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Points.png>]
-<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Lines.png, id=126, 453.6
+<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Lines.png, id=119, 453.6
 3322pt x 255.85912pt>
 File: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Lines.png Graphic f
 ile (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Lines.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_
-Lines.png  used on input line 238.
+Lines.png  used on input line 241.
 (pdftex.def)             Requested size: 284.52756pt x 160.48154pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 238--238
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 241--241
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 238.
+Package pdftex.def Info: unibo-logo.png  used on input line 241.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[7
+
+ <./P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Lines.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 258--258
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 258.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [8
 
- <./P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Lines.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 255--255
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 255.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[9
-
 ]
-<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_OLS.png, id=140, 455.469
+<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_OLS.png, id=134, 455.469
 07pt x 256.02628pt>
 File: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_OLS.png Graphic fil
 e (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/LinearRegression_OLS.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_
-OLS.png  used on input line 269.
+OLS.png  used on input line 272.
 (pdftex.def)             Requested size: 341.43306pt x 191.93718pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 269--269
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 272--272
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 269.
+Package pdftex.def Info: unibo-logo.png  used on input line 272.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[10
+[9
 
  <./P2023.AIBCCSS.FoundationsDataScience/LinearRegression_OLS.png>]
-<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree3.png, id=148, 455
+<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree3.png, id=142, 455
 .46907pt x 256.02628pt>
 File: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree3.png Graphic
  file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree3.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_
-Degree3.png  used on input line 281.
+Degree3.png  used on input line 284.
 (pdftex.def)             Requested size: 341.43306pt x 191.93718pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 281--281
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 284--284
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 281.
+Package pdftex.def Info: unibo-logo.png  used on input line 284.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[11
+[10
 
  <./P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree3.png>]
-<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree5.png, id=156, 455
+<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree5.png, id=150, 455
 .46907pt x 256.02628pt>
 File: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree5.png Graphic
  file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree5.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_
-Degree5.png  used on input line 293.
+Degree5.png  used on input line 296.
 (pdftex.def)             Requested size: 341.43306pt x 191.93718pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 293--293
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 296--296
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 293.
+Package pdftex.def Info: unibo-logo.png  used on input line 296.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[12
+[11
 
  <./P2023.AIBCCSS.FoundationsDataScience/LinearRegression_Degree5.png>]
-<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_O35.png, id=164, 453.633
+<P2023.AIBCCSS.FoundationsDataScience/LinearRegression_O35.png, id=158, 453.633
 22pt x 256.44194pt>
 File: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_O35.png Graphic fil
 e (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/LinearRegression_O35.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/LinearRegression_
-O35.png  used on input line 305.
+O35.png  used on input line 308.
 (pdftex.def)             Requested size: 341.43306pt x 193.01573pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 305--305
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 308--308
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 305.
+Package pdftex.def Info: unibo-logo.png  used on input line 308.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 
-Overfull \vbox (1.17413pt too high) detected at line 305
+Overfull \vbox (1.17413pt too high) detected at line 308
  []
 
-[13
+[12
 
  <./P2023.AIBCCSS.FoundationsDataScience/LinearRegression_O35.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 329--329
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 332--332
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 329.
+Package pdftex.def Info: unibo-logo.png  used on input line 332.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[13
 
-Overfull \vbox (5.32764pt too high) detected at line 329
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 345--345
+ []|[]|  
  []
 
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 345.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [14
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 342--342
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 363--363
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 342.
+Package pdftex.def Info: unibo-logo.png  used on input line 363.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [15
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 360--360
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 380--380
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 360.
+Package pdftex.def Info: unibo-logo.png  used on input line 380.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [16
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 377--377
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 390--390
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 377.
+Package pdftex.def Info: unibo-logo.png  used on input line 390.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [17
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 387--387
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 399--399
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 387.
+Package pdftex.def Info: unibo-logo.png  used on input line 399.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [18
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 396--396
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 413--413
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 396.
+Package pdftex.def Info: unibo-logo.png  used on input line 413.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [19
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 410--410
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 424--424
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 410.
+Package pdftex.def Info: unibo-logo.png  used on input line 424.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [20
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 421--421
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 439--439
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 421.
+Package pdftex.def Info: unibo-logo.png  used on input line 439.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [21
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 433--433
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 455--455
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 433.
+Package pdftex.def Info: unibo-logo.png  used on input line 455.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [22
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 451--451
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 490--490
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 451.
+Package pdftex.def Info: unibo-logo.png  used on input line 490.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (0.22191pt too high) detected at line 451
- []
-
 [23
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 487--487
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 516--516
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 487.
+Package pdftex.def Info: unibo-logo.png  used on input line 516.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (3.85861pt too high) detected at line 487
- []
-
 [24
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 513--513
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 513.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[25
-
-]
-<P2023.AIBCCSS.FoundationsDataScience/points-1.png, id=255, 115.43124pt x 237.8
+<P2023.AIBCCSS.FoundationsDataScience/points-1.png, id=249, 115.43124pt x 237.8
 8875pt>
 File: P2023.AIBCCSS.FoundationsDataScience/points-1.png Graphic file (type png)
 
 <use P2023.AIBCCSS.FoundationsDataScience/points-1.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/points-1.png  use
-d on input line 523.
+d on input line 526.
 (pdftex.def)             Requested size: 56.9055pt x 117.27432pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 523--523
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 526--526
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 523.
+Package pdftex.def Info: unibo-logo.png  used on input line 526.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[26
+[25
 
  <./P2023.AIBCCSS.FoundationsDataScience/points-1.png>]
-<P2023.AIBCCSS.FoundationsDataScience/points-2.png, id=263, 669.50125pt x 604.2
+<P2023.AIBCCSS.FoundationsDataScience/points-2.png, id=258, 669.50125pt x 604.2
 575pt>
 File: P2023.AIBCCSS.FoundationsDataScience/points-2.png Graphic file (type png)
 
 <use P2023.AIBCCSS.FoundationsDataScience/points-2.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/points-2.png  use
-d on input line 533.
+d on input line 536.
 (pdftex.def)             Requested size: 170.71652pt x 154.07901pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 533--533
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 536--536
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 533.
+Package pdftex.def Info: unibo-logo.png  used on input line 536.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[27
+[26
 
  <./P2023.AIBCCSS.FoundationsDataScience/points-2.png>]
-Overfull \hbox (0.84468pt too wide) in paragraph at lines 560--560
+Overfull \hbox (0.84468pt too wide) in paragraph at lines 563--563
  [] 
  []
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 560--560
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 563--563
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 560.
+Package pdftex.def Info: unibo-logo.png  used on input line 563.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[27
+
+]
+Overfull \hbox (0.84468pt too wide) in paragraph at lines 590--590
+ [] 
+ []
+
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 590--590
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 590.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [28
 
 ]
-Overfull \hbox (0.84468pt too wide) in paragraph at lines 587--587
- [] 
- []
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 587--587
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 606--606
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 587.
+Package pdftex.def Info: unibo-logo.png  used on input line 606.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [29
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 603--603
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 619--619
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 603.
+Package pdftex.def Info: unibo-logo.png  used on input line 619.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [30
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 616--616
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 631--631
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 616.
+Package pdftex.def Info: unibo-logo.png  used on input line 631.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [31
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 628--628
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 647--647
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 628.
+Package pdftex.def Info: unibo-logo.png  used on input line 647.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [32
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 644--644
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 662--662
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 644.
+Package pdftex.def Info: unibo-logo.png  used on input line 662.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [33
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 659--659
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 659.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[34
-
-]
-<P2023.AIBCCSS.FoundationsDataScience/r2.png, id=314, 1568.86125pt x 608.2725pt
+<P2023.AIBCCSS.FoundationsDataScience/r2.png, id=309, 1568.86125pt x 608.2725pt
 >
 File: P2023.AIBCCSS.FoundationsDataScience/r2.png Graphic file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/r2.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/r2.png  used on i
-nput line 668.
+nput line 671.
 (pdftex.def)             Requested size: 341.43306pt x 132.37245pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 668--668
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 671--671
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 668.
+Package pdftex.def Info: unibo-logo.png  used on input line 671.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[34
+
+ <./P2023.AIBCCSS.FoundationsDataScience/r2.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 688--688
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 688.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [35
 
- <./P2023.AIBCCSS.FoundationsDataScience/r2.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 685--685
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 700--700
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 685.
+Package pdftex.def Info: unibo-logo.png  used on input line 700.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [36
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 697--697
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 722--722
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 697.
+Package pdftex.def Info: unibo-logo.png  used on input line 722.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [37
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 723--723
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 748--748
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 723.
+Package pdftex.def Info: unibo-logo.png  used on input line 748.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (32.5584pt too high) detected at line 723
- []
-
 [38
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 749--749
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 770--770
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 749.
+Package pdftex.def Info: unibo-logo.png  used on input line 770.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [39
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 773--773
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 790--790
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 773.
+Package pdftex.def Info: unibo-logo.png  used on input line 790.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [40
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 793--793
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 819--819
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 793.
+Package pdftex.def Info: unibo-logo.png  used on input line 819.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [41
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 822--822
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 822.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[42
-
-]
-<P2023.AIBCCSS.FoundationsDataScience/gd-1.png, id=370, 592.2125pt x 371.3875pt
+<P2023.AIBCCSS.FoundationsDataScience/gd-1.png, id=365, 592.2125pt x 371.3875pt
 >
 File: P2023.AIBCCSS.FoundationsDataScience/gd-1.png Graphic file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/gd-1.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/gd-1.png  used on
- input line 837.
+ input line 834.
 (pdftex.def)             Requested size: 227.62204pt x 142.74377pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 837--837
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 834--834
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 837.
+Package pdftex.def Info: unibo-logo.png  used on input line 834.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[42
+
+ <./P2023.AIBCCSS.FoundationsDataScience/gd-1.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 852--852
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 852.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [43
 
- <./P2023.AIBCCSS.FoundationsDataScience/gd-1.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 856--856
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 863--863
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 856.
+Package pdftex.def Info: unibo-logo.png  used on input line 863.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [44
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 867--867
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 878--878
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 867.
+Package pdftex.def Info: unibo-logo.png  used on input line 878.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [45
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 882--882
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 882.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[46
-
-]
-<P2023.AIBCCSS.FoundationsDataScience/gd-2.png, id=397, 595.22375pt x 321.2pt>
+<P2023.AIBCCSS.FoundationsDataScience/gd-2.png, id=392, 595.22375pt x 321.2pt>
 File: P2023.AIBCCSS.FoundationsDataScience/gd-2.png Graphic file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/gd-2.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/gd-2.png  used on
- input line 902.
+ input line 898.
 (pdftex.def)             Requested size: 170.71652pt x 92.12128pt.
-<P2023.AIBCCSS.FoundationsDataScience/gd-3.png, id=398, 594.22pt x 325.215pt>
+<P2023.AIBCCSS.FoundationsDataScience/gd-3.png, id=393, 594.22pt x 325.215pt>
 File: P2023.AIBCCSS.FoundationsDataScience/gd-3.png Graphic file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/gd-3.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/gd-3.png  used on
- input line 902.
+ input line 898.
 (pdftex.def)             Requested size: 170.71652pt x 93.4316pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 902--902
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 898--898
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 902.
+Package pdftex.def Info: unibo-logo.png  used on input line 898.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[47
+[46
 
  <./P2023.AIBCCSS.FoundationsDataScience/gd-2.png> <./P2023.AIBCCSS.Foundations
 DataScience/gd-3.png>]
-<P2023.AIBCCSS.FoundationsDataScience/gd-4.png, id=407, 594.22pt x 341.275pt>
+<P2023.AIBCCSS.FoundationsDataScience/gd-4.png, id=402, 594.22pt x 341.275pt>
 File: P2023.AIBCCSS.FoundationsDataScience/gd-4.png Graphic file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/gd-4.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/gd-4.png  used on
- input line 909.
+ input line 905.
 (pdftex.def)             Requested size: 227.62204pt x 130.72733pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 909--909
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 905--905
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 909.
+Package pdftex.def Info: unibo-logo.png  used on input line 905.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[47
+
+ <./P2023.AIBCCSS.FoundationsDataScience/gd-4.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 934--934
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 934.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [48
 
- <./P2023.AIBCCSS.FoundationsDataScience/gd-4.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 938--938
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 948--948
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 938.
+Package pdftex.def Info: unibo-logo.png  used on input line 948.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [49
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 952--952
- []|  
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 956--956
+ []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 952.
+Package pdftex.def Info: unibo-logo.png  used on input line 956.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [50
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 960--960
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 967--967
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 960.
+Package pdftex.def Info: unibo-logo.png  used on input line 967.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [51
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 971--971
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 983--983
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 971.
+Package pdftex.def Info: unibo-logo.png  used on input line 983.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [52
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 987--987
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 987.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[53
-
-]
-<P2023.AIBCCSS.FoundationsDataScience/Covar.png, id=451, 495.35063pt x 274.0237
+<P2023.AIBCCSS.FoundationsDataScience/Covar.png, id=446, 495.35063pt x 274.0237
 4pt>
 File: P2023.AIBCCSS.FoundationsDataScience/Covar.png Graphic file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/Covar.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/Covar.png  used o
-n input line 999.
+n input line 998.
 (pdftex.def)             Requested size: 284.52756pt x 157.39935pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 999--999
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 998--998
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 999.
+Package pdftex.def Info: unibo-logo.png  used on input line 998.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[53
+
+ <./P2023.AIBCCSS.FoundationsDataScience/Covar.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1024--1024
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1024.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [54
 
- <./P2023.AIBCCSS.FoundationsDataScience/Covar.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1025--1025
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1043--1043
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1025.
+Package pdftex.def Info: unibo-logo.png  used on input line 1043.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [55
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1047--1047
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1067--1067
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1047.
+Package pdftex.def Info: unibo-logo.png  used on input line 1067.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (14.39171pt too high) detected at line 1047
- []
-
 [56
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1069--1069
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1069.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[57
-
-]
-<P2023.AIBCCSS.FoundationsDataScience/Correl.png, id=485, 478.03593pt x 295.855
+<P2023.AIBCCSS.FoundationsDataScience/Correl.png, id=479, 478.03593pt x 295.855
 32pt>
 File: P2023.AIBCCSS.FoundationsDataScience/Correl.png Graphic file (type png)
 <use P2023.AIBCCSS.FoundationsDataScience/Correl.png>
 Package pdftex.def Info: P2023.AIBCCSS.FoundationsDataScience/Correl.png  used 
-on input line 1080.
+on input line 1081.
 (pdftex.def)             Requested size: 284.52756pt x 176.09251pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1080--1080
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1081--1081
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1080.
+Package pdftex.def Info: unibo-logo.png  used on input line 1081.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[57
+
+ <./P2023.AIBCCSS.FoundationsDataScience/Correl.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1097--1097
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1097.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [58
 
- <./P2023.AIBCCSS.FoundationsDataScience/Correl.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1099--1099
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1118--1118
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1099.
+Package pdftex.def Info: unibo-logo.png  used on input line 1118.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [59
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1116--1116
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1136--1136
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1116.
+Package pdftex.def Info: unibo-logo.png  used on input line 1136.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [60
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1138--1138
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1158--1158
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1138.
+Package pdftex.def Info: unibo-logo.png  used on input line 1158.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [61
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1150--1150
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1170--1170
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1150.
+Package pdftex.def Info: unibo-logo.png  used on input line 1170.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [62
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1171--1171
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1191--1191
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1171.
+Package pdftex.def Info: unibo-logo.png  used on input line 1191.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [63
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1194--1194
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1217--1217
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1194.
+Package pdftex.def Info: unibo-logo.png  used on input line 1217.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [64
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1213--1213
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1213.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[65
-
-]
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:12
-39: L'indice n'est pas un nombre entier !.
-<argument> ...indice n'est pas un nombre entier !}
-                                                  
-l.1239 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:12
-39: Missing number, treated as zero.
-<to be read again> 
-                   i
-l.1239 \end{frame}
-                  
-? 
-
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 1239--1239
  []|[]|  
  []
@@ -2486,266 +2420,247 @@ File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 1239.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[65
+
+]
+./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:12
+65: L'indice n'est pas un nombre entier !.
+<argument> ...indice n'est pas un nombre entier !}
+                                                  
+l.1265 \end{frame}
+                  
+? 
+./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:12
+65: Missing number, treated as zero.
+<to be read again> 
+                   i
+l.1265 \end{frame}
+                  
+? 
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1265--1265
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1265.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [66
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1262--1262
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1292--1292
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1262.
+Package pdftex.def Info: unibo-logo.png  used on input line 1292.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (2.08081pt too high) detected at line 1262
- []
-
 [67
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1283--1283
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1316--1316
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1283.
+Package pdftex.def Info: unibo-logo.png  used on input line 1316.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [68
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1311--1311
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1347--1347
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1311.
+Package pdftex.def Info: unibo-logo.png  used on input line 1347.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (9.81271pt too high) detected at line 1311
- []
-
 [69
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1324--1324
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1361--1361
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1324.
+Package pdftex.def Info: unibo-logo.png  used on input line 1361.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [70
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1344--1344
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1383--1383
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1344.
+Package pdftex.def Info: unibo-logo.png  used on input line 1383.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [71
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1360--1360
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1402--1402
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1360.
+Package pdftex.def Info: unibo-logo.png  used on input line 1402.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [72
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1373--1373
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1416--1416
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1373.
+Package pdftex.def Info: unibo-logo.png  used on input line 1416.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [73
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1391--1391
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1434--1434
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1391.
+Package pdftex.def Info: unibo-logo.png  used on input line 1434.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [74
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1403--1403
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1446--1446
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1403.
+Package pdftex.def Info: unibo-logo.png  used on input line 1446.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [75
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1422--1422
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1465--1465
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1422.
+Package pdftex.def Info: unibo-logo.png  used on input line 1465.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [76
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1430--1430
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1473--1473
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1430.
+Package pdftex.def Info: unibo-logo.png  used on input line 1473.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [77
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1443--1443
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1490--1490
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1443.
+Package pdftex.def Info: unibo-logo.png  used on input line 1490.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [78
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1458--1458
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1505--1505
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1458.
+Package pdftex.def Info: unibo-logo.png  used on input line 1505.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [79
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1469--1469
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1516--1516
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1469.
+Package pdftex.def Info: unibo-logo.png  used on input line 1516.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [80
 
 ]
-LaTeX Font Info:    Trying to load font information for U+euf on input line 148
-6.
+LaTeX Font Info:    Trying to load font information for U+euf on input line 153
+2.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/ueuf.fd
 File: ueuf.fd 2013/01/14 v3.01 Euler Fraktur
 )
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1486--1486
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1532--1532
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1486.
+Package pdftex.def Info: unibo-logo.png  used on input line 1532.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (26.89171pt too high) detected at line 1486
- []
-
 [81
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1501--1501
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1549--1549
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1501.
+Package pdftex.def Info: unibo-logo.png  used on input line 1549.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [82
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1517--1517
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1568--1568
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1517.
+Package pdftex.def Info: unibo-logo.png  used on input line 1568.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [83
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1535--1535
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1589--1589
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1535.
+Package pdftex.def Info: unibo-logo.png  used on input line 1589.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [84
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1552--1552
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1609--1609
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1552.
+Package pdftex.def Info: unibo-logo.png  used on input line 1609.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [85
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1569--1569
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1569.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[86
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1585--1585
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1585.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[87
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1611--1611
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1611.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[88
 
 ]
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 1628--1628
@@ -2756,155 +2671,112 @@ File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 1628.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[89
+[86
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1647--1647
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1646--1646
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1647.
+Package pdftex.def Info: unibo-logo.png  used on input line 1646.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[87
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1674--1674
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1674.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[88
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1694--1694
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1694.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[89
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1716--1716
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1716.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [90
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1669--1669
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1741--1741
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1669.
+Package pdftex.def Info: unibo-logo.png  used on input line 1741.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [91
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1689--1689
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1764--1764
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1689.
+Package pdftex.def Info: unibo-logo.png  used on input line 1764.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [92
 
 ]
-Overfull \hbox (25.66966pt too wide) detected at line 1714
+Overfull \hbox (25.66966pt too wide) detected at line 1792
 [] [] \OMS/cmsy/m/n/12 ^^T [] [] \OT1/cmr/m/n/12 = 0 \OMS/cmsy/m/n/12 ) [] [] \
 OT1/cmr/m/n/12 = 0
  []
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1714--1714
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1792--1792
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1714.
+Package pdftex.def Info: unibo-logo.png  used on input line 1792.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [93
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1729--1729
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1819--1819
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1729.
+Package pdftex.def Info: unibo-logo.png  used on input line 1819.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [94
 
 ]
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:17
-54: Undefined control sequence.
-\beamer@doifinframe ...frak {Dn} \xlongrightarrow 
-                                                  {d} N(0,\sigma ^2)$$ \par ...
-l.1754 \end{frame}
-                  
-? 
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1754--1754
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1847--1847
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1754.
+Package pdftex.def Info: unibo-logo.png  used on input line 1847.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [95
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1778--1778
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1778.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (7.98064pt too high) detected at line 1778
- []
-
-[96
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1801--1801
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1801.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[97
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1822--1822
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1822.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[98
-
-]
-Overfull \hbox (25.08444pt too wide) detected at line 1838
-\OT1/cmr/m/n/12 = [] (\OML/cmm/m/it/12 t \OT1/cmr/m/n/12 = 0) = [][] \OML/cmm/m
-/it/12 xe[]f[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it
-/12 dx \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 xf[]\OT1/cmr/m/n/12 (\OML/cmm/m/
-it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 dx \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 
-^^V[]
- []
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1838--1838
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1838.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[99
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1856--1856
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1856.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[100
 
 ]
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 1872--1872
@@ -2915,10 +2787,63 @@ File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 1872.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[101
+[96
 
 ]
-Overfull \hbox (31.48282pt too wide) detected at line 1890
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1896--1896
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1896.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[97
+
+]
+Overfull \hbox (25.08444pt too wide) detected at line 1915
+\OT1/cmr/m/n/12 = [] (\OML/cmm/m/it/12 t \OT1/cmr/m/n/12 = 0) = [][] \OML/cmm/m
+/it/12 xe[]f[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it
+/12 dx \OT1/cmr/m/n/12 = [][] \OML/cmm/m/it/12 xf[]\OT1/cmr/m/n/12 (\OML/cmm/m/
+it/12 x\OT1/cmr/m/n/12 )\OML/cmm/m/it/12 dx \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 
+^^V[]
+ []
+
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1915--1915
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1915.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[98
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1936--1936
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1936.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[99
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1955--1955
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1955.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[100
+
+]
+Overfull \hbox (31.48282pt too wide) detected at line 1976
 \OML/cmm/m/it/12 ^^[[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 E\OT1/cmr/m/n/12 (\OM
 L/cmm/m/it/12 X[]\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \OT1/cmr/m/n/12 (\OML/c
 mm/m/it/12 E\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 X\OT1/cmr/m/n/12 ))[] = [] (\OML/
@@ -2926,40 +2851,40 @@ cmm/m/it/12 t \OT1/cmr/m/n/12 = 0) \OMS/cmsy/m/n/12 ^^@ [][]
  []
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1890--1890
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1976--1976
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1890.
+Package pdftex.def Info: unibo-logo.png  used on input line 1976.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[101
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1998--1998
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1998.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [102
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1911--1911
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2019--2019
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1911.
+Package pdftex.def Info: unibo-logo.png  used on input line 2019.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [103
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1930--1930
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1930.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[104
-
-]
-Overfull \hbox (7.05716pt too wide) detected at line 1948
+Overfull \hbox (7.05716pt too wide) detected at line 2040
 \OML/cmm/m/it/12 M[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 ) = \OML
 /cmm/m/it/12 E\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 e[]\OT1/cmr/m/n/12 ) = \OML/cmm
 /m/it/12 E\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 e[]\OT1/cmr/m/n/12 ) = \OML/cmm/m/i
@@ -2968,173 +2893,141 @@ t/12 E\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 e[]e[]\OT1/cmr/m/n/12 ) = \OML/cmm/m/it
  []
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1948--1948
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2040--2040
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1948.
+Package pdftex.def Info: unibo-logo.png  used on input line 2040.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[104
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2058--2058
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2058.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [105
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1964--1964
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2078--2078
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1964.
+Package pdftex.def Info: unibo-logo.png  used on input line 2078.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (14.05762pt too high) detected at line 1964
- []
-
 [106
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1982--1982
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1982.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[107
-
-]
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:20
-05: Undefined control sequence.
-\beamer@doifinframe ...frak {Dn} \xlongrightarrow 
-                                                  {d} N(0,\sigma ^2)$$ \item...
-l.2005 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.tex:20
-05: Undefined control sequence.
-\beamer@doifinframe ...{\sigma } \xlongrightarrow 
-                                                  {d} N(0,1)$$ \item We can ...
-l.2005 \end{frame}
-                  
-? 
-
-Overfull \hbox (24.55879pt too wide) detected at line 2005
+Overfull \hbox (24.55879pt too wide) detected at line 2103
 [] \OT1/cmr/m/n/12 = []([] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 ^^V\OT1/cmr/m/
 n/12 ) = [] [] = [][] =
  []
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2005--2005
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2103--2103
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2005.
+Package pdftex.def Info: unibo-logo.png  used on input line 2103.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[107
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2123--2123
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2123.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [108
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2023--2023
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2148--2148
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2023.
+Package pdftex.def Info: unibo-logo.png  used on input line 2148.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [109
 
 ]
-
-LaTeX Warning: Reference `S:MomentOfSum' on page 110 undefined on input line 20
-46.
-
-
-LaTeX Warning: Reference `S:MomentOfLC' on page 110 undefined on input line 204
-6.
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2046--2046
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2169--2169
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2046.
+Package pdftex.def Info: unibo-logo.png  used on input line 2169.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-
-Overfull \vbox (9.29237pt too high) detected at line 2046
- []
-
 [110
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2065--2065
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2065.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[111
-
-]
-Overfull \hbox (2.1086pt too wide) detected at line 2086
+Overfull \hbox (2.1086pt too wide) detected at line 2192
 \OT1/cmr/m/n/12 = [] [] [] = [] [] []
  []
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2086--2086
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2192--2192
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2086.
+Package pdftex.def Info: unibo-logo.png  used on input line 2192.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[112
+[111
 
 ]
-Overfull \hbox (0.93152pt too wide) detected at line 2105
+Overfull \hbox (0.93152pt too wide) detected at line 2213
 [] [] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 M[]\OT1/cmr/m/n/12 (0) + 0 [] (0) =
  []
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2105--2105
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2213--2213
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2105.
+Package pdftex.def Info: unibo-logo.png  used on input line 2213.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[112
+
+]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2231--2231
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2231.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [113
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2121--2121
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2247--2247
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2121.
+Package pdftex.def Info: unibo-logo.png  used on input line 2247.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [114
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2136--2136
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2136.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[115
 
 ]
 \tf@nav=\write8
@@ -3151,29 +3044,22 @@ tware.snm'.
 
 
 (./P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSviluppoSoftware.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataSc
 ienceNelloSviluppoSoftware.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44709 strings out of 478994
- 1027563 string characters out of 5858184
- 1682937 words of memory out of 5000000
- 61034 multiletter control sequences out of 15000+600000
- 421226 words of font info for 95 fonts, out of 8000000 for 9000
+ 44771 strings out of 478994
+ 1029238 string characters out of 5858184
+ 1683762 words of memory out of 5000000
+ 61095 multiletter control sequences out of 15000+600000
+ 420022 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,16n,132p,767b,630s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 131i,16n,132p,767b,650s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pf
-b></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmitt10.pf
 b></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
@@ -3190,17 +3076,17 @@ exlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/tex
 live/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
 ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
-/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti7.pfb></usr/local/texlive/2
-021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/20
-21/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2021
-/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/local/texlive/20
-21/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/local/texlive/2
-021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/20
+21/texmf-dist/fonts/type1/public/amsfonts/euler/eufm10.pfb></usr/local/texlive/
+2021/texmf-dist/fonts/type1/public/amsfonts/euler/eufm7.pfb></usr/local/texlive
+/2021/texmf-dist/fonts/type1/public/amsfonts/latxfont/line10.pfb></usr/local/te
+xlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 Output written on P2023.AIBCCSS.L10.L11.L12.FondamentiDiDataScienceNelloSvilupp
-oSoftware.pdf (115 pages, 974806 bytes).
+oSoftware.pdf (114 pages, 952212 bytes).
 PDF statistics:
- 1046 PDF objects out of 1200 (max. 8388607)
- 822 compressed objects within 9 object streams
- 235 named destinations out of 1000 (max. 500000)
+ 1032 PDF objects out of 1200 (max. 8388607)
+ 810 compressed objects within 9 object streams
+ 233 named destinations out of 1000 (max. 500000)
  315 words of extra memory for PDF output out of 10000 (max. 10000000)
 

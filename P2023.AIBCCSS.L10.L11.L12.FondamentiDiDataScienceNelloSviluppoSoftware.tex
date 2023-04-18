@@ -999,7 +999,7 @@ Source : \url{https://www.geeksforgeeks.org/mathematics-covariance-and-correlati
 
 
 \begin{frame}
-{\centerline{About the covariance - 1}}
+{\centerline{About the covariance (1/2)}}
 
 \begin{itemize}
 \item We notice that:
@@ -1025,7 +1025,7 @@ QED.
 
 
 \begin{frame}
-{\centerline{About the covariance - 2}} \label{P:Covariance2}
+{\centerline{About the covariance (2/2)}} \label{P:Covariance2}
 
 \begin{itemize}
 \item The covariance is symmetric:
@@ -1522,7 +1522,7 @@ $$ r_{X,Y}   = \frac{Var(X)}{\sigma_X\sigma_Y} \theta_1  $$
 \item Each sample $i$ is composed by $\mathfrak{n_i}$ elements $e_{i,j}$ with $j \in [1\ldots{}\mathfrak{n_i}]$
 \item We can compute the set of the means of each sample $\mathfrak{S}_i$, $\mathfrak{m}_i$ with $i \in [1 \ldots{} n]$
 \item $\mathfrak{m}_i$ is a random variable, so we would like to know what is its structure
-\item There are two fundamental theorems about the distributions of such  $mathfrak{m}_i$, the Law of Large Numbers (LLN) and the Central Limit Theorem (CLT)
+\item There are two fundamental theorems about the distributions of such  $\mathfrak{m}_i$, the Law of Large Numbers (LLN) and the Central Limit Theorem (CLT)
 \item Since we are not making \textbf{any} assumption on the population  $\mathfrak{P}$, we ignore it and consider simply a sequence of random variables $x_i$.
 
 \end{itemize}
@@ -1777,8 +1777,8 @@ $$ \lim_{n \to \infty} \frac{\mathfrak{s_n^2}}{\epsilon^2}
 = 0$$
 \item Therefore:
 $$  \lim_{n \to \infty} \left ( \mathbb{P} ( |\overline{\mathfrak{Xn}} - \mu| \geq \epsilon) \right ) \leq  \lim_{n \to \infty} \frac{\mathfrak{s_n^2}}{\epsilon^2} = 0 
-\Rightarrow 
-\lim_{n \to \infty} \left ( \mathbb{P} ( |\overline{\mathfrak{Xn}} - \mu| \geq \epsilon) \right ) = 0 $$
+\Rightarrow $$
+$$ \Rightarrow \lim_{n \to \infty} \left ( \mathbb{P} ( |\overline{\mathfrak{Xn}} - \mu| \geq \epsilon) \right ) = 0 $$
 \end{itemize} 
 QED
 
@@ -1903,7 +1903,8 @@ Source with modifications: \url{https://onlinecourses.science.psu.edu/stat414/no
 $$ \left [ \frac{dM_X(t)}{dt} \right ] (t=0) = \mu_X(1) = \mu_X = E(X)$$
 Since:
 $$ \left [ \frac{dM_X(t)}{dt} \right ] (t=0) = \left [ \frac{d\int_S e^{tx}f_X(x)dx}{dt} \right ] (t=0) = $$
-$$ = \left [ \int_S xe^{tx}f_X(x)dx \right ] (t=0) = \int_S xe^{0x}f_X(x)dx=  \int_S xf_X(x)dx = \mu_X$$
+$$ = \left [ \int_S xe^{tx}f_X(x)dx \right ] (t=0) = \int_S xe^{0x}f_X(x)dx= $$
+$$= \int_S xf_X(x)dx = \mu_X$$
 
 \end{itemize}
 
@@ -1961,7 +1962,8 @@ Source with modifications: \url{https://onlinecourses.science.psu.edu/stat414/no
 
 \begin{itemize}
 \item Mgf and second moment:
-$$ \sigma_X^2 = E(X^2)-(E(X))^2 = \left [ \frac{d^2M_X(t)}{dt^2} \right ] (t=0) -  \left \{ \left [ \frac{dM_X(t)}{dt} \right ] (t=0) \right \}^2$$
+$$ \sigma_X^2 = E(X^2)-(E(X))^2 = $$
+$$ = \left [ \frac{d^2M_X(t)}{dt^2} \right ] (t=0) -  \left \{ \left [ \frac{dM_X(t)}{dt} \right ] (t=0) \right \}^2$$
 And if the mean is 0:
 $$ \sigma_X^2 =  \left [ \frac{d^2M_X(t)}{dt^2} \right ] (t=0) $$
 
@@ -2005,8 +2007,9 @@ $$M_Z(t) = \int_{-\infty}^{+ \infty} e^{zt} \frac{1}{\sqrt{2\pi}}e^{-\frac{1}{2}
 \int_{-\infty}^{+ \infty} \frac{1}{\sqrt{2\pi}} e^{zt-\frac{1}{2}z^2}dz =$$
 $$ = \int_{-\infty}^{+ \infty} \frac{1}{\sqrt{2\pi}} e^{\frac{1}{2}(2zt-z^2)}dz = \int_{-\infty}^{+ \infty} \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(z^2 - 2zt +t^2 - t^2)}dz =$$
 $$ = \int_{-\infty}^{+ \infty} \frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(z^2 - 2zt +t^2 )}e^{\frac{1}{2}t^2}dz
-= \int_{-\infty}^{+ \infty}\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(z - t )^2}e^{\frac{1}{2}t^2}dz$$
-$$ =  e^{\frac{1}{2}t^2} \int_{-\infty}^{+ \infty}\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(z - t )^2}dz = e^{\frac{1}{2}t^2} $$
+= \int_{-\infty}^{+ \infty}\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(z - t )^2}e^{\frac{1}{2}t^2}dz =$$
+$$ =  e^{\frac{1}{2}t^2} \int_{-\infty}^{+ \infty}\frac{1}{\sqrt{2\pi}} e^{-\frac{1}{2}(z - t )^2}dz = $$
+$$ = e^{\frac{1}{2}t^2} $$
 
 QED
 \end{itemize}
@@ -2063,8 +2066,8 @@ Source with modifications: \url{https://onlinecourses.science.psu.edu/stat414/no
 \item \textbf{Property 2: Moment of the LC} Let $Y = a + bX$ where  $X$ is a random variable and $a, b \in \mathbb{R}, b \neq 0$ then:
 $$M_Y(t) =  e^{at}M_{X}(bt)$$
 Proof:
-$$M_Y(t) =  E(e^{(a + bX)t}) = E(e^{at + bXt})= E(e^{at}e^{bXt}) = e^{at}E(e^{bXt})$$
-$$= e^{at}E(e^{btX}) = e^{at}M_{X}(bt) $$
+$$M_Y(t) =  E(e^{(a + bX)t}) = E(e^{at + bXt})= E(e^{at}e^{bXt}) = $$
+$$= e^{at}E(e^{bXt}) = e^{at}E(e^{btX}) = e^{at}M_{X}(bt) $$
 
 QED
 \item Corollary: the sum of randomly iid Gaussian r.v. is still Gaussian.
@@ -2089,8 +2092,8 @@ $$\mathfrak{Dn} \xrightarrow{d} N(0,\sigma^2)$$
 $$\frac{\mathfrak{Dn}}{\sigma} \xrightarrow{d} N(0,1)$$
 \item We can rewrite $\mathfrak{Dn}/\sigma$:
 $$\frac{\mathfrak{Dn}}{\textcolor{red}{\sigma}} = \frac{\sqrt{n}}{\textcolor{red}{\sigma}}(\overline{\mathfrak{Xn}}-\mu) = \frac{\sqrt{n}}{\textcolor{red}{\sigma}} \left [ \frac{\sum_{i=1}^{i=n}{\mathfrak{Xn}_i}}{n} - \mu \right ]
-= \frac{\sqrt{n}}{\textcolor{red}{\sigma}} \frac{\sum_{i=1}^{i=n}{\mathfrak{Xn}_i} -  n\mu}{n}  =$$
-$$
+= $$
+$$ = \frac{\sqrt{n}}{\textcolor{red}{\sigma}} \frac{\sum_{i=1}^{i=n}{\mathfrak{Xn}_i} -  n\mu}{n} 
 = \frac{\sum_{i=1}^{i=n}{\mathfrak{Xn}_i} -  n\mu}{\textcolor{red}{\sigma}\sqrt{n}} $$
 
 \end{itemize}
@@ -2239,7 +2242,6 @@ Source with modifications: \url{https://www.stat.berkeley.edu/~mlugo/stat134-f11
 \item This is an essential assumption to perform several numeric operations, like Montecarlo simulations, Bootstrap, etc.
 \item We can now understand the distribution of the Pearson momentum correlation coefficient of the sample
 \item Moreover, we have an open infinite issue on what to do if the data is NOT on a ratio scale
-\item This is an open issue for followup courses
 \end{itemize}
 
 

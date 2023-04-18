@@ -1400,7 +1400,8 @@ The original Kolmogorov statistics was defined as follows:
 \begin{itemize}
     \item Let $x_1 \ldots x_n$ be an \textbf{ordered} set of iid random variables
     \item We can then define the Kolmogorov statistics $D_{n}$ as:
-    $$D_{n} = max(x_1 - \frac{0}{n}, x_2 - \frac{1}{n}, \ldots, x_n - \frac{n-1}{n}, \frac{1}{n} - x_1, \frac{2}{n} - x_2, \ldots, \frac{n}{n} - x_n )$$
+    $$D_{n} = max(x_1 - \frac{0}{n}, x_2 - \frac{1}{n}, \ldots, x_n - \frac{n-1}{n}, $$
+    $$ \frac{1}{n} - x_1, \frac{2}{n} - x_2, \ldots, \frac{n}{n} - x_n )$$
 
 \end{itemize}
 
@@ -1433,26 +1434,26 @@ The original Kolmogorov statistics was defined as follows:
 
 \begin{center}
 \begin{tabular}{|c|c|c|c|c|c|c|}
-	\hline
+	\toprule
 	i & $od_i$ & $\frac{i-1}{n}$ & $\frac{i}{n}$ & $X_{i:n}$ & $|X_{i:n} - \frac{i-1}{n} |$ & $|\frac{i}{n} - X_{i:n}|$\\
-	\hline
+	\midrule
 	1 & 0.26 & 0 & 0.125 & 0.13 & 0.13 & 0.05\\
-	\hline
+	\midrule
 	2 & 0.33 & 0.125 & 0.25 & 0.65 & 0.04 & 0.085\\
-	\hline
+	\midrule
 	3 & 0.55 & 0.250 & 0.375 & 0.275 & 0.025 & 0.1\\
-	\hline
+	\midrule
 	4 & 0.77 & 0.375 & 0.5 & 0.385 & 0.01 & 0.115\\
-	\hline
+	\midrule
 	5 & 1.18 & 0.5 & 0.625 & 0.590 & 0.09 & 0.035\\
-	\hline
+	\midrule
 	6 & 1.41 & 0.625 & 0.75 & 0.705 & 0.08 & 0.045\\
-	\hline
+	\midrule
 	7 & 1.46 & 0.75 & 0.875 & 0.730 & 0.02 & \textcolor{red}{\bf 0.145}\\
-	\hline
+	\midrule
 	8 & 1.97 & 0.875 & 1 & 0.985 & 0.09 & 0.015\\
 
-	\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -1501,27 +1502,27 @@ The original Kolmogorov statistics was defined as follows:
 
 \begin{center}
 \begin{tabular}{|c|c|c|c|c|c|c|}
-	\hline
+	\toprule
 	i & $od_i$ & $\frac{i-1}{n}$ & $\frac{i}{n}$ & $X_{i:n}$ & $|X_{i:n} - \frac{i-1}{n} |$ & $|\frac{i}{n} - X_{i:n}|$\\
-	\hline
+	\midrule
 	1 & 105 & - & - & 0.0668 & - & -\\
-	\hline
+	\midrule
 	2 & 108 & - & - & 0.1151 & - & -\\
-	\hline
+	\midrule
 	3 & 111 & - & - & 0.1841 & - & -\\
-	\hline
+	\midrule
 	4 & 112 & - & - & 0.2119 & - & -\\
-	\hline
+	\midrule
 	5 & 113 & - & - & 0.2420 & - & -\\
-	\hline
+	\midrule
 	6 & 117 & - & - & 0.3821 & - & -\\
-	\hline
+	\midrule
 	7 & 128 & - & - & 0.7881 & - & -\\
-	\hline
+	\midrule
 	8 & 130 & - & - & 0.8413 & - & -\\
-	\hline
+	\midrule
 	9 & 131 & - & - & 0.8643 & - & -\\
-	\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -1548,27 +1549,27 @@ The original Kolmogorov statistics was defined as follows:
 
 \begin{center}
 \begin{tabular}{|c|c|c|c|c|c|c|}
-	\hline
+	\toprule
 	i & $od_i$ & $\frac{i-1}{n}$ & $\frac{i}{n}$ & $X_{i:n}$ & $|X_{i:n} - \frac{i-1}{n} |$ & $|\frac{i}{n} - X_{i:n}|$\\
-	\hline
+	\midrule
 	1 & 105 & 0 & 0.1111 & 0.0668 & 0.0668 & 0.0443\\
-	\hline
+	\midrule
 	2 & 108 & 0.1111 & 0.2222 & 0.1151 & 0.00399 & 0.1071\\
-	\hline
+	\midrule
 	3 & 111 & 0.2222 & 0.3333 & 0.1841 & 0.0381 & 0.1492\\
-	\hline
+	\midrule
 	4 & 112 & 0.3333 & 0.4444 & 0.2119 & 0.1214 & 0.2325\\
-	\hline
+	\midrule
 	5 & 113 & 0.4444 & 0.5555 & 0.2420 & 0.2024 & \textcolor{red}{\bf 0.3136}\\
-	\hline
+	\midrule
 	6 & 117 & 0.5555 & 0.6667 & 0.3821 & 0.1734 & 0.2846\\
-	\hline
+	\midrule
 	7 & 128 & 0.6667 & 0.7778 & 0.7881 & 0.1214 & 0.0103 \\
-	\hline
+	\midrule
 	8 & 130 & 0.7778 & 0.8889 & 0.8413 & 0.0635 & 0.0476\\
-	\hline
+	\midrule
 	9 & 131 & 0.8889 & 1 & 0.8643 & 0.0246 & 0.1357\\
-	\hline
+	\bottomrule
 \end{tabular}
 \end{center}
 
@@ -1678,12 +1679,11 @@ Remember that
 \begin{itemize}
 \item The above reasoning lead us to:
 $$\lim_{n \to \infty}^{d} \frac{n \left [\widehat {F}_{n} (x) - F(x) \right ]}{\sqrt{nF(x)\left [ 1 - F(x) \right ]}} = N(0,1)$$
-\item Since we also know that:
-$$ \lim_{n \to \infty}^{d}  = F(x) $$
-\item we conclude:
+\item Since we also know the \textcolor{red}{following}, we can conclude:
+$$ \textcolor{red}{\lim_{n \to \infty}^{d}  = F(x)} $$
  $$\lim_{n \to \infty}^{d} \frac{n \left [\widehat {F}_{n} (x) - F(x) \right ]}{\sqrt{n\widehat {F}_{n}(x)\left [ 1 - \widehat {F}_{n}(x) \right ]}} = 
- \lim_{n \to \infty}^{d} \frac{\sqrt{n} \left [\widehat {F}_{n} (x) - F(x) \right ]}{\sqrt{\widehat {F}_{n}(x)\left [ 1 - \widehat {F}_{n}(x) \right ]}} = 
- N(0,1)$$
+ \lim_{n \to \infty}^{d} \frac{\sqrt{n} \left [\widehat {F}_{n} (x) - F(x) \right ]}{\sqrt{\widehat {F}_{n}(x)\left [ 1 - \widehat {F}_{n}(x) \right ]}} = $$
+$$= N(0,1)$$
 
 
 \end{itemize}
@@ -1695,14 +1695,28 @@ $$ \lim_{n \to \infty}^{d}  = F(x) $$
 \end{frame}
 
 \begin{frame}
-{\centerline{Confidence interval}}
+{\centerline{Confidence interval (1/2)}}
 
 \begin{itemize}
 \item Remember that for $X=N(\mu,\sigma^2)$ we can compute the confidence interval as:
 $$ ( \mu - \hat{z} \frac{\sigma}{\sqrt{n}},  \mu +  \hat{z} \frac{\sigma}{\sqrt{n}} )$$
 Where $ \hat{z}$ is the value of the standard normal distribution for the desired confidence interval
+
+\end{itemize}
+
+\begin{center}
+\tiny{Taken with modifications from: Davar Khoshnevisan, \textit{Empirical Processes, and the Kolmogorov–Smirnov Statistic}, Lectured notes of Math 6070, Spring 2014, University of Utah, \url{https://www.math.utah.edu/~davar/math6070/2014/Kolmogorov-Smirnov.pdf}}
+\end{center}
+
+\end{frame}
+
+\begin{frame}
+{\centerline{Confidence interval (2/2)}}
+
+\begin{itemize}
 \item Therefore, the asymptotic $(1 - \alpha)$ confidence interval for $\widehat {F}_{n}$ is:
-$$ ( \widehat {F}_{n} (x)  - z_{\alpha/2} \sqrt{\frac{\widehat {F}_{n} (x) \left [ 1 - \widehat {F}_{n} (x) \right ]}{n}},  \widehat {F}_{n} (x) +  z_{\alpha/2} \sqrt{\frac{\widehat {F}_{n} (x) \left [ 1 - \widehat {F}_{n} (x) \right ]}{n}} ) $$
+$$ ( \widehat {F}_{n} (x)  - z_{\alpha/2} \sqrt{\frac{\widehat {F}_{n} (x) \left [ 1 - \widehat {F}_{n} (x) \right ]}{n}}, $$
+$$ \widehat {F}_{n} (x) +  z_{\alpha/2} \sqrt{\frac{\widehat {F}_{n} (x) \left [ 1 - \widehat {F}_{n} (x) \right ]}{n}} ) $$
 
 \end{itemize}
 
@@ -1714,8 +1728,9 @@ $$ ( \widehat {F}_{n} (x)  - z_{\alpha/2} \sqrt{\frac{\widehat {F}_{n} (x) \left
 
 
 
+
 \begin{frame}
-{\centerline{Kolmogorov distribution (2/2)}}
+{\centerline{Kolmogorov distribution}}
 
 CDF of Kolmogorov distribution:
 $$F_X(x) =

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  18 APR 2023 17:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  18 APR 2023 17:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -2481,210 +2481,35 @@ Package pdftex.def Info: unibo-logo.png  used on input line 1394.
 [68
 
 ]
-Overfull \hbox (14.91643pt too wide) detected at line 1412
-\OML/cmm/m/it/12 D[] \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 max\OT1/cmr/m/n/12 (\OM
-L/cmm/m/it/12 x[] \OMS/cmsy/m/n/12 ^^@ []\OML/cmm/m/it/12 ; x[] \OMS/cmsy/m/n/1
-2 ^^@ []\OML/cmm/m/it/12 ; [] ; x[] \OMS/cmsy/m/n/12 ^^@ []\OML/cmm/m/it/12 ; [
-] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 x[]; [] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m
-/it/12 x[]; [] ; [] \OMS/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 x[]\OT1/cmr/m/n/12 )
- []
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1412--1412
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1413--1413
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1412.
+Package pdftex.def Info: unibo-logo.png  used on input line 1413.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [69
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1429--1429
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1430--1430
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1429.
+Package pdftex.def Info: unibo-logo.png  used on input line 1430.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [70
 
 ]
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-\adl@hline ...mpcnta \xdef \adl@rowsL {\adl@rowsL 
-                                                  (#1/\number \@tempcnta );}...
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-\adl@hline ...nta );}\xdef \adl@rowsR {\adl@rowsR 
-                                                  (#1/\number \@tempcnta );}
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? 
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-? s
-OK, entering \scrollmode...
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1462: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1462 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1462--1462
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1463--1463
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1462.
+Package pdftex.def Info: unibo-logo.png  used on input line 1463.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [71
 
@@ -2695,303 +2520,38 @@ File: P2023.AIBCCSS.InferenceAndLogisticRegression/TableKS.png Graphic file (ty
 pe png)
 <use P2023.AIBCCSS.InferenceAndLogisticRegression/TableKS.png>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/TableKS.p
-ng  used on input line 1476.
+ng  used on input line 1477.
 (pdftex.def)             Requested size: 256.0748pt x 146.63762pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1476--1476
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1477--1477
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1476.
+Package pdftex.def Info: unibo-logo.png  used on input line 1477.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [72
 
  <./P2023.AIBCCSS.InferenceAndLogisticRegression/TableKS.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1495--1495
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1496--1496
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1495.
+Package pdftex.def Info: unibo-logo.png  used on input line 1496.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [73
 
 ]
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1531: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1531 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1531--1531
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1532--1532
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1531.
+Package pdftex.def Info: unibo-logo.png  used on input line 1532.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [74
 
@@ -3002,325 +2562,60 @@ File: P2023.AIBCCSS.InferenceAndLogisticRegression/one-sample-ks-table.png Grap
 hic file (type png)
 <use P2023.AIBCCSS.InferenceAndLogisticRegression/one-sample-ks-table.png>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/one-sampl
-e-ks-table.png  used on input line 1543.
+e-ks-table.png  used on input line 1544.
 (pdftex.def)             Requested size: 142.26378pt x 167.45114pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1543--1543
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1544--1544
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1543.
+Package pdftex.def Info: unibo-logo.png  used on input line 1544.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [75
 
  <./P2023.AIBCCSS.InferenceAndLogisticRegression/one-sample-ks-table.png>]
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-./P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLogisticRegression.
-tex:1578: Undefined control sequence.
-<argument> \adl@connect 
-                        
-l.1578 \end{frame}
-                  
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1578--1578
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1579--1579
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1578.
+Package pdftex.def Info: unibo-logo.png  used on input line 1579.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [76
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1595--1595
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1596--1596
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1595.
+Package pdftex.def Info: unibo-logo.png  used on input line 1596.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [77
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1611--1611
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1612--1612
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1611.
+Package pdftex.def Info: unibo-logo.png  used on input line 1612.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [78
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1631--1631
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1632--1632
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1631.
+Package pdftex.def Info: unibo-logo.png  used on input line 1632.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [79
 
@@ -3332,38 +2627,32 @@ png Graphic file (type png)
 <use P2023.AIBCCSS.InferenceAndLogisticRegression/500px-Binomial_Distribution.p
 ng>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/500px-Bin
-omial_Distribution.png  used on input line 1647.
+omial_Distribution.png  used on input line 1648.
 (pdftex.def)             Requested size: 156.49014pt x 149.29236pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1647--1647
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1648--1648
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1647.
+Package pdftex.def Info: unibo-logo.png  used on input line 1648.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [80
 
  <./P2023.AIBCCSS.InferenceAndLogisticRegression/500px-Binomial_Distribution.pn
 g>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1673--1673
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1674--1674
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1673.
+Package pdftex.def Info: unibo-logo.png  used on input line 1674.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [81
 
 ]
-Overfull \hbox (16.22742pt too wide) detected at line 1695
-[] [] \OT1/cmr/m/n/12 = [] [] = \OML/cmm/m/it/12 N\OT1/cmr/m/n/12 (0\OML/cmm/m/
-it/12 ; \OT1/cmr/m/n/12 1)
- []
-
-
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 1695--1695
  []|[]|  
  []
@@ -3372,34 +2661,31 @@ File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
 Package pdftex.def Info: unibo-logo.png  used on input line 1695.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+
+Overfull \vbox (2.0277pt too high) detected at line 1695
+ []
+
 [82
 
 ]
-Overfull \hbox (24.67517pt too wide) detected at line 1713
-\OT1/cmr/m/n/12 ([](\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 ^^@ \O
-ML/cmm/m/it/12 z[][]; []\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 x\OT1/cmr/m/n/12 ) + 
-\OML/cmm/m/it/12 z[][]\OT1/cmr/m/n/12 )
- []
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1713--1713
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1711--1711
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1713.
+Package pdftex.def Info: unibo-logo.png  used on input line 1711.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [83
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1734--1734
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1727--1727
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1734.
+Package pdftex.def Info: unibo-logo.png  used on input line 1727.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [84
 
@@ -3415,194 +2701,205 @@ Package pdftex.def Info: unibo-logo.png  used on input line 1749.
 [85
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1762--1762
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1764--1764
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1762.
+Package pdftex.def Info: unibo-logo.png  used on input line 1764.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [86
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1785--1785
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1777--1777
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1785.
+Package pdftex.def Info: unibo-logo.png  used on input line 1777.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [87
 
 ]
-<P2023.AIBCCSS.InferenceAndLogisticRegression/kst.png, id=725, 451.6875pt x 336
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1800--1800
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1800.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[88
+
+]
+<P2023.AIBCCSS.InferenceAndLogisticRegression/kst.png, id=732, 451.6875pt x 336
 .25626pt>
 File: P2023.AIBCCSS.InferenceAndLogisticRegression/kst.png Graphic file (type p
 ng)
 <use P2023.AIBCCSS.InferenceAndLogisticRegression/kst.png>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/kst.png  
-used on input line 1798.
+used on input line 1813.
 (pdftex.def)             Requested size: 227.62204pt x 169.4566pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1798--1798
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1813--1813
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1798.
+Package pdftex.def Info: unibo-logo.png  used on input line 1813.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[88
+[89
 
  <./P2023.AIBCCSS.InferenceAndLogisticRegression/kst.png>]
-<P2023.AIBCCSS.InferenceAndLogisticRegression/KS_Example.png, id=733, 279.444pt
+<P2023.AIBCCSS.InferenceAndLogisticRegression/KS_Example.png, id=740, 279.444pt
  x 230.3004pt>
 File: P2023.AIBCCSS.InferenceAndLogisticRegression/KS_Example.png Graphic file 
 (type png)
 <use P2023.AIBCCSS.InferenceAndLogisticRegression/KS_Example.png>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/KS_Exampl
-e.png  used on input line 1808.
+e.png  used on input line 1823.
 (pdftex.def)             Requested size: 227.62204pt x 187.59302pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1808--1808
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1823--1823
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1808.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[89
-
- <./P2023.AIBCCSS.InferenceAndLogisticRegression/KS_Example.png>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1821--1821
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1821.
+Package pdftex.def Info: unibo-logo.png  used on input line 1823.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [90
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1839--1839
+ <./P2023.AIBCCSS.InferenceAndLogisticRegression/KS_Example.png>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1836--1836
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1839.
+Package pdftex.def Info: unibo-logo.png  used on input line 1836.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [91
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1850--1850
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1854--1854
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1850.
+Package pdftex.def Info: unibo-logo.png  used on input line 1854.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [92
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1862--1862
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1865--1865
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1862.
+Package pdftex.def Info: unibo-logo.png  used on input line 1865.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [93
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1881--1881
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1877--1877
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1881.
+Package pdftex.def Info: unibo-logo.png  used on input line 1877.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [94
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1902--1902
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1896--1896
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1902.
+Package pdftex.def Info: unibo-logo.png  used on input line 1896.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [95
 
 ]
-<P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig4.png, id=781, 
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1917--1917
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 1917.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[96
+
+]
+<P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig4.png, id=788, 
 602.25pt x 570.13pt>
 File: P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig4.png Grap
 hic file (type png)
 <use P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig4.png>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spe
-arman_fig4.png  used on input line 1918.
+arman_fig4.png  used on input line 1933.
 (pdftex.def)             Requested size: 154.03183pt x 145.81184pt.
-<P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig5.png, id=782, 
+<P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig5.png, id=789, 
 602.25pt x 570.13pt>
 File: P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig5.png Grap
 hic file (type png)
 <use P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig5.png>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spe
-arman_fig5.png  used on input line 1918.
+arman_fig5.png  used on input line 1933.
 (pdftex.def)             Requested size: 154.03183pt x 145.81184pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1918--1918
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1933--1933
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1918.
+Package pdftex.def Info: unibo-logo.png  used on input line 1933.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[96
+[97
 
  <./P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig4.png> <./P2
 023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig5.png>]
-<P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig1.png, id=790, 
+<P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig1.png, id=798, 
 602.25pt x 570.13pt>
 File: P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig1.png Grap
 hic file (type png)
 <use P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig1.png>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spe
-arman_fig1.png  used on input line 1936.
+arman_fig1.png  used on input line 1951.
 (pdftex.def)             Requested size: 162.59235pt x 153.91975pt.
-<P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig3.png, id=791, 
+<P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig3.png, id=799, 
 602.25pt x 570.13pt>
 File: P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig3.png Grap
 hic file (type png)
 <use P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig3.png>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spe
-arman_fig3.png  used on input line 1936.
+arman_fig3.png  used on input line 1951.
 (pdftex.def)             Requested size: 162.59235pt x 153.91975pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1936--1936
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1951--1951
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1936.
+Package pdftex.def Info: unibo-logo.png  used on input line 1951.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[97
+[98
 
  <./P2023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig1.png> <./P2
 023.AIBCCSS.InferenceAndLogisticRegression/600px-Spearman_fig3.png>]
 <P2023.AIBCCSS.InferenceAndLogisticRegression/Examples-of-Pearson-and-Spearman-
-correlations-In-each-subplot-r-is-Pearson-correlation.jpeg, id=800, 846.16125pt
+correlations-In-each-subplot-r-is-Pearson-correlation.jpeg, id=807, 846.16125pt
  x 568.1225pt>
 File: P2023.AIBCCSS.InferenceAndLogisticRegression/Examples-of-Pearson-and-Spea
 rman-correlations-In-each-subplot-r-is-Pearson-correlation.jpeg Graphic file (t
@@ -3611,50 +2908,39 @@ ype jpg)
 man-correlations-In-each-subplot-r-is-Pearson-correlation.jpeg>
 Package pdftex.def Info: P2023.AIBCCSS.InferenceAndLogisticRegression/Examples-
 of-Pearson-and-Spearman-correlations-In-each-subplot-r-is-Pearson-correlation.j
-peg  used on input line 1949.
+peg  used on input line 1964.
 (pdftex.def)             Requested size: 239.60567pt x 160.86766pt.
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1949--1949
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1964--1964
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1949.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[98
-
- <./P2023.AIBCCSS.InferenceAndLogisticRegression/Examples-of-Pearson-and-Spearm
-an-correlations-In-each-subplot-r-is-Pearson-correlation.jpeg>]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1970--1970
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1970.
+Package pdftex.def Info: unibo-logo.png  used on input line 1964.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [99
 
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 1988--1988
+ <./P2023.AIBCCSS.InferenceAndLogisticRegression/Examples-of-Pearson-and-Spearm
+an-correlations-In-each-subplot-r-is-Pearson-correlation.jpeg>]
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 1985--1985
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 1988.
+Package pdftex.def Info: unibo-logo.png  used on input line 1985.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [100
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2006--2006
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2003--2003
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2006.
+Package pdftex.def Info: unibo-logo.png  used on input line 2003.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [101
 
@@ -3670,46 +2956,46 @@ Package pdftex.def Info: unibo-logo.png  used on input line 2021.
 [102
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2042--2042
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2036--2036
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2042.
+Package pdftex.def Info: unibo-logo.png  used on input line 2036.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [103
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2055--2055
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2057--2057
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2055.
+Package pdftex.def Info: unibo-logo.png  used on input line 2057.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [104
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2063--2063
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2070--2070
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2063.
+Package pdftex.def Info: unibo-logo.png  used on input line 2070.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [105
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2077--2077
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2078--2078
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2077.
+Package pdftex.def Info: unibo-logo.png  used on input line 2078.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [106
 
@@ -3725,106 +3011,117 @@ Package pdftex.def Info: unibo-logo.png  used on input line 2092.
 [107
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2104--2104
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2107--2107
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2104.
+Package pdftex.def Info: unibo-logo.png  used on input line 2107.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [108
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2110--2110
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2119--2119
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2110.
+Package pdftex.def Info: unibo-logo.png  used on input line 2119.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [109
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2130--2130
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2125--2125
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2130.
+Package pdftex.def Info: unibo-logo.png  used on input line 2125.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [110
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2150--2150
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2145--2145
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2150.
+Package pdftex.def Info: unibo-logo.png  used on input line 2145.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [111
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2168--2168
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2165--2165
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2168.
+Package pdftex.def Info: unibo-logo.png  used on input line 2165.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [112
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2187--2187
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2183--2183
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2187.
+Package pdftex.def Info: unibo-logo.png  used on input line 2183.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [113
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2204--2204
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2202--2202
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2204.
+Package pdftex.def Info: unibo-logo.png  used on input line 2202.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [114
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2214--2214
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2219--2219
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2214.
+Package pdftex.def Info: unibo-logo.png  used on input line 2219.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [115
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2234--2234
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2229--2229
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2234.
+Package pdftex.def Info: unibo-logo.png  used on input line 2229.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [116
 
 ]
-Overfull \hbox (10.62596pt too wide) detected at line 2252
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2249--2249
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2249.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[117
+
+]
+Overfull \hbox (10.62596pt too wide) detected at line 2267
 []\OT1/cmr/m/n/10.95 ([] \OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 (\OML/cmm/m/it
 /10.95 y[]\OMS/cmsy/m/n/10.95 j\OML/cmm/m/it/10.95 ^^[; ^^R\OT1/cmr/m/n/10.95 )
 ) = []([] \OML/cmm/m/it/10.95 P\OT1/cmr/m/n/10.95 (\OML/cmm/m/it/10.95 y[]\OMS/
@@ -3833,118 +3130,107 @@ ML/cmm/m/it/10.95 e[]\OT1/cmr/m/n/10.95 ) =
  []
 
 
-Overfull \hbox (5.15244pt too wide) detected at line 2252
+Overfull \hbox (5.15244pt too wide) detected at line 2267
 \OT1/cmr/m/n/10.95 = [] []([])[] [] \OML/cmm/m/it/10.95 e[][]\OT1/cmr/m/n/10.95
  ) = [] []([])[]\OML/cmm/m/it/10.95 e[]\OT1/cmr/m/n/10.95 ) =
  []
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2252--2252
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2267--2267
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2252.
-(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[117
-
-]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2269--2269
- []|[]|  
- []
-
-File: unibo-logo.png Graphic file (type png)
-<use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2269.
+Package pdftex.def Info: unibo-logo.png  used on input line 2267.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [118
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2283--2283
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2284--2284
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2283.
+Package pdftex.def Info: unibo-logo.png  used on input line 2284.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [119
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2302--2302
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2298--2298
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2302.
+Package pdftex.def Info: unibo-logo.png  used on input line 2298.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [120
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2321--2321
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2317--2317
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2321.
+Package pdftex.def Info: unibo-logo.png  used on input line 2317.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [121
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2337--2337
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2336--2336
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2337.
+Package pdftex.def Info: unibo-logo.png  used on input line 2336.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [122
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2351--2351
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2352--2352
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2351.
+Package pdftex.def Info: unibo-logo.png  used on input line 2352.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [123
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2365--2365
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2366--2366
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2365.
+Package pdftex.def Info: unibo-logo.png  used on input line 2366.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [124
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2379--2379
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2380--2380
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2379.
+Package pdftex.def Info: unibo-logo.png  used on input line 2380.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [125
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2399--2399
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2394--2394
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2399.
+Package pdftex.def Info: unibo-logo.png  used on input line 2394.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [126
 
@@ -3960,93 +3246,93 @@ Package pdftex.def Info: unibo-logo.png  used on input line 2414.
 [127
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2431--2431
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2429--2429
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2431.
+Package pdftex.def Info: unibo-logo.png  used on input line 2429.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [128
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2445--2445
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2446--2446
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2445.
+Package pdftex.def Info: unibo-logo.png  used on input line 2446.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [129
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2459--2459
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2460--2460
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2459.
+Package pdftex.def Info: unibo-logo.png  used on input line 2460.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [130
 
 ]
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2472.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 247
-2.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2472.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 247
-2.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2472.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 247
-2.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2472.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 247
-2.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2472.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 247
-2.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2472.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 247
-2.
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2472--2472
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2474--2474
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2472.
+Package pdftex.def Info: unibo-logo.png  used on input line 2474.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [131
 
 ]
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2487.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 248
+7.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2487.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 248
+7.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2487.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 248
+7.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2487.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 248
+7.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2487.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 248
+7.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2487.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 248
+7.
+
+
 Overfull \hbox (17.07181pt too wide) in paragraph at lines 2487--2487
  []|[]|  
  []
@@ -4058,35 +3344,35 @@ Package pdftex.def Info: unibo-logo.png  used on input line 2487.
 [132
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2503--2503
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2502--2502
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2503.
+Package pdftex.def Info: unibo-logo.png  used on input line 2502.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [133
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2519--2519
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2518--2518
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2519.
+Package pdftex.def Info: unibo-logo.png  used on input line 2518.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [134
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2542--2542
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2534--2534
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2542.
+Package pdftex.def Info: unibo-logo.png  used on input line 2534.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [135
 
@@ -4102,88 +3388,99 @@ Package pdftex.def Info: unibo-logo.png  used on input line 2557.
 [136
 
 ]
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2575.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 257
-5.
-
-
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2575.
-
-
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 257
-5.
-
-
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2575--2575
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2572--2572
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2575.
+Package pdftex.def Info: unibo-logo.png  used on input line 2572.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [137
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2592--2592
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2590.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 259
+0.
+
+
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2590.
+
+
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 259
+0.
+
+
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2590--2590
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2592.
+Package pdftex.def Info: unibo-logo.png  used on input line 2590.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [138
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2608--2608
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2607--2607
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2608.
+Package pdftex.def Info: unibo-logo.png  used on input line 2607.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [139
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2620--2620
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2623--2623
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2620.
+Package pdftex.def Info: unibo-logo.png  used on input line 2623.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [140
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2634--2634
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2635--2635
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2634.
+Package pdftex.def Info: unibo-logo.png  used on input line 2635.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [141
 
 ]
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2650--2650
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2649--2649
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2650.
+Package pdftex.def Info: unibo-logo.png  used on input line 2649.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
 [142
 
 ]
-Overfull \hbox (1.89665pt too wide) detected at line 2670
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2665--2665
+ []|[]|  
+ []
+
+File: unibo-logo.png Graphic file (type png)
+<use unibo-logo.png>
+Package pdftex.def Info: unibo-logo.png  used on input line 2665.
+(pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
+[143
+
+]
+Overfull \hbox (1.89665pt too wide) detected at line 2685
 \OT1/cmr/m/n/10.95 = \OMS/cmsy/m/n/10.95 ^^@ [] \OML/cmm/m/it/10.95 y[] \OMS/cm
 sy/m/n/10.95 ^^B \OML/cmm/m/it/10.95 log [] \OT1/cmr/m/n/10.95 + [](1 \OMS/cmsy
 /m/n/10.95 ^^@ \OML/cmm/m/it/10.95 y[]\OT1/cmr/m/n/10.95 ) \OMS/cmsy/m/n/10.95 
@@ -4191,41 +3488,41 @@ sy/m/n/10.95 ^^B \OML/cmm/m/it/10.95 log [] \OT1/cmr/m/n/10.95 + [](1 \OMS/cmsy
  []
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2670--2670
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2685--2685
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2670.
+Package pdftex.def Info: unibo-logo.png  used on input line 2685.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[143
+[144
 
 ]
 
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2690.
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2705.
 
 
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 269
-0.
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 270
+5.
 
 
-LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2690.
+LaTeX Font Warning: Command \boldmath invalid in math mode on input line 2705.
 
 
-LaTeX Font Warning: Command \mathversion invalid in math mode on input line 269
-0.
+LaTeX Font Warning: Command \mathversion invalid in math mode on input line 270
+5.
 
 
-Overfull \hbox (17.07181pt too wide) in paragraph at lines 2690--2690
+Overfull \hbox (17.07181pt too wide) in paragraph at lines 2705--2705
  []|[]|  
  []
 
 File: unibo-logo.png Graphic file (type png)
 <use unibo-logo.png>
-Package pdftex.def Info: unibo-logo.png  used on input line 2690.
+Package pdftex.def Info: unibo-logo.png  used on input line 2705.
 (pdftex.def)             Requested size: 25.6073pt x 25.59604pt.
-[144
+[145
 
 ]
 \tf@nav=\write8
@@ -4248,10 +3545,10 @@ cApproachesAndLogisticRegression.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 44924 strings out of 478994
- 1034036 string characters out of 5858184
+ 44928 strings out of 478994
+ 1034075 string characters out of 5858184
  1683780 words of memory out of 5000000
- 61173 multiletter control sequences out of 15000+600000
+ 61175 multiletter control sequences out of 15000+600000
  423068 words of font info for 101 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,16n,132p,773b,630s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -4289,10 +3586,10 @@ e/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/
 2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texl
 ive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
 Output written on P2023.AIBCCSS.L13.L14.InferencesNonParametricApproachesAndLog
-isticRegression.pdf (144 pages, 2021251 bytes).
+isticRegression.pdf (145 pages, 2022523 bytes).
 PDF statistics:
- 1277 PDF objects out of 1440 (max. 8388607)
- 1012 compressed objects within 11 object streams
- 292 named destinations out of 1000 (max. 500000)
+ 1286 PDF objects out of 1440 (max. 8388607)
+ 1020 compressed objects within 11 object streams
+ 294 named destinations out of 1000 (max. 500000)
  350 words of extra memory for PDF output out of 10000 (max. 10000000)
 
